@@ -1,0 +1,17 @@
+﻿This file contains description under-rides for mods.
+That is, it contains descriptions for mods that will be applied if that mod has no description set in its ini file.
+
+buildkeys=Binds build bar items to hotkeys, configurable via "game settings" - "keyboard"
+modbatch=Queue 100 with shift instead of 5
+selectionpreview=Display a little image of the currently selected building
+rChatPlayerColour=Changes the colour of player names in the in-game chat to match their team colour
+rCommanderHP=Adds a display to the UI that tracks your commander's health at all times
+rUnitInfo=Adds a button over each build icon that displays that unit's statistics (unit statistics by yarmond)
+rModsList=Adds a "Mods" button to the main menu which shows a list of currently enabled mods
+dReminderTimer=Provides customisable periodic reminders
+ProfilePicFixer=A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. (See forum link for setup instructions)
+hotbuild=Allows mapping of cycle-type hotkeys just like it was possible with the same mod in FA. Also adds a few extra hotkeys
+pa_stats_pamm=Gathers data of your gameplay and makes it visible on <a href='http://www.nanodesu.info/pastats'>http://www.nanodesu.info/pastats</a>
+dBetterSystemView=Always show the system view and adds mex count for each planet
+dMexCount=Shows a count of your mex and energy generators
+dTimer=Shows the current game time

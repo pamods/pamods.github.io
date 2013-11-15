@@ -14,9 +14,10 @@ Download={{{Url}}}
 {{#Description}}
 Description={{{Description}}}
 {{/Description}}
-Icon=http://pa.raevn.com/icons/generic.png
+Icon={{{IconUrl}}}
 Category={{{Category}}}
 Version={{{Version}}}
 Build={{{Build}}}
+Date={{{DateString}}}
 
 {{/mods}}
