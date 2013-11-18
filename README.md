@@ -21,8 +21,8 @@ Then when the PR is accepted, we'll run the tool to regenerate modlist.ini and y
 
 ### Help! I don't know git
 
-Create a github account on https://github.com/
-Download github for windows http://github-windows.s3.amazonaws.com/GitHubSetup.exe
-Set it up.
-Clone this repository using the url: https://github.com/pamods/pamods.github.io.git (You will need to fork it if you are not a member)
-Make changes and push them up (This is the instructions above)
+- Create a github account on https://github.com/
+- Download github for windows http://github-windows.s3.amazonaws.com/GitHubSetup.exe
+- Set it up.
+- Clone this repository using the url: https://github.com/pamods/pamods.github.io.git (You will need to fork it if you are not a member)
+- Make changes and push them up (This is the instructions above)
