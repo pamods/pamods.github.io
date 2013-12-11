@@ -2,6 +2,7 @@
 That is, it contains descriptions for mods that will be applied if that mod has no description set in its ini file.
 
 buildkeys=Binds build bar items to hotkeys, configurable via "game settings" - "keyboard"
+CustomInGameTimers=Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)
 modbatch=Queue 100 with shift instead of 5
 selectionpreview=Display a little image of the currently selected building
 rUnitInfo=Adds a button over each build icon that displays that unit's statistics (unit statistics by yarmond)
