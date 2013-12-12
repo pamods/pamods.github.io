@@ -10,7 +10,7 @@ rModsList=Adds a "Mods" button to the main menu which shows a list of currently 
 dReminderTimer=Provides customisable periodic reminders
 ProfilePicFixer=A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. (See forum link for setup instructions)
 hotbuild=Allows mapping of cycle-type hotkeys just like it was possible with the same mod in FA. Also adds a few extra hotkeys
-pa_stats_pamm=Gathers data of your gameplay and makes it visible on <a href='http://www.nanodesu.info/pastats'>http://www.nanodesu.info/pastats</a>
+pa_stats=Gathers data of your gameplay and makes it visible on <a href='http://www.nanodesu.info/pastats'>http://www.nanodesu.info/pastats</a>
 dBetterSystemView=Always show the system view and adds mex count for each planet
 dMexCount=Shows a count of your mex and energy generators
 dTimer=Shows the current game time
