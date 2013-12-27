@@ -31,7 +31,7 @@
 		"date":"2013/12/25",
 		"forum":"https://twitter.com/daveleaver",
 		"url":"http://pamods.github.io/user_mods/dBetterSystemView_v1.1.zip",
-		"category":["in-game","ui"],
+		"category":["in-game","ui"]
 	},
 	"dTimer" : {
 		"display_name":"In Game Timer",
@@ -42,7 +42,7 @@
 		"date":"2013/12/25",
 		"forum":"https://forums.uberent.com/threads/rel-in-game-timer-v1-1.52704/",
 		"url":"http://pamods.github.io/user_mods/dTimer_v1.3.zip",
-		"category":["in-game","ui"],
+		"category":["in-game","ui"]
 	},
 	"hotbuild2" : {
 		"display_name":"Hotbuild2",
@@ -53,7 +53,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
 		"url":"http://pamods.github.io/user_mods/hotbuild2_v1.9.5.zip",
-		"category":["in-game","ui"],
+		"category":["in-game","ui"]
 	},
 	"rSettingsManager" : {
 		"display_name":"Settings Manager",
@@ -64,7 +64,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
 		"url":"http://pamods.github.io/user_mods/rSettingsManager_v1.1.1.zip",
-		"category":["Framework"],
+		"category":["Framework"]
 	},
 	"rCommanderHP" : {
 		"display_name":"Commander Health Display",
