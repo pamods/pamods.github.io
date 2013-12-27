@@ -4,7 +4,6 @@ That is, it contains descriptions for mods that will be applied if that mod has 
 buildkeys=Binds build bar items to hotkeys, configurable via "game settings" - "keyboard"
 modbatch=Queue 100 with shift instead of 5
 selectionpreview=Display a little image of the currently selected building
-CustomInGameTimers=Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)
 rChatPlayerColour=Changes the colour of player names in the in-game chat to match their team colour
 rCommanderHP=Adds a display to the UI that tracks your commander's health at all times
 rUnitInfo=Adds a button over each build icon that displays that unit's statistics (unit statistics by yarmond)

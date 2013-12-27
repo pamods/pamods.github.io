@@ -1,16 +1,16 @@
 {
 {{#mods}}
 	"{{{id}}}" : {
-		"display_name":"{{{display_name}}}",
-		"description":"{{{description}}}",
-		"author":"{{{author}}}",
-		"version":"{{{version}}}",
-		"build":"{{{build}}}",
-		"date":"{{{DateString}}}",
-		"forum":"{{forum}}",
-		"url":"{{{url}}}",
-		"category":[{{#categoryToString}}"{{name}}"{{comma}}{{/categoryToString}}]
-		"requires":[{{#requiresToString}}"{{name}}"{{comma}}{{/requiresToString}}]
+		"display_name" : "{{{display_name}}}",
+		"description" : "{{{description}}}",
+		"author" : "{{{author}}}",
+		"version" : "{{{version}}}",
+		"build" : "{{{build}}}",
+		"date" : "{{{DateString}}}",
+		"forum" : "{{forum}}",
+		"url" : "{{{url}}}",
+		"category" : [{{#categoryToString}}"{{name}}"{{comma}}{{/categoryToString}}],
+		"requires" : [{{#requiresToString}}"{{name}}"{{comma}}{{/requiresToString}}]
 	},
 {{/mods}}
 }
