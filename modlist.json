@@ -17,7 +17,7 @@
       "rSettingsManager"
     ]
   },
-  "Modbatch": {
+  "modbatch": {
     "display_name": "Mod BatchSize",
     "description": "Change Batchsize from 5 to 100",
     "author": "Cola_Colin",
