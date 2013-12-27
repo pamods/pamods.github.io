@@ -85,7 +85,7 @@
   },
   "hotbuild2": {
     "display_name": "Hotbuild2",
-    "description": "Adds a display to the UI that tracks your commander's health",
+    "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "author": "proeleert",
     "version": "1.9.5",
     "build": "58772",
