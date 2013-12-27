@@ -8,7 +8,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-anchor-buttons-v1-0-57703.54563/",
 		"url":"http://pamods.github.io/user_mods/bAnchorButtons_v1.3.zip",
-		"category":["in-game","ui"]
+		"category":["in-game","ui"],
 		"requires":["rFloatFrame","rSettingsManager"]
 	},
 	"Modbatch" : {
@@ -21,7 +21,6 @@
 		"forum":"https://forums.uberent.com/threads/rel-modbatch-52168.50897/",
 		"url":"http://pamods.github.io/user_mods/modbatch_v1.1.zip",
 		"category":["in-game","ui"]
-		"requires":[]
 	},
 	"dBetterSystemView" : {
 		"display_name":"Better System View",
@@ -32,8 +31,7 @@
 		"date":"2013/12/25",
 		"forum":"https://twitter.com/daveleaver",
 		"url":"http://pamods.github.io/user_mods/dBetterSystemView_v1.1.zip",
-		"category":["in-game","ui"]
-		"requires":[]
+		"category":["in-game","ui"],
 	},
 	"dTimer" : {
 		"display_name":"In Game Timer",
@@ -44,8 +42,7 @@
 		"date":"2013/12/25",
 		"forum":"https://forums.uberent.com/threads/rel-in-game-timer-v1-1.52704/",
 		"url":"http://pamods.github.io/user_mods/dTimer_v1.3.zip",
-		"category":["in-game","ui"]
-		"requires":[]
+		"category":["in-game","ui"],
 	},
 	"hotbuild2" : {
 		"display_name":"Hotbuild2",
@@ -56,8 +53,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
 		"url":"http://pamods.github.io/user_mods/hotbuild2_v1.9.5.zip",
-		"category":["in-game","ui"]
-		"requires":["rFloatFrame","rSettingsManager"]
+		"category":["in-game","ui"],
 	},
 	"rSettingsManager" : {
 		"display_name":"Settings Manager",
@@ -68,8 +64,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
 		"url":"http://pamods.github.io/user_mods/rSettingsManager_v1.1.1.zip",
-		"category":["Framework"]
-		"requires":[]
+		"category":["Framework"],
 	},
 	"rCommanderHP" : {
 		"display_name":"Commander Health Display",
@@ -80,7 +75,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-commander-health-display-v2.50584/",
 		"url":"http://pamods.github.io/user_mods/rCommanderHP_v2.7.2.zip",
-		"category":["in-game","ui"]
+		"category":["in-game","ui"],
 		"requires":["rFloatFrame","rSettingsManager"]
 	},
 	"rFloatFrame" : {
@@ -92,7 +87,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-floating-framework-v1-0-58197.54586/",
 		"url":"http://pamods.github.io/user_mods/rFloatFrame_v1.2.2.zip",
-		"category":["framework","ui"]
+		"category":["framework","ui"],
 		"requires":["rSettingsManager"]
 	},
 	"rFloatingUI" : {
@@ -104,7 +99,7 @@
 		"date":"2013/12/26",
 		"forum":"https://forums.uberent.com/threads/rel-floating-ui-v1-0-58197.54617/",
 		"url":"http://pamods.github.io/user_mods/rFloatingUI_v1.1.zip",
-		"category":["ui"]
+		"category":["ui"],
 		"requires":["rFloatFrame","rSettingsManager"]
 	},
 	"EcoEff" : {
@@ -117,6 +112,5 @@
 		"forum":"https://forums.uberent.com/threads/rel-economic-efficiency-ui-mod.52613/",
 		"url":"http://pamods.github.io/user_mods/EcoEff_v1.1.zip",
 		"category":["in-game","ui"]
-		"requires":[]
 	},
 }
