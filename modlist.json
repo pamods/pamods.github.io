@@ -73,6 +73,20 @@
       "ui"
     ]
   },
+  "planetpreview": {
+    "display_name": "Planet Preview details",
+    "description": "Allows you to see planets' editor details in pre-game lobbies.",
+    "author": "dementiurge",
+    "version": "1.1",
+    "build": "58772",
+    "date": "2013/12/29",
+    "forum": "https://forums.uberent.com/threads/wip-templates-for-random-system-generation-57703.54526/",
+    "url": "http://pamods.github.io/user_mods/planetpreview_v1.1.zip",
+    "category": [
+      "in-game",
+      "ui"
+    ]
+  },
   "circleToLine": {
     "display_name": "Circle to Line mod",
     "description": "Changes all the circle builds to line build (t1+t2 energy, metal+energy storage)",
