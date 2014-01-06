@@ -4,19 +4,19 @@ Website for hosting mod downloads for the Planetary Annihilation Mod Manager
 
 - Clone this repository
 - Zip your mod up correctly for PAMM.
-- Add it to the mods dir.
+- Add it to the user_mods dir.
 - Commit and Send a pull request
 
-Then when the PR is accepted, we'll run the tool to regenerate modlist.ini and your mod will be available :)
+Then when the PR is accepted, we'll run the tool to regenerate modlist.json and your mod will be available :)
 
 
 ### Usage for members
 
 - Clone this repository
 - Zip your mod up correctly for PAMM.
-- Add it to the mods dir.
+- Add it to the user_mods dir.
 - Run ListGenerator.exe
-- Commit all changes (adding/replacing your mod zip and updating modlist.ini)
+- Commit all changes (adding/replacing your mod zip and updating modlist.json)
 - Push changes
 
 ### Help! I don't know git
@@ -26,3 +26,7 @@ Then when the PR is accepted, we'll run the tool to regenerate modlist.ini and y
 - Set it up.
 - Clone this repository using the url: https://github.com/pamods/pamods.github.io.git (You will need to fork it if you are not a member)
 - Make changes and push them up (This is the instructions above)
+
+
+### Read this guide on the forum also
+https://forums.uberent.com/threads/guide-getting-your-mod-on-pamm.55189/
