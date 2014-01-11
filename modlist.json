@@ -224,11 +224,11 @@
     "display_name": "Settings Manager",
     "description": "Framework for adding new settings",
     "author": "Raevn",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "build": "58772",
-    "date": "2014/01/08",
+    "date": "2014/01/11",
     "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
-    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.2.0.zip",
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.3.0.zip",
     "category": [
       "Framework"
     ]
