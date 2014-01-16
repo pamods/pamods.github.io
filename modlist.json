@@ -77,11 +77,11 @@
     "display_name": "Notes",
     "description": "Keep notes on players for future reference",
     "author": "DeathByDenim",
-    "version": "1.2",
+    "version": "1.2.1",
     "build": "58772",
-    "date": "2014/01/16",
+    "date": "2014/01/17",
     "forum": "https://forums.uberent.com/threads/rel-notes-v1-2.55281/",
-    "url": "http://pamods.github.io/user_mods/dNotes_v1.2.zip",
+    "url": "http://pamods.github.io/user_mods/dNotes_v1.2.1.zip",
     "category": [
       "ui"
     ],
