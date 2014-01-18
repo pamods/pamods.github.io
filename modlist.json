@@ -356,6 +356,19 @@
       "rFloatFrame"
     ]
   },
+  "tSystemEditorFix": {
+    "display_name": "System Editor Fix",
+    "description": "Adds input validation in system editor, so editor crashes less",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/01/17",
+    "forum": "https://forums.uberent.com/threads/rel-system-editor-fix-59549.55732/",
+    "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.zip",
+    "category": [
+      "ui"
+    ]
+  },
   "alertsManager": {
     "display_name": "Alerts Manager",
     "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
