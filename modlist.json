@@ -89,6 +89,22 @@
       "rFloatFrame"
     ]
   },
+  "dFavouriteColour": {
+    "display_name": "Favourite Colour",
+    "description": "Automatically select your favourite colour in the lobby.",
+    "author": "DeathByDenim",
+    "version": "1.0",
+    "build": "59607",
+    "date": "2014/01/18",
+    "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-0.55782/",
+    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.0.zip",
+    "category": [
+      "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ]
+  },
   "planetpreview": {
     "display_name": "Planet Preview details",
     "description": "Allows you to see planets' editor details in pre-game lobbies.",
