@@ -150,6 +150,20 @@
       "ui"
     ]
   },
+  "LavaSnakes_StargateBugFix": {
+    "display_name": "Stargate Name Bug Fix",
+    "description": "PA has a bug that prevents it from displaying the Stargate's proper name; this mod fixes that.",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/01/20",
+    "forum": "https://forums.uberent.com/threads/rel-stargate-name-bug-fix-59549.55850/",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip",
+    "category": [
+      "In-game",
+      "ui"
+    ]
+  },
   "tankcommander": {
     "display_name": "Tank Commander",
     "description": "Replaces Delta commander with unreleased Tank Commander",
