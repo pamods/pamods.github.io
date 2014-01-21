@@ -123,11 +123,11 @@
     "display_name": "Customizable In-Game Timers",
     "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
     "author": "LavaSnake",
-    "version": "1.5",
-    "build": "58772",
-    "date": "2014/01/14",
+    "version": "1.6",
+    "build": "59549",
+    "date": "2014/21/14",
     "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-5.zip",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-6.zip",
     "category": [
       "in-game",
       "ui"
