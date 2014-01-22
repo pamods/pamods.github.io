@@ -386,6 +386,23 @@
       "rFloatFrame"
     ]
   },
+  "tBuildingWriter": {
+    "display_name": "Building Writer",
+    "description": "Use buildings to write text. See forum for details",
+    "author": "trialq",
+    "version": "1.1",
+    "build": "59607",
+    "date": "2014/01/22",
+    "forum": "https://forums.uberent.com/threads/rel-building-writer.55793/",
+    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.1.zip",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ]
+  },
   "tSystemEditorFix": {
     "display_name": "System Editor Fix",
     "description": "Adds input validation in system editor, so editor crashes less",
