@@ -399,6 +399,23 @@
       "rFloatFrame"
     ]
   },
+  "tAutoFactory": {
+    "display_name": "Auto Factory",
+    "description": "Automatically build units with idle factories, when certain conditions are met",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "59607",
+    "date": "2014/01/25",
+    "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
+    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.0.zip",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ]
+  },
   "tBuildingWriter": {
     "display_name": "Building Writer",
     "description": "Use buildings to write text. See forum for details",
