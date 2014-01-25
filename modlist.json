@@ -31,6 +31,19 @@
       "ui"
     ]
   },
+  "cPlanetNameThemes": {
+    "display_name": "Planet Name Themes",
+    "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, or Star Trek. Pick the theme from the settings menu.",
+    "author": "Captain Conundrum",
+    "version": "1.0.0",
+    "build": "59607",
+    "date": "2014/01/25",
+    "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.0.0.zip",
+    "category": [
+      "ui"
+    ]
+  },
   "dBetterSystemView": {
     "display_name": "Better System View",
     "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
