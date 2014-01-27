@@ -33,13 +33,13 @@
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
-    "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, or Star Trek. Pick the theme from the settings menu.",
+    "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
     "author": "Captain Conundrum",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "build": "59607",
-    "date": "2014/01/25",
+    "date": "2014/01/26",
     "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
-    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.0.0.zip",
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.0.zip",
     "category": [
       "ui"
     ]
@@ -529,6 +529,23 @@
     ],
     "requires": [
       "rFloatFrame"
+    ]
+  },
+  "tauntMod": {
+    "display_name": "Taunt Mod",
+    "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
+    "author": "SideSplitter",
+    "version": "1.0.2",
+    "build": "59607",
+    "date": "2014/01/25",
+    "forum": "https://forums.uberent.com/threads/rel-tauntmod-v1-0-1-59607-adds-aoe-ii-taunts.56026/",
+    "url": "http://pamods.github.io/user_mods/tauntMod_v1.0.2.zip",
+    "category": [
+      "in-game",
+      "ui",
+      "taunts",
+      "sound",
+      "aoe"
     ]
   }
 }
