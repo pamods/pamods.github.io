@@ -117,7 +117,7 @@
     "description": "Keep notes on players for future reference.",
     "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
     "description_de": "Mach Ihnen Notizen über Spieler zum zukunftig Gebrauch.",
-    "description_fr": "Keep notes on players for future reference.",
+    "description_fr": "Notez joueurs pour l'utilisation future",
     "author": "DeathByDenim",
     "version": "1.2",
     "build": "58772",
@@ -297,7 +297,7 @@
     "build": "59607",
     "date": "2014/01/28",
     "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
-    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.1.zip",
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.2.zip",
     "category": [
       "Framework"
     ]
