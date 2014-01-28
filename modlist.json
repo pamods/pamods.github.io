@@ -96,6 +96,7 @@
     "description_de": "Wahl automatisch Ihre Lieblingsfarbe in der Lobby.",
     "description_fr": "Choisissez automatiquement votre couleur préférée dans l'entrée.",
     "author": "DeathByDenim",
+	"icon": "http://pamods.github.io/icons/dFavouriteColour.png",
     "version": "1.2",
     "build": "59607",
     "date": "2014/01/24",
