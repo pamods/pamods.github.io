@@ -35,13 +35,16 @@
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
     "author": "Captain Conundrum",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "build": "59607",
-    "date": "2014/01/26",
+    "date": "2014/01/28",
     "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
-    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.0.zip",
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.1.zip",
     "category": [
       "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
     ]
   },
   "dBetterSystemView": {
@@ -88,15 +91,8 @@
   },
   "dFavouriteColour": {
     "display_name": "Favourite Colour",
-    "display_name_nl": "Lievelingskleur",
-    "display_name_de": "Lieblingsfarbe",
-    "display_name_fr": "Couleur préférée.",
     "description": "Automatically select your favourite colour in the lobby.",
-    "description_nl": "Kies automatisch je lievelingskleur in de lobby.",
-    "description_de": "Wahl automatisch Ihre Lieblingsfarbe in der Lobby.",
-    "description_fr": "Choisissez automatiquement votre couleur préférée dans l'entrée.",
     "author": "DeathByDenim",
-	"icon": "http://pamods.github.io/icons/dFavouriteColour.png",
     "version": "1.2",
     "build": "59607",
     "date": "2014/01/24",
@@ -111,13 +107,7 @@
   },
   "dNotes": {
     "display_name": "Notes",
-    "display_name_nl": "Notities",
-    "display_name_de": "Notizen",
-    "display_name_fr": "Notes",
-    "description": "Keep notes on players for future reference.",
-    "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
-    "description_de": "Mach Ihnen Notizen über Spieler zum zukunftig Gebrauch.",
-    "description_fr": "Notez joueurs pour l'utilisation future",
+    "description": "Keep notes on players for future reference",
     "author": "DeathByDenim",
     "version": "1.2",
     "build": "58772",
@@ -545,20 +535,23 @@
     ]
   },
   "tauntMod": {
-    "display_name": "Taunt Mod",
+    "display_name": "TauntMod",
     "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
     "author": "SideSplitter",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "build": "59607",
-    "date": "2014/01/25",
+    "date": "2014/01/27",
     "forum": "https://forums.uberent.com/threads/rel-tauntmod-v1-0-1-59607-adds-aoe-ii-taunts.56026/",
-    "url": "http://pamods.github.io/user_mods/tauntMod_v1.0.2.zip",
+    "url": "http://pamods.github.io/user_mods/tauntMod_v1.0.3.zip",
     "category": [
       "in-game",
       "ui",
       "taunts",
       "sound",
       "aoe"
+    ],
+    "requires": [
+      "rSettingsManager"
     ]
   }
 }
