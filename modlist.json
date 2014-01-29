@@ -97,6 +97,7 @@
     "display_name_fr": "Couleur préférée.",
     "display_name_nl": "Lievelingskleur",
     "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
+    "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
     "requires": [
       "rSettingsManager"
     ],
