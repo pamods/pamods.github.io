@@ -232,6 +232,23 @@
     ],
     "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-6.zip"
   },
+  "LavaSnakes_CustomUnitNames": {
+    "display_name": "Custom Unit Names",
+    "description": "Lets you set your own custom names for each unit and building in the settings menu.",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/01/30",
+    "forum": "https://forums.uberent.com/threads/rel-custom-unit-names-59549.56124/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-0.zip"
+  },
   "LavaSnakes_ProfilePicFixer": {
     "display_name": "Profile Pic Fixer",
     "description": "A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. (See forum link for setup instructions)",
