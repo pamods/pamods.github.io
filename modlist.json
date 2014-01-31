@@ -187,9 +187,9 @@
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "author": "proeleert,tripax,cola_colin",
-    "version": "1.9.9.5",
+    "version": "1.9.9.6",
     "build": "59607",
-    "date": "2014/01/25",
+    "date": "2014/02/01",
     "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
     "category": [
       "in-game",
@@ -199,7 +199,7 @@
       "rFloatFrame",
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.5.zip"
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.6.zip"
   },
   "keymapper": {
     "display_name": "Hotbuild 1",
