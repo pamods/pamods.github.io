@@ -322,9 +322,9 @@
     "display_name": "PA Mentor",
     "description": "Shows how your in-game stats compared to other players",
     "author": "ORFJackal",
-    "version": "0.1.0",
-    "build": "58772",
-    "date": "2014/01/05",
+    "version": "0.2.0",
+    "build": "59607",
+    "date": "2014/01/31",
     "forum": "https://forums.uberent.com/threads/rel-pa-mentor.55399/",
     "category": [
       "in-game",
@@ -333,7 +333,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/PAMentor_v0.1.0.zip"
+    "url": "http://pamods.github.io/user_mods/PAMentor_v0.2.0.zip"
   },
   "planetpreview": {
     "display_name": "Planet Preview details",
