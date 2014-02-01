@@ -1,4 +1,17 @@
 {
+  "alertsManager": {
+    "display_name": "Alerts Manager",
+    "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
+    "author": "Cola_Colin",
+    "version": "1.0.1",
+    "forum": "https://forums.uberent.com/threads/rel-alertsmanager-58772.55590/",
+    "category": [
+      "Framework"
+    ],
+    "date": "2014/01/16",
+    "build": "59549",
+    "url": "http://pamods.github.io/user_mods/alertsManager_v1.0.1.zip"
+  },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
     "description": "Click once to set camera anchor, and again to snap back there.",
@@ -7,7 +20,6 @@
     "build": "58772",
     "date": "2013/12/23",
     "forum": "https://forums.uberent.com/threads/rel-anchor-buttons-v1-0-57703.54563/",
-    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.3.zip",
     "category": [
       "in-game",
       "ui"
@@ -15,490 +27,8 @@
     "requires": [
       "rFloatFrame",
       "rSettingsManager"
-    ]
-  },
-  "modbatch": {
-    "display_name": "Mod BatchSize",
-    "description": "Change Batchsize from 5 to 100",
-    "author": "Cola_Colin",
-    "version": "1.1",
-    "build": "58772",
-    "date": "2013/12/23",
-    "forum": "https://forums.uberent.com/threads/rel-modbatch-52168.50897/",
-    "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "cPlanetNameThemes": {
-    "display_name": "Planet Name Themes",
-    "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, or Star Trek. Pick the theme from the settings menu.",
-    "author": "Captain Conundrum",
-    "version": "1.0.0",
-    "build": "59607",
-    "date": "2014/01/25",
-    "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
-    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.0.0.zip",
-    "category": [
-      "ui"
-    ]
-  },
-  "dBetterSystemView": {
-    "display_name": "Better System View",
-    "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
-    "author": "danzel",
-    "version": "1.1",
-    "build": "58772",
-    "date": "2013/12/23",
-    "forum": "https://twitter.com/daveleaver",
-    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "dReminderTimer": {
-    "display_name": "In Game Reminders Timer",
-    "description": "Provides a timer to show how long the current match has been running",
-    "author": "danzel",
-    "version": "1.2.1",
-    "build": "58772",
-    "date": "2014/01/13",
-    "forum": "https://forums.uberent.com/threads/rel-reminder-timer-v1-0.53625/",
-    "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "dTimer": {
-    "display_name": "In Game Timer",
-    "description": "Provides a timer to show how long the current match is running",
-    "author": "danzel",
-    "version": "1.3.1",
-    "build": "58772",
-    "date": "2014/01/13",
-    "forum": "https://forums.uberent.com/threads/rel-in-game-timer-v1-1.52704/",
-    "url": "http://pamods.github.io/user_mods/dTimer_v1.3.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "dFavouriteColour": {
-    "display_name": "Favourite Colour",
-    "description": "Automatically select your favourite colour in the lobby.",
-    "author": "DeathByDenim",
-    "version": "1.2",
-    "build": "59607",
-    "date": "2014/01/24",
-    "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
-    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.2.zip",
-    "category": [
-      "ui"
     ],
-    "requires": [
-      "rSettingsManager"
-    ]
-  },
-  "dNotes": {
-    "display_name": "Notes",
-    "description": "Keep notes on players for future reference",
-    "author": "DeathByDenim",
-    "version": "1.2",
-    "build": "58772",
-    "date": "2014/01/16",
-    "forum": "https://forums.uberent.com/threads/rel-notes-v1-0.55281/",
-    "url": "http://pamods.github.io/user_mods/dNotes_v1.2.1.zip",
-    "category": [
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame"
-    ]
-  },
-  "planetpreview": {
-    "display_name": "Planet Preview details",
-    "description": "Allows you to see planets' editor details in pre-game lobbies.",
-    "author": "dementiurge",
-    "version": "1.1",
-    "build": "58772",
-    "date": "2013/12/29",
-    "forum": "https://forums.uberent.com/threads/wip-templates-for-random-system-generation-57703.54526/",
-    "url": "http://pamods.github.io/user_mods/planetpreview_v1.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "LavaSnakes_CustomInGameTimers": {
-    "display_name": "Customizable In-Game Timers",
-    "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
-    "author": "LavaSnake",
-    "version": "1.6",
-    "build": "59549",
-    "date": "2014/1/21",
-    "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-6.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame"
-    ]
-  },
-  "LavaSnakes_ProfilePicFixer": {
-    "display_name": "Profile Pic Fixer",
-    "description": "A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. (See forum link for setup instructions)",
-    "author": "LavaSnake",
-    "version": "1.3",
-    "build": "58772",
-    "date": "2014/01/14",
-    "forum": "https://forums.uberent.com/threads/rel-profile-pic-fixer-56387.53531/",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v1-3.zip",
-    "category": [
-      "Main Menu",
-      "ui"
-    ]
-  },
-  "LavaSnakes_StargateBugFix": {
-    "display_name": "Stargate Name Bug Fix",
-    "description": "PA has a bug that prevents it from displaying the Stargate's proper name; this mod fixes that.",
-    "author": "LavaSnake",
-    "version": "1.0",
-    "build": "59549",
-    "date": "2014/01/20",
-    "forum": "https://forums.uberent.com/threads/rel-stargate-name-bug-fix-59549.55850/",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip",
-    "category": [
-      "In-game",
-      "ui"
-    ]
-  },
-  "tankcommander": {
-    "display_name": "Tank Commander",
-    "description": "Replaces Delta commander with unreleased Tank Commander",
-    "author": "maxpowerz",
-    "version": "1.0",
-    "build": "58772",
-    "date": "2014/01/12",
-    "forum": "https://forums.uberent.com/threads/i-dont-know-if-youve-noticed-or-not.55559/",
-    "url": "http://pamods.github.io/user_mods/tankcommander_v1.0.zip",
-    "category": [
-      "Commander"
-    ]
-  },
-  "circleToLine": {
-    "display_name": "Circle to Line mod",
-    "description": "Changes all the circle builds to line build (t1+t2 energy, metal+energy storage)",
-    "author": "ZaphodX, iceDrop",
-    "version": "1.0",
-    "build": null,
-    "date": null,
-    "forum": null,
-    "url": "http://pamods.github.io/user_mods/circleToLine_v1.0.zip"
-  },
-  "transicons": {
-    "display_name": "Transparent Strategic Icons",
-    "description": "Transparent Strategic Icons",
-    "author": "moldez",
-    "version": "2.0",
-    "build": "58772",
-    "date": "2014/01/04",
-    "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
-    "url": "http://pamods.github.io/user_mods/transicons_v2.0.zip",
-    "category": [
-      "Strategic Icons"
-    ]
-  },
-  "hotbuild2": {
-    "display_name": "Hotbuild2",
-    "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
-    "author": "proeleert,tripax,cola_colin",
-    "version": "1.9.9.5",
-    "build": "59607",
-    "date": "2014/01/25",
-    "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.5.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame",
-      "rSettingsManager"
-    ]
-  },
-  "nostarfield": {
-    "display_name": "NoStarField",
-    "description": "Removes the StarField Animation from Home",
-    "author": "proeleert",
-    "version": "1.0.0",
-    "build": "58772",
-    "date": "2013/12/23",
-    "forum": "https://forums.uberent.com/threads/rel-static-menu-58197.54758/",
-    "url": "http://pamods.github.io/user_mods/nostarfield_v1.0.zip",
-    "category": [
-      "ui"
-    ]
-  },
-  "rAlertsFilter": {
-    "display_name": "Alerts Filter",
-    "description": "Allows selection of which unit types display alerts when built, under attack or destroyed",
-    "author": "Raevn",
-    "version": "1.0.0",
-    "build": "58772",
-    "date": "2014/01/08",
-    "forum": "https://forums.uberent.com/threads/rel-alerts-filter-v1-0-0-58772.55472/",
-    "url": "http://pamods.github.io/user_mods/rAlertsFilter_v1.0.0.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rSettingsManager"
-    ]
-  },
-  "rChronoClick": {
-    "display_name": "Chrono Click",
-    "description": "Set Chrono time by clicking any point on the chrono bar",
-    "author": "Raevn",
-    "version": "1.0.0",
-    "build": "58772",
-    "date": "2014/01/08",
-    "forum": "https://forums.uberent.com/threads/rel-chrono-click-v1-0-0-58772.55477/",
-    "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip",
-    "category": [
-      "chrono-cam",
-      "in-game",
-      "ui"
-    ]
-  },
-  "rSettingsManager": {
-    "display_name": "Settings Manager",
-    "description": "Framework for adding new settings",
-    "author": "Raevn",
-    "version": "1.4.0",
-    "build": "58772",
-    "date": "2014/01/16",
-    "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
-    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.4.0.zip",
-    "category": [
-      "Framework"
-    ]
-  },
-  "rChatPlayerColour": {
-    "display_name": "Chat Player Colours",
-    "description": "Changes the colour of player names in the in-game chat to match their team colour",
-    "author": "raevn",
-    "version": "1.2.1",
-    "build": "58772",
-    "date": "2013/12/29",
-    "forum": "https://forums.uberent.com/threads/rel-chat-player-colours.50750/",
-    "url": "http://pamods.github.io/user_mods/rChatPlayerColour_v1.2.1.zip",
-    "category": [
-      "in-game"
-    ]
-  },
-  "rCommanderHP": {
-    "display_name": "Commander Health Display",
-    "description": "Adds a display to the UI that tracks your commander's health",
-    "author": "raevn, danzel, burntcustard",
-    "version": "2.7.3",
-    "build": "58772",
-    "date": "2014/01/13",
-    "forum": "https://forums.uberent.com/threads/rel-commander-health-display-v2.50584/",
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v2.7.3.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame",
-      "rSettingsManager"
-    ]
-  },
-  "rFloatFrame": {
-    "display_name": "Floating Framework",
-    "description": "Framework for creating draggable UI containers",
-    "author": "raevn",
-    "version": "1.2.3",
-    "build": "58772",
-    "date": "2014/01/11",
-    "forum": "https://forums.uberent.com/threads/rel-floating-framework-v1-0-58197.54586/",
-    "url": "http://pamods.github.io/user_mods/rFloatFrame_v1.2.3.zip",
-    "category": [
-      "framework",
-      "ui"
-    ],
-    "requires": [
-      "rSettingsManager"
-    ]
-  },
-  "rModsList": {
-    "display_name": "Installed Mods List",
-    "description": "Adds a 'Mods' button to the main menu which shows a list of currently enabled mods",
-    "author": "Raevn",
-    "version": "2.0.0",
-    "build": "58772",
-    "date": "2014/01/06",
-    "forum": "https://forums.uberent.com/threads/rel-installed-mods-list-v1-2-1-58197.54645/",
-    "url": "http://pamods.github.io/user_mods/rModsList_v2.0.0.zip",
-    "category": [
-      "modding",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame",
-      "rPAMM"
-    ]
-  },
-  "teamBuildColor": {
-    "display_name": "Team Build Color",
-    "description": "Changes the Build Color to your Team Color instead of green",
-    "author": "rcix",
-    "version": "1.0.0",
-    "build": "58772",
-    "date": "2013/12/28",
-    "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
-    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.0.zip",
-    "category": [
-      "in-game"
-    ]
-  },
-  "EcoEff": {
-    "display_name": "Economy Efficiency",
-    "description": "Improves the Eco Information bars",
-    "author": "stan_petit_cul",
-    "version": "1.1",
-    "build": "58772",
-    "date": "2013/12/23",
-    "forum": "https://forums.uberent.com/threads/rel-economic-efficiency-ui-mod.52613/",
-    "url": "http://pamods.github.io/user_mods/EcoEff_v1.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "eco_manager": {
-    "display_name": "Eco Manager",
-    "description": "Adds eco-management buttons to ui",
-    "author": "trialq",
-    "version": "1.1",
-    "build": "58772",
-    "date": "2014/01/14",
-    "forum": "https://forums.uberent.com/threads/rel-eco-manager-58772.55618/",
-    "url": "http://pamods.github.io/user_mods/eco_manager_v1.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame"
-    ]
-  },
-  "tAutoFactory": {
-    "display_name": "Auto Factory",
-    "description": "Automatically build units with idle factories, when certain conditions are met",
-    "author": "trialq",
-    "version": "1.0",
-    "build": "59607",
-    "date": "2014/01/25",
-    "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
-    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.0.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame"
-    ]
-  },
-  "tBuildingWriter": {
-    "display_name": "Building Writer",
-    "description": "Use buildings to write text. See forum for details",
-    "author": "trialq",
-    "version": "1.1",
-    "build": "59607",
-    "date": "2014/01/22",
-    "forum": "https://forums.uberent.com/threads/rel-building-writer.55793/",
-    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.1.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "requires": [
-      "rFloatFrame"
-    ]
-  },
-  "tSystemEditorFix": {
-    "display_name": "System Editor Fix",
-    "description": "Adds input validation in system editor, so editor crashes less",
-    "author": "trialq",
-    "version": "1.0",
-    "build": "59549",
-    "date": "2014/01/17",
-    "forum": "https://forums.uberent.com/threads/rel-system-editor-fix-59549.55732/",
-    "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.zip",
-    "category": [
-      "ui"
-    ]
-  },
-  "alertsManager": {
-    "display_name": "Alerts Manager",
-    "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
-    "author": "Cola_Colin",
-    "version": "1.0.1",
-    "build": "59549",
-    "date": "2014/01/16",
-    "forum": "https://forums.uberent.com/threads/rel-alertsmanager-58772.55590/",
-    "url": "http://pamods.github.io/user_mods/alertsManager_v1.0.1.zip",
-    "category": [
-      "Framework"
-    ]
-  },
-  "keymapper": {
-    "display_name": "Hotbuild 1",
-    "description": "Basic hotbuild",
-    "author": "Cola_Colin",
-    "version": "1337+4",
-    "build": "57164",
-    "date": "2013/12/27",
-    "forum": "https://forums.uberent.com/threads/rel-hotbuild-51853.50260/",
-    "url": "http://pamods.github.io/user_mods/keymapper_v1337.4.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "pa_stats_online": {
-    "display_name": "PA Stats Online",
-    "description": "Track your statistics",
-    "author": "Cola_Colin, Gunshin",
-    "version": "Autoupdating",
-    "build": "will_be_kept_up_to_date",
-    "date": "2013/12/27",
-    "forum": "https://forums.uberent.com/threads/rel-pa-stats-52168.50690/",
-    "url": "http://pamods.github.io/user_mods/pa_stats_online.zip",
-    "category": [
-      "in-game",
-      "ui"
-    ]
-  },
-  "staticmenu": {
-    "display_name": "Staticmenu",
-    "description": "Faster main menu",
-    "author": "Cola_Colin",
-    "version": "2",
-    "build": "58772",
-    "date": "2013/12/27",
-    "forum": "https://forums.uberent.com/threads/rel-static-menu-58197.54758/",
-    "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip",
-    "category": [
-      "ui"
-    ]
+    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.3.zip"
   },
   "BuildPower": {
     "display_name": "Build Power",
@@ -508,27 +38,548 @@
     "build": "58772",
     "date": "2013/12/29",
     "forum": "https://forums.uberent.com/threads/build-power.54974/",
-    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.0.zip",
     "category": [
       "in-game",
       "ui"
-    ]
+    ],
+    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.0.zip"
   },
-  "PAMentor": {
-    "display_name": "PA Mentor",
-    "description": "Shows how your in-game stats compared to other players",
-    "author": "ORFJackal",
-    "version": "0.1.0",
+  "circleToLine": {
+    "display_name": "Circle to Line mod",
+    "description": "Changes all the circle builds to line build (t1+t2 energy, metal+energy storage)",
+    "author": "ZaphodX, iceDrop",
+    "version": "1.0",
+    "url": "http://pamods.github.io/user_mods/circleToLine_v1.0.zip"
+  },
+  "cPlanetNameThemes": {
+    "display_name": "Planet Name Themes",
+    "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
+    "author": "Captain Conundrum",
+    "version": "1.1.1",
+    "build": "59607",
+    "date": "2014/01/28",
+    "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
+    "category": [
+      "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.1.zip"
+  },
+  "dBetterSystemView": {
+    "display_name": "Better System View",
+    "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
+    "author": "danzel",
+    "version": "1.1",
     "build": "58772",
-    "date": "2014/01/05",
-    "forum": "https://forums.uberent.com/threads/rel-pa-mentor.55399/",
-    "url": "http://pamods.github.io/user_mods/PAMentor_v0.1.0.zip",
+    "date": "2013/12/23",
+    "forum": "https://twitter.com/daveleaver",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.1.zip"
+  },
+  "dFavouriteColour": {
+    "author": "DeathByDenim",
+    "build": "59607",
+    "category": [
+      "ui"
+    ],
+    "date": "2014/01/24",
+    "description": "Automatically select your favourite colour in the lobby.",
+    "description_de": "Wahl automatisch Ihre Lieblingsfarbe in der Lobby.",
+    "description_nl": "Kies automatisch je lievelingskleur in de lobby.",
+    "display_name": "Favourite Colour",
+    "display_name_de": "Lieblingsfarbe",
+    "display_name_nl": "Lievelingskleur",
+    "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
+    "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
+    "requires": [
+      "rSettingsManager"
+    ],
+    "version": "1.2",
+    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.2.zip"
+  },
+  "dNotes": {
+    "author": "DeathByDenim",
+    "build": "58772",
+    "category": [
+      "ui"
+    ],
+    "date": "2014/01/16",
+    "description": "Keep notes on players for future reference.",
+    "description_fr": "Notez joueurs pour l'utilisation future",
+    "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
+    "display_name": "Notes",
+    "display_name_de": "Notizen",
+    "display_name_fr": "Notes",
+    "display_name_nl": "Notities",
+    "forum": "https://forums.uberent.com/threads/rel-notes-v1-0.55281/",
+    "icon": "http://pamods.github.io/icons/dNotes.png",
+    "requires": [
+      "rFloatFrame"
+    ],
+    "version": "1.2",
+    "url": "http://pamods.github.io/user_mods/dNotes_v1.2.1.zip"
+  },
+  "dReminderTimer": {
+    "display_name": "In Game Reminders Timer",
+    "description": "Provides a timer to show how long the current match has been running",
+    "author": "danzel",
+    "version": "1.2.1",
+    "build": "58772",
+    "date": "2014/01/13",
+    "forum": "https://forums.uberent.com/threads/rel-reminder-timer-v1-0.53625/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip"
+  },
+  "dTimer": {
+    "display_name": "In Game Timer",
+    "description": "Provides a timer to show how long the current match is running",
+    "author": "danzel",
+    "version": "1.3.1",
+    "build": "58772",
+    "date": "2014/01/13",
+    "forum": "https://forums.uberent.com/threads/rel-in-game-timer-v1-1.52704/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/dTimer_v1.3.1.zip"
+  },
+  "eco_manager": {
+    "display_name": "Eco Manager",
+    "description": "Adds eco-management buttons to ui",
+    "author": "trialq",
+    "version": "1.1",
+    "build": "58772",
+    "date": "2014/01/14",
+    "forum": "https://forums.uberent.com/threads/rel-eco-manager-58772.55618/",
     "category": [
       "in-game",
       "ui"
     ],
     "requires": [
       "rFloatFrame"
-    ]
+    ],
+    "url": "http://pamods.github.io/user_mods/eco_manager_v1.1.zip"
+  },
+  "EcoEff": {
+    "display_name": "Economy Efficiency",
+    "description": "Improves the Eco Information bars",
+    "author": "stan_petit_cul",
+    "version": "1.1",
+    "build": "58772",
+    "date": "2013/12/23",
+    "forum": "https://forums.uberent.com/threads/rel-economic-efficiency-ui-mod.52613/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/EcoEff_v1.1.zip"
+  },
+  "hotbuild2": {
+    "display_name": "Hotbuild2",
+    "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
+    "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
+    "author": "proeleert,tripax,cola_colin",
+    "version": "1.9.9.6",
+    "build": "59607",
+    "date": "2014/02/01",
+    "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/hotbuild2.png",
+    "requires": [
+      "rFloatFrame",
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.6.zip"
+  },
+  "keymapper": {
+    "display_name": "Hotbuild 1",
+    "description": "Basic hotbuild",
+    "author": "Cola_Colin",
+    "version": "1337+4",
+    "build": "57164",
+    "date": "2013/12/27",
+    "forum": "https://forums.uberent.com/threads/rel-hotbuild-51853.50260/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/keymapper_v1337.4.zip"
+  },
+  "LavaSnakes_CustomInGameTimers": {
+    "display_name": "Customizable In-Game Timers",
+    "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
+    "author": "LavaSnake",
+    "version": "1.6",
+    "build": "59549",
+    "date": "2014/01/30",
+    "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-6.zip"
+  },
+  "LavaSnakes_CustomUnitNames": {
+    "display_name": "Custom Unit Names",
+    "description": "Lets you set your own custom names for each unit and building in the settings menu.",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/01/30",
+    "forum": "https://forums.uberent.com/threads/rel-custom-unit-names-59549.56124/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-0.zip"
+  },
+  "LavaSnakes_ProfilePicFixer": {
+    "display_name": "Profile Pic Fixer",
+    "description": "A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. (See forum link for setup instructions)",
+    "author": "LavaSnake",
+    "version": "1.3",
+    "build": "58772",
+    "date": "2014/01/14",
+    "forum": "https://forums.uberent.com/threads/rel-profile-pic-fixer-56387.53531/",
+    "category": [
+      "Main Menu",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v1-3.zip"
+  },
+  "LavaSnakes_StargateBugFix": {
+    "display_name": "Stargate Name Bug Fix",
+    "description": "PA has a bug that prevents it from displaying the Stargate's proper name; this mod fixes that.",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/01/20",
+    "forum": "https://forums.uberent.com/threads/rel-stargate-name-bug-fix-59549.55850/",
+    "category": [
+      "In-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip"
+  },
+  "modbatch": {
+    "display_name": "Mod BatchSize",
+    "description": "Change Batchsize from 5 to 100",
+    "author": "Cola_Colin",
+    "version": "1.1",
+    "build": "58772",
+    "date": "2013/12/23",
+    "forum": "https://forums.uberent.com/threads/rel-modbatch-52168.50897/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip"
+  },
+  "nostarfield": {
+    "display_name": "NoStarField",
+    "description": "Removes the StarField Animation from Home",
+    "author": "proeleert",
+    "version": "1.0.0",
+    "build": "58772",
+    "date": "2013/12/23",
+    "forum": "https://forums.uberent.com/threads/rel-static-menu-58197.54758/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/nostarfield_v1.0.zip"
+  },
+  "pa_stats_online": {
+    "display_name": "PA Stats Online",
+    "description": "Track your statistics",
+    "author": "Cola_Colin, Gunshin",
+    "version": "Autoupdating",
+    "build": "will_be_kept_up_to_date",
+    "date": "2013/12/27",
+    "forum": "https://forums.uberent.com/threads/rel-pa-stats-52168.50690/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/pa_stats_online.zip"
+  },
+  "PAMentor": {
+    "display_name": "PA Mentor",
+    "description": "Shows how your in-game stats compared to other players",
+    "author": "ORFJackal",
+    "version": "0.2.0",
+    "build": "59607",
+    "date": "2014/01/31",
+    "forum": "https://forums.uberent.com/threads/rel-pa-mentor.55399/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/PAMentor_v0.2.0.zip"
+  },
+  "planetpreview": {
+    "display_name": "Planet Preview details",
+    "description": "Allows you to see planets' editor details in pre-game lobbies.",
+    "author": "dementiurge",
+    "version": "1.1",
+    "build": "58772",
+    "date": "2013/12/29",
+    "forum": "https://forums.uberent.com/threads/wip-templates-for-random-system-generation-57703.54526/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/planetpreview_v1.1.zip"
+  },
+  "rAlertsFilter": {
+    "display_name": "Alerts Filter",
+    "description": "Allows selection of which unit types display alerts when built, under attack or destroyed",
+    "author": "Raevn",
+    "version": "1.0.0",
+    "forum": "https://forums.uberent.com/threads/rel-alerts-filter-v1-0-0-58772.55472/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "date": "2014/01/08",
+    "build": "58772",
+    "url": "http://pamods.github.io/user_mods/rAlertsFilter_v1.0.0.zip"
+  },
+  "rChatPlayerColour": {
+    "display_name": "Chat Player Colours",
+    "description": "Changes the colour of player names in the in-game chat to match their team colour",
+    "author": "raevn",
+    "version": "1.2.1",
+    "build": "58772",
+    "date": "2013/12/29",
+    "forum": "https://forums.uberent.com/threads/rel-chat-player-colours.50750/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/rChatPlayerColour_v1.2.1.zip"
+  },
+  "rChronoClick": {
+    "display_name": "Chrono Click",
+    "description": "Set Chrono time by clicking any point on the chrono bar",
+    "author": "Raevn",
+    "version": "1.0.0",
+    "forum": "https://forums.uberent.com/threads/rel-chrono-click-v1-0-0-58772.55477/",
+    "category": [
+      "chrono-cam",
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/01/08",
+    "build": "58772",
+    "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip"
+  },
+  "rCommanderHP": {
+    "display_name": "Commander Health Display",
+    "description": "Adds a display to the UI that tracks your commander's health",
+    "author": "raevn, danzel, burntcustard",
+    "version": "2.7.3",
+    "build": "58772",
+    "date": "2014/01/13",
+    "forum": "https://forums.uberent.com/threads/rel-commander-health-display-v2.50584/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame",
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v2.7.3.zip"
+  },
+  "rFloatFrame": {
+    "display_name": "Floating Framework",
+    "description": "Framework for creating draggable UI containers",
+    "author": "raevn",
+    "version": "1.2.3",
+    "build": "58772",
+    "date": "2014/01/11",
+    "forum": "https://forums.uberent.com/threads/rel-floating-framework-v1-0-58197.54586/",
+    "category": [
+      "framework",
+      "ui"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/rFloatFrame_v1.2.3.zip"
+  },
+  "rModsList": {
+    "display_name": "Installed Mods List",
+    "description": "Adds a 'Mods' button to the main menu which shows a list of currently enabled mods",
+    "author": "Raevn",
+    "version": "2.0.0",
+    "build": "58772",
+    "date": "2014/01/06",
+    "forum": "https://forums.uberent.com/threads/rel-installed-mods-list-v1-2-1-58197.54645/",
+    "category": [
+      "modding",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame",
+      "rPAMM"
+    ],
+    "url": "http://pamods.github.io/user_mods/rModsList_v2.0.0.zip"
+  },
+  "rSettingsManager": {
+    "display_name": "Settings Manager",
+    "description": "Framework for adding new settings",
+    "author": "Raevn",
+    "version": "1.5.2",
+    "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
+    "category": [
+      "Framework"
+    ],
+    "date": "2014/01/28",
+    "build": "59607",
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.2.zip"
+  },
+  "staticmenu": {
+    "display_name": "Staticmenu",
+    "description": "Faster main menu",
+    "author": "Cola_Colin",
+    "version": "2",
+    "build": "58772",
+    "date": "2013/12/27",
+    "forum": "https://forums.uberent.com/threads/rel-static-menu-58197.54758/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
+  },
+  "tankcommander": {
+    "display_name": "Tank Commander",
+    "description": "Replaces Delta commander with unreleased Tank Commander",
+    "author": "maxpowerz",
+    "version": "1.0",
+    "forum": "https://forums.uberent.com/threads/i-dont-know-if-youve-noticed-or-not.55559/",
+    "category": [
+      "Commander"
+    ],
+    "date": "2014/01/12",
+    "build": "58772",
+    "url": "http://pamods.github.io/user_mods/tankcommander_v1.0.zip"
+  },
+  "tauntMod": {
+    "display_name": "TauntMod",
+    "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
+    "author": "SideSplitter",
+    "version": "1.0.3",
+    "build": "59607",
+    "date": "2014/01/27",
+    "forum": "https://forums.uberent.com/threads/rel-tauntmod-v1-0-1-59607-adds-aoe-ii-taunts.56026/",
+    "category": [
+      "in-game",
+      "ui",
+      "taunts",
+      "sound",
+      "aoe"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/tauntMod_v1.0.3.zip"
+  },
+  "tAutoFactory": {
+    "display_name": "Auto Factory",
+    "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
+    "author": "trialq",
+    "version": "1.1",
+    "build": "59607",
+    "date": "2014/02/01",
+    "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame",
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.1.zip"
+  },
+  "tBuildingWriter": {
+    "display_name": "Building Writer",
+    "description": "Use buildings to write text. See forum for details",
+    "author": "trialq",
+    "version": "1.1",
+    "build": "59607",
+    "date": "2014/01/22",
+    "forum": "https://forums.uberent.com/threads/rel-building-writer.55793/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.1.zip"
+  },
+  "teamBuildColor": {
+    "display_name": "Team Build Color",
+    "description": "Changes the Build Color to your Team Color instead of green",
+    "author": "rcix",
+    "version": "1.0.0",
+    "build": "58772",
+    "date": "2013/12/28",
+    "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.0.zip"
+  },
+  "transicons": {
+    "display_name": "Transparent Strategic Icons",
+    "description": "Transparent Strategic Icons",
+    "author": "moldez",
+    "version": "2.0",
+    "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
+    "category": [
+      "Strategic Icons"
+    ],
+    "date": "2014/01/04",
+    "build": "58772",
+    "url": "http://pamods.github.io/user_mods/transicons_v2.0.zip"
+  },
+  "tSystemEditorFix": {
+    "display_name": "System Editor Fix",
+    "description": "Adds input validation in system editor, so editor crashes less",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/01/17",
+    "forum": "https://forums.uberent.com/threads/rel-system-editor-fix-59549.55732/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.zip"
   }
 }
