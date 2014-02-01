@@ -186,6 +186,7 @@
   "hotbuild2": {
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
+    "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
     "author": "proeleert,tripax,cola_colin",
     "version": "1.9.9.6",
     "build": "59607",
@@ -195,6 +196,7 @@
       "in-game",
       "ui"
     ],
+    "icon": "http://pamods.github.io/icons/hotbuild2.png",
     "requires": [
       "rFloatFrame",
       "rSettingsManager"
