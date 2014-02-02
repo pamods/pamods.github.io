@@ -325,12 +325,13 @@
   },
   "PAMentor": {
     "display_name": "PA Mentor",
-    "description": "Shows how your in-game stats compared to other players",
+    "description": "Shows how your in-game stats compare to other players, to help in learning how fast to expand",
     "author": "ORFJackal",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "build": "59607",
-    "date": "2014/01/31",
+    "date": "2014/02/02",
     "forum": "https://forums.uberent.com/threads/rel-pa-mentor.55399/",
+    "icon": "http://pamods.github.io/icons/PAMentor.png",
     "category": [
       "in-game",
       "ui"
@@ -338,7 +339,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/PAMentor_v0.2.0.zip"
+    "url": "http://pamods.github.io/user_mods/PAMentor_v0.3.0.zip"
   },
   "planetpreview": {
     "display_name": "Planet Preview details",
