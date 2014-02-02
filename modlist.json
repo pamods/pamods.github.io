@@ -494,10 +494,11 @@
     "display_name": "TauntMod",
     "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
     "author": "SideSplitter",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "build": "59607",
-    "date": "2014/01/27",
+    "date": "2014/02/01",
     "forum": "https://forums.uberent.com/threads/rel-tauntmod-v1-0-1-59607-adds-aoe-ii-taunts.56026/",
+    "icon": "http://pamods.github.io/icons/tauntMod.png",
     "category": [
       "in-game",
       "ui",
@@ -508,7 +509,7 @@
     "requires": [
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/tauntMod_v1.0.3.zip"
+    "url": "http://pamods.github.io/user_mods/tauntMod_v1.0.4.zip"
   },
   "tAutoFactory": {
     "display_name": "Auto Factory",
