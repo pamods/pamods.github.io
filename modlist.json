@@ -269,6 +269,7 @@
     "requires": [
       "rSettingsManager"
     ],
+    "icon": "http://pamods.github.io/icons/UnitRenamer.png",
     "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-1.zip"
   },
   "LavaSnakes_ProfilePicFixer": {
@@ -283,6 +284,7 @@
       "Main Menu",
       "ui"
     ],
+    "icon": "http://pamods.github.io/icons/ProfilePicFixer.png",
     "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v1-3.zip"
   },
   "LavaSnakes_StargateBugFix": {
@@ -297,6 +299,7 @@
       "In-game",
       "ui"
     ],
+    "icon": "http://pamods.github.io/icons/StargateBugFix.png",
     "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip"
   },
   "modbatch": {
