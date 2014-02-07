@@ -87,24 +87,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.2.zip"
   },
-  "cShareSystems": {
-    "display_name": "System Sharing",
-    "description": "Share your favorite systems with other users.",
-    "author": "Captain Conundrum",
-    "version": "1.0.0",
-    "build": "59607",
-    "date": "2014/02/07",
-    "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
-    "category": [
-      "ui"
-    ],
-    "load_planet": [
-      "coui://ui/mods/cShareSystems/cShareSystems.js",
-      "coui://ui/mods/cShareSystems/load_planet.js",
-      "coui://ui/mods/cShareSystems/cShareSystems.css"
-    ],
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.0.0.zip"
-  },
   "dBetterSystemView": {
     "display_name": "Better System View",
     "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
