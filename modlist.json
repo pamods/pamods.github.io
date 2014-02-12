@@ -518,6 +518,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
   },
+  "SupremeCommanderIcons": {
+    "display_name": "Supreme Commander Icons",
+    "display_name_nl" : "Supreme Commander iconen",
+    "description": "Supreme Commander icons in PA!",
+    "description_nl" : "Supreme Commander iconen in PA!",
+    "author": "nuketf",
+    "version": "1.0",
+    "build": "59607",
+    "date": "2014/02/12",
+    "forum": "https://forums.uberent.com/threads/supcom-icons-fixed.56373/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
+  },
   "tankcommander": {
     "display_name": "Tank Commander",
     "description": "Replaces Delta commander with unreleased Tank Commander",
