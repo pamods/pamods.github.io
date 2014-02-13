@@ -519,19 +519,20 @@
     "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
   },
   "SupremeCommanderIcons": {
-    "display_name": "Supreme Commander Icons",
-    "display_name_nl" : "Supreme Commander iconen",
-    "description": "Supreme Commander icons in PA!",
-    "description_nl" : "Supreme Commander iconen in PA!",
     "author": "nuketf",
-    "version": "1.0",
     "build": "59607",
-    "date": "2014/02/12",
-    "forum": "https://forums.uberent.com/threads/supcom-icons-fixed.56373/",
     "category": [
-      "ui"
+      "ui",
+      "in-game"
     ],
-    "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
+    "date": "2014/02/11",
+    "description": "Supreme Commander icons in PA!",
+    "description_nl": "Supreme Commander iconen in PA!",
+    "display_name": "Supreme Commander icons",
+    "display_name_nl": "Supreme Commander iconen",
+    "forum": "https://forums.uberent.com/threads/supcom-icons-fixed.56373/",
+    "version": "1.0",
+    "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip"
   },
   "tankcommander": {
     "display_name": "Tank Commander",
@@ -631,6 +632,23 @@
       "in-game"
     ],
     "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.0.zip"
+  },
+  "teamspeak": {
+    "display_name": "TeamSpeak overlay",
+    "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
+    "author": "danzel",
+    "version": "1.0.0",
+    "build": "59607",
+    "date": "2014/02/13",
+    "forum": "https://forums.uberent.com/threads/teamspeak-overlay.56469/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.0.zip"
   },
   "transicons": {
     "display_name": "Transparent Strategic Icons",
