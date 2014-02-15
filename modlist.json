@@ -416,7 +416,7 @@
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
     "author": "Raevn",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "forum": "https://forums.uberent.com/threads/wip-blueprint-info-framework.56213/",
     "category": [
       "framework"
@@ -442,9 +442,9 @@
     "replay_browser": [
       "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
     ],
-    "date": "2014/02/13",
+    "date": "2014/02/15",
     "build": "59607",
-    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.1.0.zip"
   },
   "rChatPlayerColour": {
     "display_name": "Chat Player Colours",
@@ -539,6 +539,23 @@
     "date": "2014/01/28",
     "build": "59607",
     "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.2.zip"
+  },
+  "rUnitDatabase": {
+    "display_name": "Unit Database",
+    "description": "View details on all PA units",
+    "author": "Raevn",
+    "version": "1.0.0",
+    "forum": "https://forums.uberent.com/threads/wip-unit-database.56261/",
+    "category": [
+      "reference",
+      "ui"
+    ],
+    "requires": [
+      "rBlueprintInfoFramework"
+    ],
+    "date": "2014/02/15",
+    "build": "59607",
+    "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.0.0.zip"
   },
   "staticmenu": {
     "display_name": "Staticmenu",
