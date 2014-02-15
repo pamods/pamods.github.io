@@ -672,9 +672,9 @@
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
     "author": "danzel",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "build": "59607",
-    "date": "2014/02/13",
+    "date": "2014/02/15",
     "forum": "https://forums.uberent.com/threads/teamspeak-overlay.56469/",
     "category": [
       "in-game",
@@ -683,7 +683,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
   },
   "transicons": {
     "display_name": "Transparent Strategic Icons",
