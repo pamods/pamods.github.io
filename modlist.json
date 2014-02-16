@@ -50,9 +50,9 @@
     "display_name": "Enhanced System Preview",
     "description": "Improves the system selection screen so that you can see every planet in a system.",
     "author": "Captain Conundrum",
-    "version": "1.0",
+    "version": "1.1.0",
     "build": "59607",
-    "date": "2014/02/02",
+    "date": "2014/02/16",
     "forum": "https://forums.uberent.com/threads/rel-enhanced-system-preview.56205/",
     "category": [
       "ui"
@@ -61,7 +61,7 @@
       "coui://ui/mods/cEnhancedSystemPreview/cEnhancedSystemPreview.js",
       "coui://ui/mods/cEnhancedSystemPreview/cEnhancedSystemPreview.css"
     ],
-    "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip"
   },
   "circleToLine": {
     "display_name": "Circle to Line mod",
