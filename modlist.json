@@ -105,6 +105,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.0.zip"
   },
+  "CustomSkybox": {
+    "display_name": "Custom Skybox",
+    "description": "You can import custom skyboxes with this mod",
+    "author": "superouman",
+    "version": "1.0",
+    "build": "59549",
+    "date": "2014/02/15",
+    "forum": "https://forums.uberent.com/threads/unofficial-papa-file-format.46767/page-4#post-869999",
+    "category": [
+      "In-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/CustomSkybox_v0.9.zip"
+  },
   "dBetterSystemView": {
     "display_name": "Better System View",
     "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
