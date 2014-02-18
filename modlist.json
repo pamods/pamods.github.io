@@ -107,16 +107,16 @@
   },
   "CustomSkybox": {
     "display_name": "Custom Skybox",
-    "description": "You can import custom skyboxes with this mod",
+    "description": "Use and import different skyboxes",
     "author": "superouman",
     "version": "1.0",
-    "build": "59549",
+    "build": "59607",
     "date": "2014/02/15",
-    "forum": "https://forums.uberent.com/threads/unofficial-papa-file-format.46767/page-4#post-869999",
+    "forum": "https://forums.uberent.com/threads/rel-custom-skybox.56562/",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/CustomSkybox_v0.9.zip"
+    "url": "http://pamods.github.io/user_mods/CustomSkybox_v1.0.zip"
   },
   "dBetterSystemView": {
     "display_name": "Better System View",
