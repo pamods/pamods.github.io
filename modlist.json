@@ -34,17 +34,18 @@
   },
   "BuildPower": {
     "display_name": "Build Power",
-    "description": "Shows the fabrication rate and energy consumption of the selected units",
+    "description": "Shows the fabrication rate and energy consumption of the selected units and factories",
     "author": "ORFJackal",
-    "version": "1.1.0",
-    "build": "58772",
-    "date": "2013/12/29",
+    "version": "1.1.1",
+    "build": "61250",
+    "date": "2014/02/20",
     "forum": "https://forums.uberent.com/threads/build-power.54974/",
+    "icon": "http://pamods.github.io/icons/BuildPower.png",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.0.zip"
+    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.1.zip"
   },
   "cEnhancedSystemPreview": {
     "display_name": "Enhanced System Preview",
