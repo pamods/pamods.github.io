@@ -491,9 +491,9 @@
     "display_name": "Commander Health Display",
     "description": "Adds a display to the UI that tracks your commander's health",
     "author": "raevn, danzel, burntcustard",
-    "version": "2.7.3",
-    "build": "58772",
-    "date": "2014/01/13",
+    "version": "2.7.4",
+    "build": "61250",
+    "date": "2014/02/20",
     "forum": "https://forums.uberent.com/threads/rel-commander-health-display-v2.50584/",
     "category": [
       "in-game",
@@ -503,7 +503,7 @@
       "rFloatFrame",
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v2.7.3.zip"
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v2.7.4.zip"
   },
   "rFloatFrame": {
     "display_name": "Floating Framework",
