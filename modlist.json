@@ -571,6 +571,19 @@
     "build": "61250",
     "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.1.0.zip"
   },
+  "SpacedOutDefenceTowers": {
+    "display_name": "Spaced-out Defence Towers",
+    "description": "Puts more space between dragged turret lines",
+    "author": "superouman",
+    "version": "1.0",
+    "build": "61250",
+    "date": "2014/02/20",
+    "forum": "https://forums.uberent.com/threads/notyet",
+    "category": [
+      "In-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.0.zip"
+  },
   "staticmenu": {
     "display_name": "Staticmenu",
     "description": "Faster main menu",
