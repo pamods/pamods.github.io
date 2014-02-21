@@ -64,6 +64,15 @@
     ],
     "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip"
   },
+  "circleToLine": {
+    "display_name": "Circle to Line mod",
+    "description": "Changes all the circle builds to line build (metal+energy storage)",
+    "author": "ZaphodX, iceDrop",
+    "version": "1.1",
+    "build": "61450",
+    "date": "2014/02/21",
+    "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip"
+  },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
