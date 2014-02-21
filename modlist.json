@@ -64,13 +64,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip"
   },
-  "circleToLine": {
-    "display_name": "Circle to Line mod",
-    "description": "Changes all the circle builds to line build (t1+t2 energy, metal+energy storage)",
-    "author": "ZaphodX, iceDrop",
-    "version": "1.0",
-    "url": "http://pamods.github.io/user_mods/circleToLine_v1.0.zip"
-  },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
@@ -612,19 +605,6 @@
     "forum": "https://forums.uberent.com/threads/supcom-icons-fixed.56373/",
     "version": "1.0",
     "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip"
-  },
-  "tankcommander": {
-    "display_name": "Tank Commander",
-    "description": "Replaces Delta commander with unreleased Tank Commander",
-    "author": "maxpowerz",
-    "version": "1.0",
-    "forum": "https://forums.uberent.com/threads/i-dont-know-if-youve-noticed-or-not.55559/",
-    "category": [
-      "Commander"
-    ],
-    "date": "2014/01/12",
-    "build": "58772",
-    "url": "http://pamods.github.io/user_mods/tankcommander_v1.0.zip"
   },
   "tauntMod": {
     "display_name": "TauntMod",
