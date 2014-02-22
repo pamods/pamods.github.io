@@ -60,6 +60,23 @@
     ],
     "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.1.zip"
   },
+  "cDraggablePip": {
+    "display_name": "Draggable Picture in Picture",
+    "description": "Makes the PiP window draggable",
+    "author": "Captain Conundrum",
+    "version": "1.0.0",
+    "build": "61450",
+    "date": "2014/02/21",
+    "forum": "https://forums.uberent.com/threads/rel-draggable-picture-in-picture.56738/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.0.0.zip"
+  },
   "cEnhancedSystemPreview": {
     "display_name": "Enhanced System Preview",
     "description": "Improves the system selection screen so that you can see every planet in a system.",
