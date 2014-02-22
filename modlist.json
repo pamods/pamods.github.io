@@ -32,6 +32,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.4.zip"
   },
+  "blackscreenfix": {
+    "display_name": "No Blackscreens",
+    "description": "Experimental stuff for PA v.61450",
+    "author": "Cola_Colin",
+    "version": "1.0",
+    "build": "61450",
+    "forum": "https://forums.uberent.com/threads/rel-possible-fix-for-blackscreen-issues.56735/",
+    "category": [
+      "Bugfix"
+    ],
+    "date": "2014/02/22",
+    "url": "http://pamods.github.io/user_mods/blackscreenfix_v1.0.zip"
+  },
   "BuildPower": {
     "display_name": "Build Power",
     "description": "Shows the fabrication rate and energy consumption of the selected units and factories",
