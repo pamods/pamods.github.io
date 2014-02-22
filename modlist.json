@@ -2,15 +2,15 @@
   "alertsManager": {
     "display_name": "Alerts Manager",
     "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
-    "author": "Cola_Colin, cptconundrum",
-    "version": "1.1.0",
+    "author": "Cola_Colin",
+    "version": "1.1.1",
     "forum": "https://forums.uberent.com/threads/rel-alertsmanager-58772.55590/",
     "category": [
       "Framework"
     ],
     "date": "2014/02/21",
     "build": "61450",
-    "url": "http://pamods.github.io/user_mods/alertsManager_v1.1.0.zip"
+    "url": "http://pamods.github.io/user_mods/alertsManager_v1.1.1.zip"
   },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
@@ -62,9 +62,9 @@
   },
   "cDraggablePip": {
     "display_name": "Draggable Picture in Picture",
-    "description": "Makes the PiP window draggable",
+    "description": "Makes the PiP window draggable. Does not work with the No blackscreen fix.",
     "author": "Captain Conundrum",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "build": "61450",
     "date": "2014/02/21",
     "forum": "https://forums.uberent.com/threads/rel-draggable-picture-in-picture.56738/",
@@ -75,7 +75,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.0.1.zip"
   },
   "cEnhancedSystemPreview": {
     "display_name": "Enhanced System Preview",
