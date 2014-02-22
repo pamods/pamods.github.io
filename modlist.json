@@ -3,14 +3,14 @@
     "display_name": "Alerts Manager",
     "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
     "author": "Cola_Colin",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "forum": "https://forums.uberent.com/threads/rel-alertsmanager-58772.55590/",
     "category": [
       "Framework"
     ],
-    "date": "2014/02/21",
+    "date": "2014/02/22",
     "build": "61450",
-    "url": "http://pamods.github.io/user_mods/alertsManager_v1.1.1.zip"
+    "url": "http://pamods.github.io/user_mods/alertsManager_v1.1.2.zip"
   },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
