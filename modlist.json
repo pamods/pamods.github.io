@@ -467,7 +467,7 @@
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
     "author": "Raevn",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "forum": "https://forums.uberent.com/threads/wip-blueprint-info-framework.56213/",
     "category": [
       "framework"
@@ -493,9 +493,15 @@
     "replay_browser": [
       "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
     ],
-    "date": "2014/02/20",
-    "build": "61250",
-    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.2.0.zip"
+    "live_game_econ": [
+      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
+    ],
+    "live_game_hover": [
+      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
+    ],
+    "date": "2014/02/23",
+    "build": "61450",
+    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.3.0.zip"
   },
   "rChatPlayerColour": {
     "display_name": "Chat Player Colours",
