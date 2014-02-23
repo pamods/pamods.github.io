@@ -110,12 +110,12 @@
     "version": "1.0",
     "build": "61450",
     "date": "2014/02/22",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/rel-split-screen-always-on-toggleable-versions.56767/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corSplitScreen.zip"
+    "url": "http://pamods.github.io/user_mods/corSplitScreen_1.0.1.zip"
   },
   "corToggleableSplitScreen": {
     "display_name": "PA Toggleable Split Screen",
@@ -124,12 +124,12 @@
     "version": "1.0",
     "build": "61450",
     "date": "2014/02/22",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/rel-split-screen-always-on-toggleable-versions.56767/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corToggleableSplitScreen.zip"
+    "url": "http://pamods.github.io/user_mods/corToggleableSplitScreen_1.0.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
