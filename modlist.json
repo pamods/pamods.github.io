@@ -447,6 +447,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/nostarfield_v1.0.zip"
   },
+  "nScreens": {
+    "display_name": "n Screens",
+    "description": "Mod tries to make it easier to configure multiscreen pip setups. Best used together with some sort of fullscreen script",
+    "author": "Cola_Colin",
+    "version": "1.1",
+    "forum": "",
+    "category": [
+      "Framework"
+    ],
+    "date": "2014/02/23",
+    "build": "61450",
+    "url": "http://pamods.github.io/user_mods/nScreens_v1.1.zip"
+  },
   "pa_stats_online": {
     "display_name": "PA Stats Online",
     "description": "Track your statistics",
