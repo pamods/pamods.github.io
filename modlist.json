@@ -273,6 +273,25 @@
     ],
     "url": "http://pamods.github.io/user_mods/EcoEff_v1.2.zip"
   },
+  "gross_economy": {
+    "author": "wondible",
+    "build": "61250",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/02/19",
+    "description": "Status bar that emphasises income and expense so that they can be visually compared.",
+    "display_name": "Gross Economy",
+    "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
+    "live_game_econ": [
+      "coui://ui/mods/gross_economy/status_bar.css",
+      "coui://ui/mods/gross_economy/status_bar.js"
+    ],
+    "requires": null,
+    "version": "1.0.1",
+    "url": "http://pamods.github.io/user_mods/gross_economy_v1.0.1.zip"
+  },
   "hotbuild2": {
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
