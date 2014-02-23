@@ -17,9 +17,9 @@
     "description": "Click once to set camera anchor, and again to snap back there.",
     "description_nl": "Sla Cameraposities op met een knop en klik nog eens om terug te keren.",
     "author": "burntcustard, proeleert",
-    "version": "1.4",
-    "build": "59607",
-    "date": "2014/02/01",
+    "version": "1.5",
+    "build": "61250",
+    "date": "2014/23/02",
     "forum": "https://forums.uberent.com/threads/rel-anchor-buttons-v1-0-57703.54563/",
     "category": [
       "in-game",
@@ -30,7 +30,7 @@
       "rFloatFrame",
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.4.zip"
+    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.5.zip"
   },
   "blackscreenfix": {
     "display_name": "No Blackscreens",
