@@ -1,4 +1,4 @@
-Website for hosting mod downloads for the Planetary Annihilation Mod Manager
+This repo is used for hosting mod downloads for the Planetary Annihilation Mod Manager
 
 ### Usage for non-members
 
@@ -6,10 +6,9 @@ Website for hosting mod downloads for the Planetary Annihilation Mod Manager
 - Zip your mod up correctly for PAMM.
 - Add it to the user_mods dir.
 - Add your update/release to the news tab by copying the commented code in news.html and filling it in with your announcement. (Optional)
-- Commit and Send a pull request
+- Commit and send a pull request
 
-Then when the PR is accepted, we'll run the tool to regenerate modlist.json and your mod will be available :)
-
+Then when the pull request is accepted, we'll run the tool to regenerate modlist.json and your mod will be available :) After you make a couple of mods we'll add you as a member so you won't need to wait for your pull requests to be accepted anymore.
 
 ### Usage for members
 
@@ -30,5 +29,5 @@ Then when the PR is accepted, we'll run the tool to regenerate modlist.json and 
 - Make changes and push them up (This is the instructions above)
 
 
-### Read this guide on the forum also
+### More information on making mods for PA and how to configure them for PAMM
 https://forums.uberent.com/threads/guide-getting-your-mod-on-pamm.55189/
