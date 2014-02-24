@@ -5,6 +5,7 @@ Website for hosting mod downloads for the Planetary Annihilation Mod Manager
 - Clone this repository
 - Zip your mod up correctly for PAMM.
 - Add it to the user_mods dir.
+- Add your update/release to the news tab by copying the commented code in news.html and filling it in with your announcement. (Optional)
 - Commit and Send a pull request
 
 Then when the PR is accepted, we'll run the tool to regenerate modlist.json and your mod will be available :)
