@@ -736,6 +736,22 @@
     "version": "1.0",
     "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip"
   },
+  "tatsuicons": {
+    "display_name": "tatsu icons",
+    "description": "Forged Alliance Forever-inspired icons",
+    "author": "tatsu",
+    "version": "5",
+    "build": "61450",
+    "date": "2014/02/25",
+    "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/d.jpg",
+    "category": [
+      "Strategic Icons",
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/tatsuicons_1.0.0.zip"
+  },
   "tauntMod": {
     "display_name": "TauntMod",
     "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
