@@ -414,16 +414,16 @@
     "display_name": "Profile Pic Fixer",
     "description": "A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. Can also add info from PA Stats Ladder to the main menu. (See forum link for setup instructions)",
     "author": "LavaSnake",
-    "version": "1.65",
-    "build": "61450",
-    "date": "2014/02/26",
+    "version": "1.66",
+    "build": "61694",
+    "date": "2014/02/27",
     "forum": "https://forums.uberent.com/threads/rel-profile-pic-fixer-56387.53531/",
     "category": [
       "Main Menu",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/ProfilePicFixer.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v1-65.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v1-66.zip"
   },
   "LavaSnakes_StargateBugFix": {
     "display_name": "Stargate Name Bug Fix",
