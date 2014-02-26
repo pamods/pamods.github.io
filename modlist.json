@@ -740,9 +740,9 @@
     "display_name": "tatsu icons",
     "description": "Forged Alliance Forever-inspired icons",
     "author": "tatsu",
-    "version": "5",
-    "build": "61450",
-    "date": "2014/02/25",
+    "version": "7",
+    "build": "61694",
+    "date": "2014/02/26",
     "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
     "icon": "https://dl.dropboxusercontent.com/u/22720750/d.jpg",
     "category": [
@@ -750,7 +750,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/tatsuicons_1.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/tatsuicons_v7.zip"
   },
   "tauntMod": {
     "display_name": "TauntMod",
@@ -876,15 +876,14 @@
     "display_name": "Transparent Strategic Icons",
     "description": "Transparent Strategic Icons",
     "author": "Moldez",
-    "version": "3.0",
-    "icon": "http://pamods.github.io/icons/transicons.png",
+    "version": "3.1",
     "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
     "category": [
       "Strategic Icons"
     ],
-    "date": "2014/02/22",
-    "build": "61450",
-    "url": "http://pamods.github.io/user_mods/transicons_v3.0.zip"
+    "date": "2014/02/26",
+    "build": "61250",
+    "url": "http://pamods.github.io/user_mods/transicons_v3.1.zip"
   },
   "tSystemEditorFix": {
     "display_name": "System Editor Fix",
