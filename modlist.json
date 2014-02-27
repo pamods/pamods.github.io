@@ -899,13 +899,13 @@
     ],
     "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
-  "vipeztress": {
+  "VipezTrees": {
     "display_name": "Christmas Trees",
     "description": "Christmas Spirit in PA!",
     "author": "vipez",
-    "version": "2",
+    "version": "3",
     "build": "61694",
-    "date": "2014/02/26",
+    "date": "2014/02/27",
     "forum": "https://forums.uberent.com/threads/rel-christmas-trees.50033/",
     "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
     "category": [
@@ -913,6 +913,6 @@
       "trees",
       "in-game"
     ],
-    "url": "http://pamods.github.io/user_mods/VipezTrees_v2.zip"
+    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
   }
 }
