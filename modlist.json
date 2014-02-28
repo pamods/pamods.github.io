@@ -169,9 +169,9 @@
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. Enhanced System Preview is recommended with this mod.",
     "author": "Captain Conundrum",
-    "version": "1.1.1",
-    "build": "59607",
-    "date": "2014/02/19",
+    "version": "1.1.2",
+    "build": "62110",
+    "date": "2014/02/28",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
@@ -181,7 +181,7 @@
       "coui://ui/mods/cShareSystems/load_planet.js",
       "coui://ui/mods/cShareSystems/cShareSystems.css"
     ],
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.1.zip"
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.2.zip"
   },
   "CustomSkybox": {
     "display_name": "Custom Skybox",
