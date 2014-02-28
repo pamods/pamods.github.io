@@ -437,6 +437,23 @@
     "icon": "http://pamods.github.io/icons/StargateBugFix.png",
     "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip"
   },
+  "linger": {
+    "author": "wondible",
+    "build": "62110",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/02/28",
+    "description": "Prevent the game from existing immediately, and provides a button to go to game over.",
+    "display_name": "Linger",
+    "forum": "https://forums.uberent.com/threads/wip-linger.56944/",
+    "requires": [
+      "rFloatFrame"
+    ],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/linger_v1.0.zip"
+  },
   "modbatch": {
     "display_name": "Mod BatchSize",
     "description": "Change Batchsize from 5 to 100",
