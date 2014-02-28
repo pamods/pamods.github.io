@@ -451,19 +451,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip"
   },
-  "nostarfield": {
-    "display_name": "NoStarField",
-    "description": "Removes the StarField Animation from Home",
-    "author": "proeleert",
-    "version": "1.0.0",
-    "build": "58772",
-    "date": "2013/12/23",
-    "forum": "https://forums.uberent.com/threads/rel-static-menu-58197.54758/",
-    "category": [
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/nostarfield_v1.0.zip"
-  },
   "nScreens": {
     "display_name": "n Screens",
     "description": "Mod tries to make it easier to configure multiscreen pip setups. Best used together with some sort of fullscreen script",
