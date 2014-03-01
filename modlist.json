@@ -103,33 +103,19 @@
     "date": "2014/02/21",
     "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip"
   },
-  "corSplitScreen": {
-    "display_name": "PA Split Screen",
-    "description": "Always on split screen with toggleable PiP",
+  "corBetterBuidBar": {
+    "display_name": "Better Build Bar",
+    "description": "Transparent Build Bar that takes up less space",
     "author": "Corang",
     "version": "1.0",
-    "build": "61450",
-    "date": "2014/02/22",
-    "forum": "",
+    "build": "62110",
+    "date": "2014/03/01",
+    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corSplitScreen.zip"
-  },
-  "corToggleableSplitScreen": {
-    "display_name": "PA Toggleable Split Screen",
-    "description": "Toggle between one view and two split screen views with the PiP button",
-    "author": "Corang",
-    "version": "1.0",
-    "build": "61450",
-    "date": "2014/02/22",
-    "forum": "",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/corToggleableSplitScreen.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v1.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
