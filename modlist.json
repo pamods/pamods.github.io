@@ -120,20 +120,6 @@
     "date": "2014/02/21",
     "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip"
   },
-  "corBetterBuidBar": {
-    "display_name": "Better Build Bar",
-    "description": "Transparent Build Bar that takes up less space",
-    "author": "Corang",
-    "version": "1.1",
-    "build": "62110",
-    "date": "2014/03/01",
-    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v1.1.zip"
-  },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
