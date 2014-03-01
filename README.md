@@ -15,7 +15,9 @@ Then when the pull request is accepted, we'll run the tool to regenerate modlist
 - Clone this repository
 - Zip your mod up correctly for PAMM.
 - Add it to the user_mods dir.
-- Run ListGenerator.exe (Windows / .NET Framework 2.0 or higher required) or Linux (Mono (tested with 2.8))
+- Run ListGenerator.exe
+  - For Windows .NET Framework 2.0 or higher required
+  - For Linux and Mac just run it with Mono (tested with 2.8)
 - Add your update/release to the news tab by copying the commented code in news.html and filling it in with your announcement. (Optional)
 - Commit all changes (adding/replacing your mod zip and updating modlist.json)
 - Push changes
