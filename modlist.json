@@ -124,15 +124,15 @@
     "display_name": "Better Build Bar",
     "description": "Transparent Build Bar that takes up less space",
     "author": "Corang",
-    "version": "1.0",
+    "version": "1.1",
     "build": "62110",
     "date": "2014/03/01",
-    "forum": "",
+    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v1.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
