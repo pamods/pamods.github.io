@@ -134,6 +134,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v1.1.zip"
   },
+  "corTestEnvironment": {
+    "display_name": "Mod Test Environment",
+    "description": "Adds test option to AI difficulty dropdown that sets AI economic multiplier to -1",
+    "author": "Corang",
+    "version": "1.0",
+    "build": "62110",
+    "date": "2014/03/02",
+    "forum": "https://forums.uberent.com/threads/rel-testing-environment-for-mods-etc.57225/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/corTestEnvironment_v1.0.zip"
+  },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
