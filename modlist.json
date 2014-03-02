@@ -120,15 +120,15 @@
     "display_name": "Better Build Bar",
     "description": "Transparent Build Bar that takes up less space",
     "author": "Corang",
-    "version": "1.1",
-    "build": "62110",
-    "date": "2014/03/01",
+    "version": "2.0",
+    "build": "62165",
+    "date": "2014/03/02",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
@@ -194,14 +194,14 @@
       "ui"
     ],
     "date": "2014/03/02",
-	"description" : "Automatically selects your favourite colour in the lobby.",
-	"description_nl" : "Kiest automatisch uw favoriete kleur in de lobby.",
-	"description_de" : "Wählt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
-	"description_fr" : "Choisit automatiquement vorte couleur préférée dans le foyer.",
-	"display_name" : "Favourite Colour",
-	"display_name_nl" : "Lievelingskleur",
-	"display_name_de" : "Lieblingsfarbe",
-	"display_name_fr" : "Couleur préférée",
+    "description": "Automatically selects your favourite colour in the lobby.",
+    "description_nl": "Kiest automatisch uw favoriete kleur in de lobby.",
+    "description_de": "Wählt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
+    "description_fr": "Choisit automatiquement vorte couleur préférée dans le foyer.",
+    "display_name": "Favourite Colour",
+    "display_name_nl": "Lievelingskleur",
+    "display_name_de": "Lieblingsfarbe",
+    "display_name_fr": "Couleur préférée",
     "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
     "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
     "requires": [
