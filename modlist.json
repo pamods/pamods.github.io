@@ -88,10 +88,6 @@
     "category": [
       "ui"
     ],
-    "load_planet": [
-      "coui://ui/mods/cEnhancedSystemPreview/cEnhancedSystemPreview.js",
-      "coui://ui/mods/cEnhancedSystemPreview/cEnhancedSystemPreview.css"
-    ],
     "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip"
   },
   "cGGButton": {
@@ -161,11 +157,6 @@
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
-    ],
-    "load_planet": [
-      "coui://ui/mods/cShareSystems/cShareSystems.js",
-      "coui://ui/mods/cShareSystems/load_planet.js",
-      "coui://ui/mods/cShareSystems/cShareSystems.css"
     ],
     "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.2.zip"
   },
@@ -298,10 +289,6 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/EcoEff.png",
-    "live_game_econ": [
-      "coui://ui/mods/EcoEff/EcoEff.css",
-      "coui://ui/mods/EcoEff/EcoEff.js"
-    ],
     "url": "http://pamods.github.io/user_mods/EcoEff_v1.2.zip"
   },
   "fabulous_selections": {
@@ -331,10 +318,6 @@
     "description": "Status bar that emphasises income and expense so that they can be visually compared.",
     "display_name": "Gross Economy",
     "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
-    "live_game_econ": [
-      "coui://ui/mods/gross_economy/status_bar.css",
-      "coui://ui/mods/gross_economy/bootstrap.js"
-    ],
     "requires": null,
     "version": "2.0.0",
     "url": "http://pamods.github.io/user_mods/gross_economy_v2.0.zip"
@@ -556,12 +539,6 @@
       "armory",
       "ui"
     ],
-    "scenes": {
-      "armory": [
-        "coui://ui/mods/rBiggerArmoryImages/rBiggerArmoryImages.js",
-        "coui://ui/mods/rBiggerArmoryImages/rBiggerArmoryImages.css"
-      ]
-    },
     "date": "2014/03/02",
     "build": "62165",
     "url": "http://pamods.github.io/user_mods/rBiggerArmoryImages_v1.1.0.zip"
@@ -574,33 +551,6 @@
     "forum": "https://forums.uberent.com/threads/wip-blueprint-info-framework.56213/",
     "category": [
       "framework"
-    ],
-    "connect_to_game": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "icon_atlas": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "load_planet": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "matchmaking": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "special_icon_atlas": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "transit": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "replay_browser": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "live_game_econ": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
-    ],
-    "live_game_hover": [
-      "coui://ui/mods/rBlueprintInfoFramework/rBlueprintInfoFramework_scene.js"
     ],
     "date": "2014/02/23",
     "build": "61450",
