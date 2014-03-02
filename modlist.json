@@ -546,6 +546,26 @@
     "build": "58772",
     "url": "http://pamods.github.io/user_mods/rAlertsFilter_v1.0.0.zip"
   },
+  "rBiggerArmoryImages": {
+    "display_name": "Armory Commander Preview",
+    "description": "Adds a large preview image of the selected Commander in the Armoury",
+    "author": "Raevn",
+    "version": "1.1.0",
+    "forum": "https://forums.uberent.com/threads/rel-bigger-armory-images-62037.56963/",
+    "category": [
+      "armory",
+      "ui"
+    ],
+    "scenes": {
+      "armory": [
+        "coui://ui/mods/rBiggerArmoryImages/rBiggerArmoryImages.js",
+        "coui://ui/mods/rBiggerArmoryImages/rBiggerArmoryImages.css"
+      ]
+    },
+    "date": "2014/03/02",
+    "build": "62165",
+    "url": "http://pamods.github.io/user_mods/rBiggerArmoryImages_v1.1.0.zip"
+  },
   "rBlueprintInfoFramework": {
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
