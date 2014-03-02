@@ -304,6 +304,22 @@
     ],
     "url": "http://pamods.github.io/user_mods/EcoEff_v1.2.zip"
   },
+  "fabulous_selections": {
+    "author": "wondible",
+    "build": "62110",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/03/01",
+    "description": "Highlight commanders and fabulous fabbers in the selected unit icons.",
+    "display_name": "Fabulous Selections",
+    "forum": "https://forums.uberent.com/threads/wip-selected-commander.56931/",
+    "icon": "http://pamods.github.io/icons/fabulous_selections.png",
+    "requires": [],
+    "version": "0.0.0",
+    "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip"
+  },
   "gross_economy": {
     "author": "wondible",
     "build": "62037",
