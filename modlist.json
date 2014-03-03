@@ -324,6 +324,26 @@
     "version": "0.0.0",
     "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip"
   },
+  "favComColor": {
+    "display_name": "Favorite Commander & Color",
+    "description": "Automatically chooses the correct colour and commander in the lobby",
+    "author": "SideSplitter",
+    "version": "1.0.0",
+    "build": "62037",
+    "date": "2014/03/01",
+    "forum": "https://forums.uberent.com/threads/rel-favorite-commander-and-color-v1-0-0-62037.57278/",
+    "icon": "http://pamods.github.io/icons/favComColor.png",
+    "category": [
+      "in-game",
+      "ui",
+      "lobby",
+      "automatic"
+    ],
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/favComColor_v1.0.0.zip"
+  },
   "gross_economy": {
     "author": "wondible",
     "build": "62037",
