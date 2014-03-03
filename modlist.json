@@ -325,12 +325,12 @@
     "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip"
   },
   "favComColor": {
-    "display_name": "Favorite Commander & Color",
+    "display_name": "Favorite Commander and Color",
     "description": "Automatically chooses the correct colour and commander in the lobby",
     "author": "SideSplitter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "build": "62037",
-    "date": "2014/03/01",
+    "date": "2014/03/03",
     "forum": "https://forums.uberent.com/threads/rel-favorite-commander-and-color-v1-0-0-62037.57278/",
     "icon": "http://pamods.github.io/icons/favComColor.png",
     "category": [
