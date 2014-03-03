@@ -324,9 +324,9 @@
     "version": "0.0.0",
     "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip"
   },
-  "favComColor": {
-    "display_name": "Favorite Commander and Color",
-    "description": "Automatically chooses the correct colour and commander in the lobby",
+  "favCommander": {
+    "display_name": "Favorite Commander",
+    "description": "Automatically chooses the commander selected in the armory",
     "author": "SideSplitter",
     "version": "1.0.1",
     "build": "62037",
@@ -339,10 +339,8 @@
       "lobby",
       "automatic"
     ],
-    "requires": [
-      "rSettingsManager"
-    ],
-    "url": "http://pamods.github.io/user_mods/favComColor_v1.0.0.zip"
+    "requires": [],
+    "url": "http://pamods.github.io/user_mods/favCommander_v1.0.1.zip"
   },
   "gross_economy": {
     "author": "wondible",
