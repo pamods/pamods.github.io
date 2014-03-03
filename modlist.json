@@ -345,6 +345,20 @@
     ],
     "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.9.5.zip"
   },
+  "inGameBrowser": {
+    "display_name": "inGameBrowser",
+    "description": "Adds an in game web browser",
+    "author": "someonewhoisnobody",
+    "version": "1.0",
+    "build": "62168",
+    "date": "2014/3/2",
+    "forum": "https://forums.uberent.com/threads/rel-in-game-browser-v1-0.57290/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.0.zip"
+  },
   "keymapper": {
     "display_name": "Hotbuild 1",
     "description": "Basic hotbuild",
