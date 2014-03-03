@@ -133,10 +133,10 @@
   },
   "corBetterBuildBar": {
     "display_name": "Better Build Bar",
-    "description": "Transparent Build Bar that takes up less space",
+    "description": "Transparent Build Bar that takes up less space - Toggle Tansparency at the bottom of the build bar",
     "author": "Corang",
-    "version": "2.0",
-    "build": "62165",
+    "version": "3.0",
+    "build": "62168",
     "date": "2014/03/02",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
