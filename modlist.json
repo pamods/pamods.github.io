@@ -963,5 +963,20 @@
       "in-game"
     ],
     "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
+  },
+  "wModPing": {
+    "display_name": "Mod Ping",
+    "description": "Can ping your enabled mods into ingame chat.",
+    "author": "The Magnificent Werty",
+    "version": "0.1.0",
+    "build": "61450",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-mod-ping-v0-1-0-share-your-mod-selection-in-chat.57378/",
+    "icon": "",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/wModPing_v0.1.0.zip"
   }
 }
