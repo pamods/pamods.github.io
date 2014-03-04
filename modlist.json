@@ -109,9 +109,9 @@
     "display_name": "Auto GG Button",
     "description": "Plays the GG Button sound every time someone types GG in chat.",
     "author": "Captain Conundrum",
-    "version": "1.0",
+    "version": "1.0.1",
     "build": "61450",
-    "date": "2014/02/25",
+    "date": "2014/03/04",
     "forum": "https://forums.uberent.com/threads/rel-auto-gg-button.56861/",
     "icon": "",
     "category": [
@@ -120,7 +120,7 @@
       "taunts",
       "sound"
     ],
-    "url": "http://pamods.github.io/user_mods/cGGButton_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/cGGButton_v1.0.1.zip"
   },
   "circleToLine": {
     "display_name": "Circle to Line mod",
