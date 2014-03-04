@@ -502,6 +502,22 @@
     ],
     "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip"
   },
+  "MushroomarsRainbow": {
+    "display_name": "Rainbow Fab Shader",
+    "description": "Factory fab shader that makes you taste the rainbow!",
+    "author": "MushrooMars",
+    "version": "1",
+    "build": "62168",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-rainbow-fab-shader-50355.49052/",
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/new.jpg",
+    "category": [
+      "Fab-Shader",
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/MushrooMarsRainbow_2.zip"
+  },
   "nScreens": {
     "display_name": "n Screens",
     "description": "Mod tries to make it easier to configure multiscreen pip setups. Best used together with some sort of fullscreen script",
@@ -716,6 +732,32 @@
     "build": "62168",
     "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.2.0.zip"
   },
+  "SCicons": {
+    "display_name": "Sup Com icons",
+    "description": "Forged Alliance Forever-inspired icons",
+    "author": "tatsu",
+    "version": "9",
+    "build": "62168",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/d.jpg",
+    "category": [
+      "Strategic Icons",
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "teamBuildColor",
+      "EcoEff",
+      "corBetterBuildBar",
+      "dTimer",
+      "linger",
+      "rCommanderHP",
+      "modbatch",
+      "rChronoClick"
+    ],
+    "url": "http://pamods.github.io/user_mods/tatsuicons_V9.zip"
+  },
   "SpacedOutDefenceTowers": {
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
@@ -757,22 +799,6 @@
     "forum": "https://forums.uberent.com/threads/supcom-icons-fixed.56373/",
     "version": "1.0",
     "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip"
-  },
-  "tatsuicons": {
-    "display_name": "tatsu icons",
-    "description": "Forged Alliance Forever-inspired icons",
-    "author": "tatsu",
-    "version": "7",
-    "build": "61694",
-    "date": "2014/02/26",
-    "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
-    "icon": "https://dl.dropboxusercontent.com/u/22720750/d.jpg",
-    "category": [
-      "Strategic Icons",
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/tatsuicons_v7.zip"
   },
   "tauntMod": {
     "display_name": "TauntMod",
@@ -898,14 +924,15 @@
     "display_name": "Transparent Strategic Icons",
     "description": "Transparent Strategic Icons",
     "author": "Moldez",
-    "version": "3.1",
+    "version": "3.2",
+    "icon": "http://pamods.github.io/icons/transicons.png",
     "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
     "category": [
       "Strategic Icons"
     ],
-    "date": "2014/02/26",
-    "build": "61250",
-    "url": "http://pamods.github.io/user_mods/transicons_v3.1.zip"
+    "date": "2014/03/03",
+    "build": "62168",
+    "url": "http://pamods.github.io/user_mods/transicons_v3.2.zip"
   },
   "tSystemEditorFix": {
     "display_name": "System Editor Fix",
