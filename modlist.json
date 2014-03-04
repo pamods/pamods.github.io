@@ -131,6 +131,20 @@
     "date": "2014/02/21",
     "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip"
   },
+  "cLobbyRenamer": {
+    "display_name": "Lobby Renamer",
+    "description": "Lets you change the game lobby name that shows in the server browser.",
+    "author": "Captain Conundrum",
+    "version": "1.0",
+    "build": "62225",
+    "date": "2014/03/04",
+    "forum": "https://forums.uberent.com/threads/rel-lobby-renamer.57414/",
+    "icon": "",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.0.0.zip"
+  },
   "corBetterBuildBar": {
     "display_name": "Better Build Bar",
     "description": "Transparent Build Bar that takes up less space - Toggle Tansparency at the bottom of the build bar",
