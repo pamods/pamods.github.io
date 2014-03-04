@@ -79,9 +79,9 @@
     "display_name": "Draggable Picture in Picture",
     "description": "Makes the PiP window draggable.",
     "author": "Captain Conundrum",
-    "version": "1.1.3",
-    "build": "61450",
-    "date": "2014/02/23",
+    "version": "1.1.4",
+    "build": "62225",
+    "date": "2014/03/04",
     "forum": "https://forums.uberent.com/threads/rel-draggable-picture-in-picture.56738/",
     "category": [
       "in-game",
@@ -90,7 +90,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.1.3.zip"
+    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.1.4.zip"
   },
   "cEnhancedSystemPreview": {
     "display_name": "Enhanced System Preview",
