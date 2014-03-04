@@ -978,5 +978,20 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/wModPing_v0.1.0.zip"
+  },
+  "wScriptSource": {
+    "display_name": "wScriptSource",
+    "description": "[mod debug tool] Enables easy breakpoints and clean overview of all mod sources in the Coherent UI Debugger. Warning: Shadows common.js to include scripts into head by src and not by appending text.",
+    "author": "The Magnificent Werty",
+    "version": "0.1.0",
+    "build": "61450",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-wscriptsource-v0-1-0-tiny-source-debugger-mod.57373/",
+    "icon": "",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/wScriptSource_v.0.1.0.zip"
   }
 }
