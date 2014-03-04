@@ -495,15 +495,15 @@
       "in-game",
       "ui"
     ],
-    "date": "2014/02/28",
-    "description": "Prevent the game from existing immediately, and provides a button to go to game over.",
+    "date": "2014/03/04",
+    "description": "Prevent the game from exiting immediately, and provides a button to go to game over.",
     "display_name": "Linger",
     "forum": "https://forums.uberent.com/threads/wip-linger.56944/",
     "requires": [
       "rFloatFrame"
     ],
-    "version": "1.0.0",
-    "url": "http://pamods.github.io/user_mods/linger_v1.0.zip"
+    "version": "1.0.1",
+    "url": "http://pamods.github.io/user_mods/linger_v1.0.1.zip"
   },
   "modbatch": {
     "display_name": "Mod BatchSize",
