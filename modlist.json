@@ -192,15 +192,15 @@
     "display_name": "Better System View",
     "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
     "author": "danzel",
-    "version": "1.1",
-    "build": "58772",
-    "date": "2013/12/23",
-    "forum": "https://twitter.com/daveleaver",
+    "version": "1.2",
+    "build": "62225",
+    "date": "2014/03/04",
+    "forum": "https://forums.uberent.com/threads/rel-better-system-view-55089.52922/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.2.zip"
   },
   "dFavouriteColour": {
     "author": "DeathByDenim",
