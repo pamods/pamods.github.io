@@ -148,19 +148,22 @@
     ],
     "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.0.0.zip"
   },
-  "corBetterBuildBar": {
-    "display_name": "Better Build Bar",
-    "description": "Transparent Build Bar that takes up less space - Toggle Tansparency at the bottom of the build bar",
+  "corBetterBuildBars": {
+    "display_name": "Better Build Bars",
+    "description": "4 different build bars available - Check the UI tab in settings at the bottom",
     "author": "Corang",
     "version": "3.0",
-    "build": "62168",
-    "date": "2014/03/02",
+    "build": "62225",
+    "date": "2014/03/04",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v3.0.zip"
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.0.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
