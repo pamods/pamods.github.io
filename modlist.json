@@ -87,6 +87,7 @@
       "in-game",
       "ui"
     ],
+    "icon": "http://pamods.github.io/icons/cDraggablePip.png",
     "requires": [
       "rFloatFrame"
     ],
@@ -113,7 +114,7 @@
     "build": "61450",
     "date": "2014/03/04",
     "forum": "https://forums.uberent.com/threads/rel-auto-gg-button.56861/",
-    "icon": "",
+    "icon": "http://pamods.github.io/icons/cGGButton.png",
     "category": [
       "in-game",
       "ui",
@@ -188,11 +189,12 @@
     "author": "Captain Conundrum",
     "version": "1.1.2",
     "build": "62110",
-    "date": "2014/02/28",
+    "date": "2014/03/05",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
+    "icon": "http://pamods.github.io/icons/cShareSystems.png",
     "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.2.zip"
   },
   "CustomSkybox": {
