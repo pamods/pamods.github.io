@@ -224,11 +224,11 @@
   },
   "dFavouriteColour": {
     "author": "DeathByDenim",
-    "build": "62168",
+    "build": "62318",
     "category": [
       "ui"
     ],
-    "date": "2014/03/03",
+    "date": "2014/03/05",
     "description": "Automatically selects your favourite colour in the lobby.",
     "description_nl": "Kiest automatisch uw favoriete kleur in de lobby.",
     "description_de": "Wählt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
@@ -242,8 +242,8 @@
     "requires": [
       "rSettingsManager"
     ],
-    "version": "1.3.1",
-    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.3.1.zip"
+    "version": "1.3.2",
+    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.3.2.zip"
   },
   "dNotes": {
     "author": "DeathByDenim",
