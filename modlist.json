@@ -34,16 +34,16 @@
   },
   "blackscreenfix": {
     "display_name": "No Blackscreens",
-    "description": "Experimental stuff for PA v.61450",
+    "description": "Fix for Blackscreens when loading css in mods for PA v.62225",
     "author": "Cola_Colin",
-    "version": "3.0",
-    "build": "62110",
+    "version": "4.0",
+    "build": "62225",
     "forum": "https://forums.uberent.com/threads/rel-possible-fix-for-blackscreen-issues.56735/",
     "category": [
       "Bugfix"
     ],
-    "date": "2014/02/28",
-    "url": "http://pamods.github.io/user_mods/blackscreenfix_v3.0.zip"
+    "date": "2014/03/05",
+    "url": "http://pamods.github.io/user_mods/blackscreenfix_v4.0.zip"
   },
   "bShowSecondaryColour": {
     "display_name": "Show Secondary Colour",
@@ -238,7 +238,6 @@
     "display_name_de": "Lieblingsfarbe",
     "display_name_fr": "Couleur préférée",
     "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
-    "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
     "requires": [
       "rSettingsManager"
     ],
@@ -847,7 +846,7 @@
     "author": "trialq",
     "version": "1.5.2",
     "build": "62225",
-    "date": "2014/05/03",
+    "date": "2014/03/05",
     "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
     "category": [
