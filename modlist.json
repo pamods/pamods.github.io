@@ -152,7 +152,7 @@
     "display_name": "Better Build Bars",
     "description": "4 different build bars available - Check the UI tab in settings at the bottom - Also a thank you to lavasnake for all of his help",
     "author": "Corang",
-    "version": "1.0",
+    "version": "1.0.1",
     "build": "62225",
     "date": "2014/03/04",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
@@ -163,7 +163,7 @@
     "requires": [
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.0.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
