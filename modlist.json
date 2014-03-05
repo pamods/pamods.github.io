@@ -150,9 +150,9 @@
   },
   "corBetterBuildBars": {
     "display_name": "Better Build Bars",
-    "description": "4 different build bars available - Check the UI tab in settings at the bottom",
+    "description": "4 different build bars available - Check the UI tab in settings at the bottom - Also a thank you to lavasnake for all of his help",
     "author": "Corang",
-    "version": "3.0",
+    "version": "1.0",
     "build": "62225",
     "date": "2014/03/04",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
