@@ -805,6 +805,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
   },
+  "stay_down": {
+    "author": "wondible",
+    "build": "62225",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/03/06",
+    "description": "Allow players and systems panels to be toggled always-on.",
+    "display_name": "Stay Down",
+    "forum": null,
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/stay_down_v1.0.zip"
+  },
   "SupremeCommanderIcons": {
     "author": "nuketf",
     "build": "59607",
