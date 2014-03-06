@@ -463,19 +463,22 @@
     "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-2.zip"
   },
   "LavaSnakes_ProfilePicFixer": {
-    "display_name": "Profile Pic Fixer",
-    "description": "A simple mod that makes it easy to change the placeholder profile picture in PA's main menu. Can also add info from PA Stats Ladder to the main menu. (See forum link for setup instructions)",
+    "display_name": "ProfilePic+",
+    "description": "A powerful mod that lets you set a profile picture, a tracking/sig picture, and custom HTML snippets for PA's main menu.",
     "author": "LavaSnake",
-    "version": "1.67",
-    "build": "61694",
-    "date": "2014/02/28",
+    "version": "2.0",
+    "build": "62350",
+    "date": "2014/03/06",
     "forum": "https://forums.uberent.com/threads/rel-profile-pic-fixer-56387.53531/",
     "category": [
       "Main Menu",
       "ui"
     ],
+    "requires": [
+      "rSettingsManager"
+    ],
     "icon": "http://pamods.github.io/icons/ProfilePicFixer.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v1-67.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v2-0.zip"
   },
   "LavaSnakes_StargateBugFix": {
     "display_name": "Stargate Name Bug Fix",
