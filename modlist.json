@@ -227,25 +227,26 @@
   },
   "dFavouriteColour": {
     "author": "DeathByDenim",
-    "build": "62318",
+    "build": "62443",
     "category": [
       "ui"
     ],
-    "date": "2014/03/05",
+    "date": "2014/03/06",
     "description": "Automatically selects your favourite colour in the lobby.",
     "description_nl": "Kiest automatisch uw favoriete kleur in de lobby.",
     "description_de": "Wählt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
-    "description_fr": "Choisit automatiquement vorte couleur préférée dans le foyer.",
+    "description_fr": "Choisit automatiquement votre couleur préférée dans le foyer.",
     "display_name": "Favourite Colour",
     "display_name_nl": "Lievelingskleur",
     "display_name_de": "Lieblingsfarbe",
     "display_name_fr": "Couleur préférée",
     "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
+	"icon" : "http://pamods.github.io/icons/dFavouriteColour.png",
     "requires": [
       "rSettingsManager"
     ],
-    "version": "1.3.2",
-    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.3.2.zip"
+    "version": "1.4",
+    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.4.zip"
   },
   "dNotes": {
     "author": "DeathByDenim",
