@@ -151,11 +151,11 @@
   },
   "corBetterBuildBars": {
     "display_name": "Better Build Bars",
-    "description": "4 different build bars available - Check the UI tab in settings at the bottom - Also a thank you to lavasnake for all of his help",
+    "description": "5 different build bars available - Check the UI tab in settings at the bottom - Also a thank you to lavasnake for all of his help",
     "author": "Corang",
-    "version": "1.0.1",
-    "build": "62225",
-    "date": "2014/03/04",
+    "version": "1.2",
+    "build": "62443",
+    "date": "2014/03/06",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
@@ -164,7 +164,7 @@
     "requires": [
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.0.1.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.2.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
