@@ -1,4 +1,19 @@
 {
+  "acceptance": {
+    "author": "wondible",
+    "build": "62350",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/03/07",
+    "description": "By installing and using this mod you indicate your acceptance of the pre-release disclaimer.  So you don't have to do it EVERY... SINGLE... TIME... you start the game.",
+    "display_name": "Acceptance",
+    "forum": null,
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/acceptance_v1.0.zip"
+  },
   "alertsManager": {
     "display_name": "Alerts Manager",
     "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
@@ -11,6 +26,21 @@
     "date": "2014/02/27",
     "build": "59549",
     "url": "http://pamods.github.io/user_mods/alertsManager_v1.3.1.zip"
+  },
+  "autoselect_commander": {
+    "author": "wondible and friends",
+    "build": "62443",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/03/07",
+    "description": "Select your commander when starting the game.  With inspiration and support from tatsujb, raevn, Cola_Colin, and the PA modders forum.",
+    "display_name": "Autoselect Commander",
+    "forum": null,
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/autoselect_commander_v1.0.zip"
   },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
@@ -241,7 +271,7 @@
     "display_name_de": "Lieblingsfarbe",
     "display_name_fr": "Couleur préférée",
     "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
-	"icon" : "http://pamods.github.io/icons/dFavouriteColour.png",
+    "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
     "requires": [
       "rSettingsManager"
     ],
