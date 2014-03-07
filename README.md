@@ -2,7 +2,8 @@ This repo is used for hosting mod downloads for the Planetary Annihilation Mod M
 
 ### Usage for non-members
 
-- Clone this repository
+- Fork this repository
+- Clone your fork (check it out to your local computer)
 - Zip your mod up correctly for PAMM.
 - Add it to the user_mods dir.
 - Add your update/release to the news tab by copying the commented code in news.html and filling it in with your announcement. (Optional)
