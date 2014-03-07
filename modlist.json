@@ -1061,6 +1061,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
   },
+  "wEconomyGraph": {
+    "display_name": "Live Economy Graphs",
+    "description": "Shows a live graph depecting your Energy and Metal income history.",
+    "author": "The Magnificent Werty",
+    "version": "0.1.0",
+    "build": "62443",
+    "date": "2014/03/07",
+    "forum": "https://forums.uberent.com/threads/rel-live-economy-graphs-v0-1-0.57602/",
+    "icon": "",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.0.zip"
+  },
   "wModPing": {
     "display_name": "Mod Ping",
     "description": "Can ping your enabled mods into ingame chat.",
