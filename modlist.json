@@ -77,10 +77,10 @@
   },
   "bShowSecondaryColour": {
     "display_name": "Show Secondary Colour",
-    "description": "Adds a border around the colour selection box in the lobby, showing the secondary colour.",
+    "description": "Shows secondary colours in lobby, and allows you to select which you use.",
     "author": "burntcustard, DeathByDenim",
-    "version": "1.2",
-    "build": "62443",
+    "version": "1.3",
+    "build": "62519",
     "date": "2014/03/08",
     "category": [
       "in-game",
@@ -91,7 +91,7 @@
     "requires": [
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.2.zip"
+    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.3.zip"
   },
   "BuildPower": {
     "display_name": "Build Power",
