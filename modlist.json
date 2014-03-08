@@ -303,6 +303,19 @@
     "version": "1.2",
     "url": "http://pamods.github.io/user_mods/dNotes_v1.2.1.zip"
   },
+  "dPlayersInServerBrowser": {
+    "author": "DeathByDenim",
+    "build": "62519",
+    "category": [
+      "ui"
+    ],
+    "date": "2014/03/08",
+    "description": "Shows which players are in a game from the server browser without actually joining the lobby.",
+    "display_name": "Players In Server Browser",
+    "forum": "https://forums.uberent.com/threads/rel-players-in-server-browser-62519.57664/",
+    "version": "1.0",
+    "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.0.zip"
+  },
   "dReminderTimer": {
     "display_name": "In Game Reminders Timer",
     "description": "Provides a timer to show how long the current match has been running",
