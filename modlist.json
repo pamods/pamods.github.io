@@ -1068,7 +1068,7 @@
     "display_name": "Live Economy Graphs",
     "description": "Shows a live graph depicting your Energy and Metal income history.",
     "author": "The Magnificent Werty",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "build": "62443",
     "date": "2014/03/07",
     "forum": "https://forums.uberent.com/threads/rel-live-economy-graphs-v0-1-0.57602/",
@@ -1077,7 +1077,10 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.1.zip"
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.2.zip"
   },
   "wModPing": {
     "display_name": "Mod Ping",
