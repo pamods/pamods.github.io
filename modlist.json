@@ -79,16 +79,19 @@
     "display_name": "Show Secondary Colour",
     "description": "Adds a border around the colour selection box in the lobby, showing the secondary colour.",
     "author": "burntcustard, DeathByDenim",
-    "version": "1.1",
-    "build": "62318",
-    "date": "2014/03/05",
+    "version": "1.2",
+    "build": "62443",
+    "date": "2014/03/08",
     "category": [
       "in-game",
       "ui"
     ],
     "forum": "https://forums.uberent.com/threads/rel-show-secondary-colour-v1-0-62168.57305/",
     "icon": "http://pamods.github.io/icons/bShowSecondaryColour.png",
-    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.1.zip"
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.2.zip"
   },
   "BuildPower": {
     "display_name": "Build Power",
