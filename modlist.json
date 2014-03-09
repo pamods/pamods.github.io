@@ -288,9 +288,10 @@
       "ui"
     ],
     "date": "2014/03/08",
-    "description": "Keep notes on players for future reference.",
-    "description_fr": "Notez joueurs pour l'utilisation future",
+    "description": "Keep notes on players for future reference",
     "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
+    "description_de": "Führen Sie Notizen über die andere Spieler für zukünftige Verwendung.",
+    "description_fr": "Enregistrer des notes à propos des autres joueurs pour utiliser en futur.",
     "display_name": "Notes",
     "display_name_de": "Notizen",
     "display_name_fr": "Notes",
@@ -298,7 +299,8 @@
     "forum": "https://forums.uberent.com/threads/rel-notes-v1-0.55281/",
     "icon": "http://pamods.github.io/icons/dNotes.png",
     "requires": [
-      "rFloatFrame", "dPlayersInServerBrowser"
+      "rFloatFrame",
+      "dPlayersInServerBrowser"
     ],
     "version": "1.3",
     "url": "http://pamods.github.io/user_mods/dNotes_v1.3.zip"
@@ -311,7 +313,9 @@
     ],
     "date": "2014/03/09",
     "description": "Shows which players are in a game from the server browser without actually joining the lobby.",
+    "description_nl": "Laat zien welke speler deelnemen aan een spel vanuit de server browser zonder de lobby zelf in te gaan.",
     "display_name": "Players In Server Browser",
+    "display_name_nl": "Spelers in de server browser",
     "forum": "https://forums.uberent.com/threads/rel-players-in-server-browser-62519.57664/",
     "version": "1.0.1",
     "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.0.1.zip"
@@ -1081,7 +1085,7 @@
     "display_name": "Live Economy Graphs",
     "description": "Shows a live graph depicting your Energy and Metal income history.",
     "author": "The Magnificent Werty",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "build": "62443",
     "date": "2014/03/07",
     "forum": "https://forums.uberent.com/threads/rel-live-economy-graphs-v0-1-0.57602/",
@@ -1093,7 +1097,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.2.zip"
+    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.3.zip"
   },
   "wModPing": {
     "display_name": "Mod Ping",
