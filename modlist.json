@@ -848,16 +848,6 @@
       "in-game",
       "ui"
     ],
-    "requires": [
-      "teamBuildColor",
-      "EcoEff",
-      "corBetterBuildBar",
-      "dTimer",
-      "linger",
-      "rCommanderHP",
-      "modbatch",
-      "rChronoClick"
-    ],
     "url": "http://pamods.github.io/user_mods/tatsuicons_V9.zip"
   },
   "SpacedOutDefenceTowers": {
