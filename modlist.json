@@ -184,22 +184,21 @@
   },
   "corBetterBuildBars": {
     "display_name": "Better Build Bars",
-    "description": "5 different build bars available - Check the UI tab in settings at the bottom - Icon Size is now adjustable 50% to 100%",
+    "description": "5 different build bars available - Check the UI tab in settings at the bottom - Icon Size is now adjustable 50% to 100% - 'No Blackscreens' by Cola_Colin Recommended",
     "author": "Corang",
-    "version": "1.3",
+    "version": "1.3.1",
     "build": "62519",
-    "date": "2014/03/09",
+    "date": "2014/03/10",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
     "requires": [
-      "rSettingsManager",
-      "blackscreenfix"
+      "rSettingsManager"
     ],
     "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.3.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.3.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
