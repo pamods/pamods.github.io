@@ -184,21 +184,22 @@
   },
   "corBetterBuildBars": {
     "display_name": "Better Build Bars",
-    "description": "5 different build bars available - Check the UI tab in settings at the bottom - Also a thank you to lavasnake for all of his help",
+    "description": "5 different build bars available - Check the UI tab in settings at the bottom - Icon Size is now adjustable 50% to 100%",
     "author": "Corang",
-    "version": "1.2.1",
-    "build": "62443",
-    "date": "2014/03/07",
+    "version": "1.3",
+    "build": "62519",
+    "date": "2014/03/09",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
     "requires": [
-      "rSettingsManager"
+      "rSettingsManager",
+      "blackscreenfix"
     ],
     "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.2.1.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.3.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
@@ -312,16 +313,16 @@
       "ui"
     ],
     "date": "2014/03/10",
-	"description" : "Shows which players are in a game from the server browser without actually joining the lobby.",
-	"description_nl" : "Laat zien welke spelers deelnemen aan een spel vanuit de server browser zonder de lobby zelf in te gaan.",
-	"description_de" : "Zeigt Ihnen welche Spieler teilnehmen an einem Spiel aus dem Serverbrowser ohne im Lobby selbst zu gehen.",
-	"description_fr" : "Montrer quels joueurs participer à un jeu dans le navigateur serveur sans entrer le foyer.",
-	"display_name" : "Players In Server Browser",
-	"display_name_nl" : "Spelers in de serverbrowser",
-	"display_name_de" : "Spieler im Serverbrowser",
-	"display_name_fr" : "Joueur dans le navigateur serveur",
-	"icon" : "http://pamods.github.io/icons/dPlayersInServerBrowser.png",
+    "description": "Shows which players are in a game from the server browser without actually joining the lobby.",
+    "description_nl": "Laat zien welke spelers deelnemen aan een spel vanuit de server browser zonder de lobby zelf in te gaan.",
+    "description_de": "Zeigt Ihnen welche Spieler teilnehmen an einem Spiel aus dem Serverbrowser ohne im Lobby selbst zu gehen.",
+    "description_fr": "Montrer quels joueurs participer à un jeu dans le navigateur serveur sans entrer le foyer.",
+    "display_name": "Players In Server Browser",
+    "display_name_nl": "Spelers in de serverbrowser",
+    "display_name_de": "Spieler im Serverbrowser",
+    "display_name_fr": "Joueur dans le navigateur serveur",
     "forum": "https://forums.uberent.com/threads/rel-players-in-server-browser-62519.57664/",
+    "icon": "http://pamods.github.io/icons/dPlayersInServerBrowser.png",
     "version": "1.1",
     "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.1.zip"
   },
