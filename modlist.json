@@ -774,6 +774,20 @@
     ],
     "url": "http://pamods.github.io/user_mods/rCommanderHP_v2.7.4.zip"
   },
+  "reconnect_button": {
+    "author": "wondible",
+    "build": "62519",
+    "category": [
+      "ui"
+    ],
+    "date": "2014/03/11",
+    "description": "Provides a Reconnect button on the start menu.  When it's disabled, you know it's safe to start a game without fear of reconnecting to the wrong one.",
+    "display_name": "Reconnect Button",
+    "forum": "https://forums.uberent.com/threads/wip-reconnect-button.57733/",
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/reconnect_button_v1.0.zip"
+  },
   "rFloatFrame": {
     "display_name": "Floating Framework",
     "description": "Framework for creating draggable UI containers",
