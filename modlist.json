@@ -233,16 +233,16 @@
   },
   "CustomSkybox": {
     "display_name": "Custom Skybox",
-    "description": "Use and import different skyboxes. The file contains many pictures files, please be patient during the download",
+    "description": "Use and import different skyboxes. Visit www.superouman.net/planetary-annihilation-skyboxes.html to get a large catalog of skyboxes",
     "author": "superouman",
-    "version": "1.1",
-    "build": "61694",
-    "date": "2014/02/26",
+    "version": "1.2",
+    "build": "62443",
+    "date": "2014/03/11",
     "forum": "https://forums.uberent.com/threads/rel-custom-skybox.56562/",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/CustomSkybox_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/CustomSkybox_v1.2.zip"
   },
   "dBetterSystemView": {
     "display_name": "Better System View",
