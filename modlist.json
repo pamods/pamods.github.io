@@ -921,13 +921,13 @@
       "in-game",
       "ui"
     ],
-    "date": "2014/03/08",
-    "description": "Allow players and systems panels to be toggled always-on.",
+    "date": "2014/03/11",
+    "description": "Allow players and systems panels to be toggled always-on. Expected to be obsolete post-62519.",
     "display_name": "Stay Down",
     "forum": "https://forums.uberent.com/threads/wip-stay-down.57424/",
     "requires": [],
-    "version": "1.0.1",
-    "url": "http://pamods.github.io/user_mods/stay_down_v1.0.1.zip"
+    "version": "1.1.0",
+    "url": "http://pamods.github.io/user_mods/stay_down_v1.1.0.zip"
   },
   "SupremeCommanderIcons": {
     "author": "nuketf",
