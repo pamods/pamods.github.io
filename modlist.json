@@ -235,7 +235,7 @@
     "display_name": "Tracking Pips",
     "description": "Opens a new picture-in-picture that tracks the selected unit if you press CTRL+T. INCOMPATIBLE with the Draggable Pip mod for now.",
     "author": "Captain Conundrum",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "forum": "https://forums.uberent.com/threads/rel-tracking-pips.57787/",
     "category": [
       "in-game",
@@ -246,9 +246,9 @@
       "rSettingsManager",
       "alertsManager"
     ],
-    "date": "2014/03/11",
+    "date": "2014/03/12",
     "build": "62443",
-    "url": "http://pamods.github.io/user_mods/cTrackingPips_v1.0.1.zip"
+    "url": "http://pamods.github.io/user_mods/cTrackingPips_v1.1.0.zip"
   },
   "CustomSkybox": {
     "display_name": "Custom Skybox",
