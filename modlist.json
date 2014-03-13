@@ -200,6 +200,20 @@
     "icon": "http://pamods.github.io/icons/corBBB.png",
     "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.3.1.zip"
   },
+  "corLingerPiP": {
+    "display_name": "Alert PiP Lingererer",
+    "description": "changes the PiP alert that when your mouse hovers over it and leaves it 'lingererers' for 3 seconds then disappears",
+    "author": "Corang",
+    "version": "1.0",
+    "build": "62519",
+    "date": "2014/03/12",
+    "forum": "https://forums.uberent.com/threads/rel-alert-pip-lingerer-er-er.57832/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/corLingerPiP_v1.0.zip"
+  },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
