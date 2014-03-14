@@ -214,6 +214,25 @@
     ],
     "url": "http://pamods.github.io/user_mods/corLingerPiP_v1.0.1.zip"
   },
+  "cPAStatsCharts": {
+    "display_name": "PA Stats Live Charts",
+    "description": "Gives spectators a button to show live PA Stats charts in the game. You can also open the chart with ctrl+space",
+    "author": "Captain Conundrum",
+    "version": "1.0.0",
+    "build": "62519",
+    "date": "2014/03/14",
+    "forum": "https://forums.uberent.com/threads/rel-pa-stats-live-charts.57878/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cPAStatsCharts.png",
+    "requires": [
+      "inGameBrowser",
+      "pa_stats_online"
+    ],
+    "url": "http://pamods.github.io/user_mods/cPAStatsCharts_v1.0.0.zip"
+  },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
