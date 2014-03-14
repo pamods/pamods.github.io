@@ -201,18 +201,18 @@
     "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.3.1.zip"
   },
   "corLingerPiP": {
-    "display_name": "Alert PiP Lingererer",
+    "display_name": "Alert PiP Linger",
     "description": "changes the PiP alert that when your mouse hovers over it and leaves it 'lingererers' for 3 seconds then disappears",
     "author": "Corang",
-    "version": "1.0",
+    "version": "1.0.1",
     "build": "62519",
-    "date": "2014/03/12",
+    "date": "2014/03/14",
     "forum": "https://forums.uberent.com/threads/rel-alert-pip-lingerer-er-er.57832/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/corLingerPiP_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/corLingerPiP_v1.0.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
