@@ -217,7 +217,7 @@
   "cPAStatsCharts": {
     "display_name": "PA Stats Live Charts",
     "description": "Gives spectators a button to show live PA Stats charts in the game. You can also open the chart with ctrl+space",
-    "author": "Captain Conundrum",
+    "author": "Captain Conundrum, Cola_Colin, someonewhoisnobody",
     "version": "1.1.0",
     "build": "62857",
     "date": "2014/03/14",
