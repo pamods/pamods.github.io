@@ -934,6 +934,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
   },
+  "SpectatorVision": {
+    "display_name": "Spectator Vision",
+    "description": "Improved spectator visibility controls. Use click or shift-click on rows in the player list.",
+    "author": "ORFJackal",
+    "version": "1.0.0",
+    "build": "62857",
+    "date": "2014/03/15",
+    "forum": "https://forums.uberent.com/threads/spectator-vision.57890/",
+    "icon": "http://pamods.github.io/icons/SpectatorVision.png",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/SpectatorVision_v1.0.0.zip"
+  },
   "staticmenu": {
     "display_name": "Staticmenu",
     "description": "Faster main menu",
@@ -1126,22 +1141,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
-  "VipezTrees": {
-    "display_name": "Christmas Trees",
-    "description": "Christmas Spirit in PA!",
-    "author": "vipez",
-    "version": "3",
-    "build": "61694",
-    "date": "2014/02/27",
-    "forum": "https://forums.uberent.com/threads/rel-christmas-trees.50033/",
-    "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
-    "category": [
-      "christmas",
-      "trees",
-      "in-game"
-    ],
-    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
-  },
   "wEconomyGraph": {
     "display_name": "Live Economy Graphs",
     "description": "Shows a live graph depicting your Energy and Metal income history.",
@@ -1159,6 +1158,22 @@
       "rFloatFrame"
     ],
     "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.3.zip"
+  },
+  "VipezTrees": {
+    "display_name": "Christmas Trees",
+    "description": "Christmas Spirit in PA!",
+    "author": "vipez",
+    "version": "3",
+    "build": "61694",
+    "date": "2014/02/27",
+    "forum": "https://forums.uberent.com/threads/rel-christmas-trees.50033/",
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
+    "category": [
+      "christmas",
+      "trees",
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
   },
   "wModPing": {
     "display_name": "Mod Ping",
