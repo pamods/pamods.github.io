@@ -218,9 +218,9 @@
     "display_name": "PA Stats Live Charts",
     "description": "Gives spectators a button to show live PA Stats charts in the game. You can also open the chart with ctrl+space",
     "author": "Captain Conundrum, Cola_Colin, someonewhoisnobody",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "build": "62857",
-    "date": "2014/03/14",
+    "date": "2014/03/15",
     "forum": "https://forums.uberent.com/threads/rel-pa-stats-live-charts.57878/",
     "category": [
       "in-game",
@@ -231,7 +231,7 @@
       "inGameBrowser",
       "pa_stats_online"
     ],
-    "url": "http://pamods.github.io/user_mods/cPAStatsCharts_v1.1.0.zip"
+    "url": "http://pamods.github.io/user_mods/cPAStatsCharts_v1.1.1.zip"
   },
   "cPlanetNameThemes": {
     "display_name": "Planet Name Themes",
