@@ -1032,9 +1032,9 @@
     "display_name": "Auto Factory",
     "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
     "author": "trialq",
-    "version": "1.5.2",
-    "build": "62225",
-    "date": "2014/03/05",
+    "version": "1.6",
+    "build": "62857",
+    "date": "2014/03/16",
     "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
     "category": [
@@ -1045,7 +1045,7 @@
       "rFloatFrame",
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.5.2.zip"
+    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.6.zip"
   },
   "tBuildingWriter": {
     "display_name": "Building Writer",
