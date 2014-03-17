@@ -333,6 +333,20 @@
     "version": "1.4",
     "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.4.zip"
   },
+  "dinosaurfix": {
+    "display_name": "Dinosaur Fix",
+    "description": "Fixes a bug where the Ptahosaurus is not correctly displayed in the main menu.",
+    "author": "Pt4h",
+    "version": "1.0",
+    "build": "62857",
+    "forum": "https://forums.uberent.com/threads/rel-dinosaur-fix-v1-0-62857.57995/",
+    "icon": "http://pamods.github.io/icons/dinosaurfix.png",
+    "category": [
+      "Bugfix"
+    ],
+    "date": "2014/03/17",
+    "url": "http://pamods.github.io/user_mods/dinosaurfix_v1.0.zip"
+  },
   "dNotes": {
     "author": "DeathByDenim",
     "build": "62519",
@@ -620,6 +634,35 @@
     ],
     "version": "1.0.1",
     "url": "http://pamods.github.io/user_mods/linger_v1.0.1.zip"
+  },
+  "mAdvancedSelect": {
+    "display_name": "Advanced Unit Selection",
+    "description": "More options/filters for unit selection",
+    "author": "Mauru",
+    "version": "1.0",
+    "forum": "https://forums.uberent.com/threads/rel-advanced-unit-selection.57875/",
+    "category": [
+      "framework"
+    ],
+    "date": "2014/03/13",
+    "build": "62168",
+    "requires": [
+      "mEventHandler"
+    ],
+    "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip"
+  },
+  "mEventHandler": {
+    "display_name": "Process-Event-Handler Framework",
+    "description": "A Framework for handling process events sent to the engine",
+    "author": "Mauru",
+    "version": "1.0",
+    "forum": "https://forums.uberent.com/threads/rel-wip-reventhandler-a-pa-engine-process-event-framework.57858/",
+    "category": [
+      "framework"
+    ],
+    "date": "2014/03/13",
+    "build": "62168",
+    "url": "http://pamods.github.io/user_mods/mEventHandler_v1.0.zip"
   },
   "modbatch": {
     "display_name": "Mod BatchSize",
