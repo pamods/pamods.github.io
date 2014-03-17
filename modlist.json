@@ -250,6 +250,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.2.zip"
   },
+  "cPlanetPips": {
+    "display_name": "Planet Pip Buttons",
+    "description": "Adds a button in the system panel to focus the pip on that planet.",
+    "author": "Captain Conundrum, maxpowerz",
+    "version": "1.0.0",
+    "build": "62857",
+    "date": "2014/03/17",
+    "forum": "https://forums.uberent.com/threads/suggestion-pip-jump-buttons-in-the-drop-down-system-box.57992/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cPlanetPips.png",
+    "url": "http://pamods.github.io/user_mods/cPlanetPips_v1.0.0.zip"
+  },
   "cShareSystems": {
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. Enhanced System Preview is recommended with this mod.",
