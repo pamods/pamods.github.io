@@ -423,20 +423,20 @@
     ],
     "url": "http://pamods.github.io/user_mods/eco_manager_v1.1.1.zip"
   },
-  "EcoEff": {
-    "display_name": "Economy Efficiency",
+  "EcoEffv2": {
+    "display_name": "Economy Efficiency v2",
     "description": "Improves the Eco Information bars",
-    "author": "stan_petit_cul",
-    "version": "1.2",
-    "build": "61250",
-    "date": "2014/02/19",
-    "forum": "https://forums.uberent.com/threads/rel-economic-efficiency-ui-mod.52613/",
+    "author": "Stan_petit_cul, Cola_colin",
+    "version": "2.0",
+    "build": "62519",
+    "date": "2014/03/13",
+    "forum": "TODO",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/EcoEff.png",
-    "url": "http://pamods.github.io/user_mods/EcoEff_v1.2.zip"
+    "url": "http://pamods.github.io/user_mods/EcoEffv2.zip"
   },
   "fabulous_selections": {
     "author": "wondible",
