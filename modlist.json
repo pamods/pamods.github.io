@@ -879,14 +879,14 @@
     "display_name": "Settings Manager",
     "description": "Framework for adding new settings",
     "author": "Raevn",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
     "category": [
       "Framework"
     ],
-    "date": "2014/01/28",
-    "build": "59607",
-    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.2.zip"
+    "date": "2014/03/17",
+    "build": "62857",
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.3.zip"
   },
   "rUnitDatabase": {
     "display_name": "Unit Database",
@@ -1155,6 +1155,22 @@
     ],
     "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
+  "VipezTrees": {
+    "display_name": "Christmas Trees",
+    "description": "Christmas Spirit in PA!",
+    "author": "vipez",
+    "version": "3",
+    "build": "61694",
+    "date": "2014/02/27",
+    "forum": "https://forums.uberent.com/threads/rel-christmas-trees.50033/",
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
+    "category": [
+      "christmas",
+      "trees",
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
+  },
   "wEconomyGraph": {
     "display_name": "Live Economy Graphs",
     "description": "Shows a live graph depicting your Energy and Metal income history.",
@@ -1172,22 +1188,6 @@
       "rFloatFrame"
     ],
     "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.3.zip"
-  },
-  "VipezTrees": {
-    "display_name": "Christmas Trees",
-    "description": "Christmas Spirit in PA!",
-    "author": "vipez",
-    "version": "3",
-    "build": "61694",
-    "date": "2014/02/27",
-    "forum": "https://forums.uberent.com/threads/rel-christmas-trees.50033/",
-    "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
-    "category": [
-      "christmas",
-      "trees",
-      "in-game"
-    ],
-    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
   },
   "wModPing": {
     "display_name": "Mod Ping",
