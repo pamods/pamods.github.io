@@ -1109,9 +1109,9 @@
     "display_name": "Building Writer",
     "description": "Use buildings to write text. See forum for details",
     "author": "trialq",
-    "version": "1.1.1",
-    "build": "59607",
-    "date": "2014/02/10",
+    "version": "1.2",
+    "build": "62857",
+    "date": "2014/03/18",
     "forum": "https://forums.uberent.com/threads/rel-building-writer.55793/",
     "icon": "http://pamods.github.io/icons/tBuildingWriter.png",
     "category": [
@@ -1121,7 +1121,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.1.1.zip"
+    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.2.zip"
   },
   "tCustomBuildBar": {
     "display_name": "Custom Build Bar",
