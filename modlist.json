@@ -172,15 +172,15 @@
     "display_name": "Lobby Renamer",
     "description": "Lets you change the game lobby name that shows in the server browser.",
     "author": "Captain Conundrum",
-    "version": "1.1",
-    "build": "62350",
-    "date": "2014/03/06",
+    "version": "1.1.1",
+    "build": "63180",
+    "date": "2014/03/21",
     "forum": "https://forums.uberent.com/threads/rel-lobby-renamer.57414/",
     "icon": "http://pamods.github.io/icons/cLobbyRenamer.gif",
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.1.zip"
   },
   "corBetterBuildBars": {
     "display_name": "Better Build Bars",
