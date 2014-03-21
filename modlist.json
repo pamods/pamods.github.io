@@ -62,6 +62,22 @@
     ],
     "url": "http://pamods.github.io/user_mods/bAnchorButtons.zip"
   },
+  "bEfficiencyBoxFix": {
+    "display_name": "Efficiency Box Fix",
+    "description": "Temporary fix for the new efficiency box, to make it look nice.",
+    "author": "burntcustard",
+    "version": "1.0",
+    "build": "63180",
+    "date": "2014/03/21",
+    "category": [
+      "in-game",
+      "ui",
+      "bugfix"
+    ],
+    "icon": "http://pamods.github.io/icons/bEfficiencyBoxFix",
+    "forum": "https://forums.uberent.com/threads/rel-the-efficiency-box-is-ugly-and-ive-fixed-it.58125/",
+    "url": "http://pamods.github.io/user_mods/bEfficiencyBoxFix_v1.0.zip"
+  },
   "blackscreenfix": {
     "display_name": "No Blackscreens",
     "description": "Fix for Blackscreens when loading css in mods for PA v.63180",
