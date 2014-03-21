@@ -352,14 +352,14 @@
     "display_name": "Dinosaur Fix",
     "description": "Fixes a bug where the Ptahosaurus is not correctly displayed in the main menu.",
     "author": "Pt4h",
-    "version": "1.0",
+    "version": "1.0.0.1",
     "build": "62857",
     "forum": "https://forums.uberent.com/threads/rel-dinosaur-fix-v1-0-62857.57995/",
     "icon": "http://pamods.github.io/icons/dinosaurfix.png",
     "category": [
       "Bugfix"
     ],
-    "date": "2014/03/17",
+    "date": "2014/03/21",
     "url": "http://pamods.github.io/user_mods/dinosaurfix_v1.0.zip"
   },
   "dNotes": {
