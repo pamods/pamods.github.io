@@ -902,17 +902,18 @@
   },
   "reconnect_button": {
     "author": "wondible",
-    "build": "62519",
+    "build": "63180",
     "category": [
-      "ui"
+      "ui",
+      "main menu"
     ],
-    "date": "2014/03/11",
+    "date": "2014/03/21",
     "description": "Provides a Reconnect button on the start menu.  When it's disabled, you know it's safe to start a game without fear of reconnecting to the wrong one.",
     "display_name": "Reconnect Button",
     "forum": "https://forums.uberent.com/threads/wip-reconnect-button.57733/",
     "requires": [],
-    "version": "1.0.0",
-    "url": "http://pamods.github.io/user_mods/reconnect_button_v1.0.zip"
+    "version": "1.0.1",
+    "url": "http://pamods.github.io/user_mods/reconnect_button_v1.0.1.zip"
   },
   "rFloatFrame": {
     "display_name": "Floating Framework",
