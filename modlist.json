@@ -746,12 +746,24 @@
     "build": "will_be_kept_up_to_date",
     "date": "2013/12/27",
     "forum": "https://forums.uberent.com/threads/rel-pa-stats-52168.50690/",
-    "icon": "http://ns393951.ip-176-31-115.eu/mod/icon.png",
     "category": [
       "in-game",
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/pa_stats_online.zip"
+  },
+  "pa_strat_build_icons": {
+    "display_name": "Strategic  build icons",
+    "description": "Display strategic  build icons over normal build icons",
+    "author": "eluvatar",
+    "version": "1",
+    "build": "63180",
+    "date": "2014/03/022",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/pa_strat_build_icons_v1.zip"
   },
   "PAMentor": {
     "display_name": "PA Mentor",
