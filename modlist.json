@@ -687,14 +687,14 @@
     "display_name": "Process-Event-Handler Framework",
     "description": "A Framework for handling process events sent to the engine",
     "author": "Mauru",
-    "version": "1.0",
+    "version": "1.2",
     "forum": "https://forums.uberent.com/threads/rel-wip-reventhandler-a-pa-engine-process-event-framework.57858/",
     "category": [
       "framework"
     ],
     "date": "2014/03/13",
     "build": "62168",
-    "url": "http://pamods.github.io/user_mods/mEventHandler_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/mEventHandler_v1.2.zip"
   },
   "modbatch": {
     "display_name": "Mod BatchSize",
@@ -761,6 +761,7 @@
     "version": "1",
     "build": "63180",
     "date": "2014/03/022",
+    "forum": "https://forums.uberent.com/threads/rel-wip-strategic-build-icons.58139/",
     "category": [
       "in-game",
       "ui"
