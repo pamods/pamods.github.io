@@ -14,6 +14,19 @@
     "version": "1.0.2",
     "url": "http://pamods.github.io/user_mods/acceptance_v1.0.2.zip"
   },
+  "advancedplanetdetails": {
+    "author": "Dementiurge",
+    "build": "63180",
+    "date": "2014/03/20",
+    "description": "Shows planet details in the New Game and Lobby screens. WIP",
+    "display_name": "Advanced Planet Details WIP",
+    "forum": "https://forums.uberent.com/threads/rel-advanced-planet-details-61649.54290/",
+    "version": "2.0d",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/advancedplanetdetails_v2-0-d.zip"
+  },
   "alertsManager": {
     "display_name": "Alerts Manager",
     "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
