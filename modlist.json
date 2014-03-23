@@ -815,14 +815,14 @@
     "display_name": "Twitch controls in Main menu",
     "description": "Allows to login to twitch and control the stream from the main menu",
     "author": "pownie",
-    "version": "2",
-    "build": "62443",
-    "date": "2014/03/04",
+    "version": "3",
+    "build": "63234",
+    "date": "2014/03/23",
     "forum": "https://forums.uberent.com/threads/wip-add-twitch-login-and-streaming-controls-to-the-main-menu-v1.57447/",
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/powTwitchOnStart_v2.zip"
+    "url": "http://pamods.github.io/user_mods/powTwitchOnStart_v3.zip"
   },
   "rAlertsFilter": {
     "display_name": "Alerts Filter",
