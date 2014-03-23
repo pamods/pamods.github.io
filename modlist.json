@@ -621,9 +621,9 @@
     "display_name": "ProfilePic+",
     "description": "A powerful mod that lets you set a profile picture, a tracking/sig picture, and custom HTML snippets for PA's main menu.",
     "author": "LavaSnake",
-    "version": "2.1",
+    "version": "2.2",
     "build": "62857",
-    "date": "2014/03/16",
+    "date": "2014/03/23",
     "forum": "https://forums.uberent.com/threads/rel-profile-pic-fixer-56387.53531/",
     "category": [
       "Main Menu",
@@ -633,7 +633,7 @@
       "rSettingsManager"
     ],
     "icon": "http://pamods.github.io/icons/ProfilePicFixer.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v2-1.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v2-2.zip"
   },
   "LavaSnakes_StargateBugFix": {
     "display_name": "Stargate Name Bug Fix",
