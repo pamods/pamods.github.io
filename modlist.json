@@ -743,14 +743,15 @@
     "display_name": "PA Stats Online",
     "description": "Track your statistics",
     "author": "Cola_Colin, Gunshin",
-    "version": "Autoupdating",
+    "version": "Autoupdating_v2",
     "build": "will_be_kept_up_to_date",
-    "date": "2013/12/27",
+    "date": "2013/03/23",
     "forum": "https://forums.uberent.com/threads/rel-pa-stats-52168.50690/",
     "category": [
       "in-game",
       "ui"
     ],
+    "icon": "http://ns393951.ip-176-31-115.eu/mod/icon.png",
     "url": "http://pamods.github.io/user_mods/pa_stats_online.zip"
   },
   "pa_strat_build_icons": {
