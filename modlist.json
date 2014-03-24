@@ -799,20 +799,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
-  "planetpreview": {
-    "author": "Dementiurge",
-    "build": "61649",
-    "date": "2014/02/25",
-    "description": "Shows advanced planet details in the New Game and Lobby screens.",
-    "display_name": "Advanced Planet Details",
-    "forum": "https://forums.uberent.com/threads/rel-advanced-planet-details-61649.54290/",
-    "version": "1.3.1",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/planetpreview_v1.3.1.zip"
-  },
   "powLobbyCountdown": {
     "display_name": "Countdown before game start",
     "description": "Sends a count down via chat when starting a game",
