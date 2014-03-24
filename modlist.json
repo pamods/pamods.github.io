@@ -453,15 +453,15 @@
     "display_name": "In Game Timer",
     "description": "Provides a timer to show how long the current match is running",
     "author": "danzel",
-    "version": "1.3.2",
-    "build": "61450",
-    "date": "2014/02/22",
+    "version": "1.4",
+    "build": "63234",
+    "date": "2014/03/24",
     "forum": "https://forums.uberent.com/threads/rel-in-game-timer-v1-1.52704/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/dTimer_v1.3.2.zip"
+    "url": "http://pamods.github.io/user_mods/dTimer_v1.4.0.zip"
   },
   "eco_manager": {
     "display_name": "Eco Manager",
