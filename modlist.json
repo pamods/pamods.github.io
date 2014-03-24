@@ -1080,6 +1080,16 @@
     ],
     "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
   },
+  "subduedorbitalbooster": {
+    "author": "Dementiurge",
+    "build": "63234",
+    "date": "2014/03/23",
+    "description": "A more subdued orbital booster.",
+    "display_name": "Subdued Booster",
+    "forum": "http://forums.uberent.com/threads/subdued-orbital-booster.58182/",
+    "version": "1.01",
+    "url": "http://pamods.github.io/user_mods/subduedbooster_v1.0.1.zip"
+  },
   "SupremeCommanderIcons": {
     "author": "nuketf",
     "build": "59607",
