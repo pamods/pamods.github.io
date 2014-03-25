@@ -1015,15 +1015,16 @@
     "display_name": "Highlighted Buildings",
     "description": "Green: Economic - Blue: Factories - Red: Strategic - Yellow: Defensive -- T2 Buildings have a more intense glow",
     "author": "sirscruff - packaging:Corang",
-    "version": "1.0",
-    "build": "62857",
-    "date": "2014/03/15",
+    "version": "1.1",
+    "build": "63234",
+    "date": "2014/03/25",
+    "forum": "https://forums.uberent.com/threads/mod-help-highlighted-buildings-bar.57879/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/sirHighlightedBuildings.png",
-    "url": "http://pamods.github.io/user_mods/sirHighlightedBuildings_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/sirHighlightedBuildings_v1.1.zip"
   },
   "SpacedOutDefenceTowers": {
     "display_name": "Spaced-out Defence Towers",
