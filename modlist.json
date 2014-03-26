@@ -393,11 +393,11 @@
   },
   "dNotes": {
     "author": "DeathByDenim",
-    "build": "62519",
+    "build": "63234",
     "category": [
       "ui"
     ],
-    "date": "2014/03/08",
+    "date": "2014/03/25",
     "description": "Keep notes on players for future reference",
     "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
     "description_de": "Führen Sie Notizen über die andere Spieler für zukünftige Verwendung.",
@@ -412,8 +412,8 @@
       "rFloatFrame",
       "dPlayersInServerBrowser"
     ],
-    "version": "1.3",
-    "url": "http://pamods.github.io/user_mods/dNotes_v1.3.zip"
+    "version": "1.3.2",
+    "url": "http://pamods.github.io/user_mods/dNotes_v1.3.2.zip"
   },
   "dPlayersInServerBrowser": {
     "author": "DeathByDenim",
