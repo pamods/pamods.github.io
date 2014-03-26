@@ -308,6 +308,24 @@
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
     "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.2.zip"
   },
+  "cSketchJS": {
+    "display_name": "Sketch Tools For Casters",
+    "description": "Adds a sketch.js layer over the game window so that casters can draw lines or arrows on the screen.",
+    "author": "Captain Conundrum, Lavasnake, martenus",
+    "version": "1.0.0",
+    "build": "63234",
+    "date": "2014/03/26",
+    "forum": "https://forums.uberent.com/threads/request-click-drag-colorful-arrows-for-casters.58029",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cSketchJS.png",
+    "requires": [
+      "rFloatFrame"
+    ],
+    "url": "http://pamods.github.io/user_mods/cSketchJS_v1.0.0.zip"
+  },
   "cTrackingPips": {
     "display_name": "Tracking Pips",
     "description": "Opens a new picture-in-picture that tracks the selected unit if you press CTRL+T. INCOMPATIBLE with the Draggable Pip mod for now.",
