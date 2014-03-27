@@ -647,6 +647,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/keymapper_v1337.4.zip"
   },
+  "kodef": {
+    "display_name": "include KO Deferred",
+    "description": "May break the UI. Or speed it up a _lot_. Test for yourself.",
+    "author": "Cola_Colin",
+    "version": "1.0",
+    "build": "63180",
+    "forum": "https://forums.uberent.com/threads/experiment-ko-deferred.58294/",
+    "category": [
+      "Bugfix"
+    ],
+    "date": "2014/03/27",
+    "url": "http://pamods.github.io/user_mods/kodef_v1.zip"
+  },
   "LavaSnakes_CustomInGameTimers": {
     "display_name": "Customizable In-Game Timers",
     "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
