@@ -467,7 +467,7 @@
     ],
     "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip"
   },
-  "dPlayersInServerBrowser": {
+  "dShowOffline": {
     "author": "DeathByDenim",
     "build": "63234",
     "category": [
@@ -485,7 +485,7 @@
 	"forum" : "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
 	"icon" : "http://pamods.github.io/icons/dShowOffline.png",
     "version": "1.0",
-    "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/dShowOffline_v1.0.zip"
   },
   "dTimer": {
     "display_name": "In Game Timer",
