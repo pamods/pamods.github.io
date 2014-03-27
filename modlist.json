@@ -474,16 +474,16 @@
       "ui"
     ],
     "date": "2014/03/27",
-	"description" : "Shows on-line status of fellow players.",
-	"description_nl" : "Toont de on-line status van de medespelers.",
-	"description_de" : "Zeigen Sie den on-line Status der Mitspieler.",
-	"description_fr" : "Montrez-vous l'état on-line des conjoueurs.",
-	"display_name" : "Show Offline",
-	"display_name_nl" : "Offline tonen",
-	"display_name_de" : "Offline zeigen",
-	"display_name_fr" : "Montrer Offline",
-	"forum" : "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
-	"icon" : "http://pamods.github.io/icons/dShowOffline.png",
+    "description": "Shows on-line status of fellow players.",
+    "description_nl": "Toont de on-line status van de medespelers.",
+    "description_de": "Zeigen Sie den on-line Status der Mitspieler.",
+    "description_fr": "Montrez-vous l'état on-line des conjoueurs.",
+    "display_name": "Show Offline",
+    "display_name_nl": "Offline tonen",
+    "display_name_de": "Offline zeigen",
+    "display_name_fr": "Montrer Offline",
+    "forum": "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
+    "icon": "http://pamods.github.io/icons/dShowOffline.png",
     "version": "1.0",
     "url": "http://pamods.github.io/user_mods/dShowOffline_v1.0.zip"
   },
@@ -603,6 +603,20 @@
       "rBlueprintInfoFramework"
     ],
     "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.9.9.zip"
+  },
+  "hotfictus_invictus": {
+    "author": "wondible",
+    "build": "63475",
+    "category": [
+      "hotfix"
+    ],
+    "date": "2014/03/27",
+    "description": "Patch the icon paths for the Invicutus Commander in 63180-63475",
+    "display_name": "Hotfictus Invictus",
+    "forum": "https://forums.uberent.com/threads/rel-hotfictus-invictus-63180-63475.58260/",
+    "requires": [],
+    "version": "1.0.1",
+    "url": "http://pamods.github.io/user_mods/hotfictus_invictus_v1.0.1.zip"
   },
   "inGameBrowser": {
     "display_name": "In Game Browser",
