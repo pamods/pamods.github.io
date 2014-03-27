@@ -467,6 +467,26 @@
     ],
     "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip"
   },
+  "dPlayersInServerBrowser": {
+    "author": "DeathByDenim",
+    "build": "63234",
+    "category": [
+      "ui"
+    ],
+    "date": "2014/03/27",
+	"description" : "Shows on-line status of fellow players.",
+	"description_nl" : "Toont de on-line status van de medespelers.",
+	"description_de" : "Zeigen Sie den on-line Status der Mitspieler.",
+	"description_fr" : "Montrez-vous l'état on-line des conjoueurs.",
+	"display_name" : "Show Offline",
+	"display_name_nl" : "Offline tonen",
+	"display_name_de" : "Offline zeigen",
+	"display_name_fr" : "Montrer Offline",
+	"forum" : "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
+	"icon" : "http://pamods.github.io/icons/dShowOffline.png",
+    "version": "1.0",
+    "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.0.zip"
+  },
   "dTimer": {
     "display_name": "In Game Timer",
     "description": "Provides a timer to show how long the current match is running",
