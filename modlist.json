@@ -864,19 +864,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
-  "powLobbyCountdown": {
-    "display_name": "Countdown before game start",
-    "description": "Sends a count down via chat when starting a game",
-    "author": "pownie",
-    "version": "1",
-    "build": "62443",
-    "date": "2014/03/05",
-    "forum": "https://forums.uberent.com/threads/rel-new-game-courtesy-countdown-v1.57492/",
-    "category": [
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/powLobbyCountdown_v1.zip"
-  },
   "powTwitchOnStart": {
     "display_name": "Twitch controls in Main menu",
     "description": "Allows to login to twitch and control the stream from the main menu",
