@@ -474,14 +474,14 @@
       "ui"
     ],
     "date": "2014/03/28",
-	"description" : "Shows off-line status of fellow players.",
-	"description_nl" : "Toont de off-line status van de medespelers.",
-	"description_de" : "Zeigen Sie den off-line Status der Mitspieler.",
-	"description_fr" : "Afficher l'état off-line des conjoueurs.",
-	"display_name" : "Show Offline",
-	"display_name_nl" : "Offline tonen",
-	"display_name_de" : "Offline zeigen",
-	"display_name_fr" : "Montrer Offline",
+    "description": "Shows off-line status of fellow players.",
+    "description_nl": "Toont de off-line status van de medespelers.",
+    "description_de": "Zeigen Sie den off-line Status der Mitspieler.",
+    "description_fr": "Afficher l'état off-line des conjoueurs.",
+    "display_name": "Show Offline",
+    "display_name_nl": "Offline tonen",
+    "display_name_de": "Offline zeigen",
+    "display_name_fr": "Montrer Offline",
     "forum": "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
     "icon": "http://pamods.github.io/icons/dShowOffline.png",
     "version": "1.1",
@@ -633,32 +633,18 @@
     "icon": "http://i.imgur.com/V5fra1Y.jpg",
     "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.3.2.zip"
   },
-  "keymapper": {
-    "display_name": "Hotbuild 1",
-    "description": "Basic hotbuild",
-    "author": "Cola_Colin",
-    "version": "1337+4",
-    "build": "57164",
-    "date": "2013/12/27",
-    "forum": "https://forums.uberent.com/threads/rel-hotbuild-51853.50260/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/keymapper_v1337.4.zip"
-  },
   "kodef": {
     "display_name": "include KO Deferred",
-    "description": "May break the UI. Or speed it up a _lot_. Test for yourself.",
+    "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
     "author": "Cola_Colin",
-    "version": "1.0",
-    "build": "63180",
+    "version": "2.0",
+    "build": "63475",
     "forum": "https://forums.uberent.com/threads/experiment-ko-deferred.58294/",
     "category": [
       "Bugfix"
     ],
-    "date": "2014/03/27",
-    "url": "http://pamods.github.io/user_mods/kodef_v1.zip"
+    "date": "2014/03/28",
+    "url": "http://pamods.github.io/user_mods/kodef_v2.zip"
   },
   "LavaSnakes_CustomInGameTimers": {
     "display_name": "Customizable In-Game Timers",
@@ -1104,19 +1090,6 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/SpectatorVision_v1.0.0.zip"
-  },
-  "staticmenu": {
-    "display_name": "Staticmenu",
-    "description": "Faster main menu",
-    "author": "Cola_Colin",
-    "version": "2",
-    "build": "58772",
-    "date": "2013/12/27",
-    "forum": "https://forums.uberent.com/threads/rel-static-menu-58197.54758/",
-    "category": [
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/staticmenu_v2.zip"
   },
   "subduedorbitalbooster": {
     "author": "Dementiurge",
