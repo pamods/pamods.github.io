@@ -469,23 +469,23 @@
   },
   "dShowOffline": {
     "author": "DeathByDenim",
-    "build": "63234",
+    "build": "63475",
     "category": [
       "ui"
     ],
-    "date": "2014/03/27",
-    "description": "Shows on-line status of fellow players.",
-    "description_nl": "Toont de on-line status van de medespelers.",
-    "description_de": "Zeigen Sie den on-line Status der Mitspieler.",
-    "description_fr": "Montrez-vous l'état on-line des conjoueurs.",
-    "display_name": "Show Offline",
-    "display_name_nl": "Offline tonen",
-    "display_name_de": "Offline zeigen",
-    "display_name_fr": "Montrer Offline",
+    "date": "2014/03/28",
+	"description" : "Shows off-line status of fellow players.",
+	"description_nl" : "Toont de off-line status van de medespelers.",
+	"description_de" : "Zeigen Sie den off-line Status der Mitspieler.",
+	"description_fr" : "Afficher l'état off-line des conjoueurs.",
+	"display_name" : "Show Offline",
+	"display_name_nl" : "Offline tonen",
+	"display_name_de" : "Offline zeigen",
+	"display_name_fr" : "Montrer Offline",
     "forum": "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
     "icon": "http://pamods.github.io/icons/dShowOffline.png",
-    "version": "1.0",
-    "url": "http://pamods.github.io/user_mods/dShowOffline_v1.0.zip"
+    "version": "1.1",
+    "url": "http://pamods.github.io/user_mods/dShowOffline_v1.1.zip"
   },
   "dTimer": {
     "display_name": "In Game Timer",
