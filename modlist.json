@@ -646,6 +646,21 @@
     "date": "2014/03/28",
     "url": "http://pamods.github.io/user_mods/kodef_v2.zip"
   },
+  "LavaSnakes_Ant": {
+    "display_name": "Ant Name Bug Fix",
+    "description": "PA has a bug that prevents it from displaying the Ant's proper name; this mod fixes that.",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "build": "63475",
+    "date": "2014/03/27",
+    "forum": "https://forums.uberent.com/threads/rel-ant-name-bug-fix-63475.58349/",
+    "category": [
+      "In-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/AntIcon.png",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_Ant.zip"
+  },
   "LavaSnakes_CustomInGameTimers": {
     "display_name": "Customizable In-Game Timers",
     "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
