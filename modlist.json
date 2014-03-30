@@ -865,7 +865,7 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
-  "powFailToLobby": {
+  "powReturnToServerBrowser": {
     "display_name": "Return to Server Browser",
     "description": "Hate that Main Menu upon failing to join a game? Fret not, now you get back to the list of games.",
     "author": "pownie",
