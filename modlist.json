@@ -637,14 +637,14 @@
     "display_name": "include KO Deferred",
     "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
     "author": "Cola_Colin",
-    "version": "2.0",
+    "version": "3.0",
     "build": "63475",
     "forum": "https://forums.uberent.com/threads/experiment-ko-deferred.58294/",
     "category": [
       "Bugfix"
     ],
-    "date": "2014/03/28",
-    "url": "http://pamods.github.io/user_mods/kodef_v2.zip"
+    "date": "2014/03/30",
+    "url": "http://pamods.github.io/user_mods/kodef_v3.zip"
   },
   "LavaSnakes_Ant": {
     "display_name": "Ant Name Bug Fix",
