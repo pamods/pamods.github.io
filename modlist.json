@@ -865,6 +865,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
+  "powFailToLobby": {
+    "display_name": "Return to Server Browser",
+    "description": "Hate that Main Menu upon failing to join a game? Fret not, now you get back to the list of games.",
+    "author": "pownie",
+    "version": "1",
+    "build": "63475",
+    "date": "2014/03/31",
+    "forum": "https://forums.uberent.com/threads/rel-server-browser-instead-of-main-menu.58383/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/powReturnToServerBrowser_v1.zip"
+  },
   "powTwitchOnStart": {
     "display_name": "Twitch controls in Main menu",
     "description": "Allows to login to twitch and control the stream from the main menu",
