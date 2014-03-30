@@ -1002,11 +1002,11 @@
   },
   "rModsList": {
     "display_name": "Installed Mods List",
-    "description": "Adds a 'Mods' button to the main menu which shows a list of currently enabled mods",
+    "description": "Adds a 'Mods' tab on the main menu which shows a list of currently enabled mods, and if any require updates",
     "author": "Raevn",
-    "version": "3.0.0",
-    "build": "63234",
-    "date": "2014/03/27",
+    "version": "3.1.0",
+    "build": "63475",
+    "date": "2014/03/30",
     "forum": "https://forums.uberent.com/threads/rel-installed-mods-list-v1-2-1-58197.54645/",
     "category": [
       "modding",
@@ -1015,7 +1015,7 @@
     "requires": [
       "rPAMM"
     ],
-    "url": "http://pamods.github.io/user_mods/rModsList_v3.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/rModsList_v3.1.0.zip"
   },
   "rSettingsManager": {
     "display_name": "Settings Manager",
