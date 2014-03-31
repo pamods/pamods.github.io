@@ -1218,6 +1218,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.1.zip"
   },
+  "tDidYouKnow": {
+    "display_name": "Did You Know?",
+    "description": "Provides short bites of information. Did you know this mod is awesome?",
+    "author": "trialq",
+    "version": "0.1",
+    "build": "63475",
+    "date": "2014/03/31",
+    "forum": "https://forums.uberent.com/threads/rel-did-you-know.58384/",
+    "icon": "http://pamods.github.io/icons/tDidYouKnow.png",
+    "category": [
+      "reference",
+      "main-menu"
+    ],
+    "url": "http://pamods.github.io/user_mods/tDidYouKnow_v0.1.zip"
+  },
   "tDoxCommMode": {
     "display_name": "Dox Comm Camo Mode",
     "description": "Replaces commander graphics with dox (build a dox army and play hide-and-seek). Gentlemen's rules, everyone must enable it and use the tank commander.",
