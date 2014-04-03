@@ -570,18 +570,20 @@
   },
   "gross_economy": {
     "author": "wondible",
-    "build": "63234",
+    "build": "63475",
     "category": [
       "in-game",
       "ui"
     ],
-    "date": "2014/03/23",
+    "date": "2014/03/30",
     "description": "Status bar that emphasises income and expense so that they can be visually compared.",
     "display_name": "Gross Economy",
     "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
-    "requires": null,
-    "version": "2.0.1",
-    "url": "http://pamods.github.io/user_mods/gross_economy_v2.0.1.zip"
+    "requires": [
+      "rSettingsManager"
+    ],
+    "version": "3.0.0",
+    "url": "http://pamods.github.io/user_mods/gross_economy_v3.0.zip"
   },
   "hotbuild2": {
     "display_name": "Hotbuild2",
@@ -865,6 +867,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
+  "powReturnToServerBrowser": {
+    "display_name": "Return to Server Browser",
+    "description": "Hate that Main Menu upon failing to join a game? Fret not, now you get back to the list of games.",
+    "author": "pownie",
+    "version": "1",
+    "build": "63475",
+    "date": "2014/03/31",
+    "forum": "https://forums.uberent.com/threads/rel-server-browser-instead-of-main-menu.58383/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/powReturnToServerBrowser_v1.zip"
+  },
   "powTwitchOnStart": {
     "display_name": "Twitch controls in Main menu",
     "description": "Allows to login to twitch and control the stream from the main menu",
@@ -1002,11 +1017,11 @@
   },
   "rModsList": {
     "display_name": "Installed Mods List",
-    "description": "Adds a 'Mods' button to the main menu which shows a list of currently enabled mods",
+    "description": "Adds a 'Mods' tab on the main menu which shows a list of currently enabled mods, and if any require updates",
     "author": "Raevn",
-    "version": "3.0.0",
-    "build": "63234",
-    "date": "2014/03/27",
+    "version": "3.1.0",
+    "build": "63475",
+    "date": "2014/03/30",
     "forum": "https://forums.uberent.com/threads/rel-installed-mods-list-v1-2-1-58197.54645/",
     "category": [
       "modding",
@@ -1015,7 +1030,7 @@
     "requires": [
       "rPAMM"
     ],
-    "url": "http://pamods.github.io/user_mods/rModsList_v3.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/rModsList_v3.1.0.zip"
   },
   "rSettingsManager": {
     "display_name": "Settings Manager",
@@ -1204,6 +1219,21 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.1.zip"
+  },
+  "tDidYouKnow": {
+    "display_name": "Did You Know?",
+    "description": "Provides short bites of information. Did you know this mod is awesome?",
+    "author": "trialq",
+    "version": "0.1.1",
+    "build": "63475",
+    "date": "2014/03/31",
+    "forum": "https://forums.uberent.com/threads/rel-did-you-know.58384/",
+    "icon": "http://pamods.github.io/icons/tDidYouKnow.png",
+    "category": [
+      "reference",
+      "main-menu"
+    ],
+    "url": "http://pamods.github.io/user_mods/tDidYouKnow_v0.1.1.zip"
   },
   "tDoxCommMode": {
     "display_name": "Dox Comm Camo Mode",
