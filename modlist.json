@@ -505,9 +505,9 @@
     "display_name": "Eco Manager",
     "description": "Adds eco-management buttons to ui",
     "author": "trialq",
-    "version": "1.1.1",
-    "build": "59607",
-    "date": "2014/02/10",
+    "version": "1.2",
+    "build": "63475",
+    "date": "2014/04/05",
     "forum": "https://forums.uberent.com/threads/rel-eco-manager-58772.55618/",
     "icon": "http://pamods.github.io/icons/eco_manager.png",
     "category": [
@@ -517,7 +517,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/eco_manager_v1.1.1.zip"
+    "url": "http://pamods.github.io/user_mods/eco_manager_v1.2.zip"
   },
   "EcoEffv2": {
     "display_name": "Economy Efficiency v2",
