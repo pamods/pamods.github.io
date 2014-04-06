@@ -667,9 +667,9 @@
     "display_name": "Customizable In-Game Timers",
     "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
     "author": "LavaSnake",
-    "version": "1.6",
-    "build": "62110",
-    "date": "2014/01/30",
+    "version": "1.7",
+    "build": "63475",
+    "date": "2014/04/06",
     "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
     "category": [
       "in-game",
@@ -678,15 +678,15 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-6.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-7.zip"
   },
   "LavaSnakes_CustomUnitNames": {
     "display_name": "Custom Unit Names",
     "description": "Lets you set your own custom names for each unit and building in the settings menu.",
     "author": "LavaSnake",
-    "version": "1.2",
-    "build": "62168",
-    "date": "2014/03/02",
+    "version": "1.3",
+    "build": "63475",
+    "date": "2014/04/06",
     "forum": "https://forums.uberent.com/threads/rel-custom-unit-names-59549.56124/",
     "category": [
       "in-game",
@@ -696,7 +696,7 @@
       "rSettingsManager"
     ],
     "icon": "http://pamods.github.io/icons/UnitRenamer.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-2.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-3.zip"
   },
   "LavaSnakes_ProfilePicFixer": {
     "display_name": "ProfilePic+",
