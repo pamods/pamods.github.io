@@ -1239,9 +1239,9 @@
     "display_name": "Dox Comm Camo Mode",
     "description": "Replaces commander graphics with dox (build a dox army and play hide-and-seek). Gentlemen's rules, everyone must enable it and use the tank commander.",
     "author": "trialq",
-    "version": "1.0",
-    "build": "61450",
-    "date": "2014/02/24",
+    "version": "1.1",
+    "build": "63475",
+    "date": "2014/04/06",
     "icon": "http://pamods.github.io/icons/tDoxCommMode.png",
     "forum": "https://forums.uberent.com/threads/rel-dox-comm-camo-mode.56820/",
     "category": [
@@ -1250,7 +1250,7 @@
       "gentleman",
       "commander"
     ],
-    "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip"
   },
   "teamBuildColor": {
     "display_name": "Team Build Color",
