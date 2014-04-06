@@ -1209,16 +1209,16 @@
     "display_name": "Custom Build Bar",
     "description": "Adds a custom tab to the build bar",
     "author": "trialq",
-    "version": "0.1",
-    "build": "59607",
-    "date": "2014/02/10",
+    "version": "0.2",
+    "build": "63475",
+    "date": "2014/04/06",
     "forum": "https://forums.uberent.com/threads/rel-custom-build-bar.56383/",
     "icon": "http://pamods.github.io/icons/tCustomBuildBar.png",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.1.zip"
+    "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.2.zip"
   },
   "tDidYouKnow": {
     "display_name": "Did You Know?",
