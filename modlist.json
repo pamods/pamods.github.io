@@ -266,9 +266,9 @@
     "display_name": "Planet Name Themes",
     "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
     "author": "Captain Conundrum",
-    "version": "1.1.2",
-    "build": "59607",
-    "date": "2014/02/02",
+    "version": "1.2",
+    "build": "63475",
+    "date": "2014/04/07",
     "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
     "category": [
       "ui"
@@ -277,7 +277,7 @@
     "requires": [
       "rSettingsManager"
     ],
-    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.1.2.zip"
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.2.zip"
   },
   "cPlanetPips": {
     "display_name": "Planet Pip Buttons",
