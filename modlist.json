@@ -1066,17 +1066,20 @@
     "display_name": "Sup Com icons",
     "description": "Forged Alliance Forever-inspired icons",
     "author": "tatsu",
-    "version": "9",
-    "build": "62168",
+    "version": "10",
+    "build": "63180",
     "date": "2014/03/03",
     "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
-    "icon": "https://dl.dropboxusercontent.com/u/22720750/d.jpg",
+    "icon": "http://pamods.github.io/icons/SCicons.png",
     "category": [
       "Strategic Icons",
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/tatsuicons_V9.zip"
+    "requires": [
+      "teamBuildColor"
+    ],
+    "url": "http://pamods.github.io/user_mods/SCicons_v10.zip"
   },
   "sirHighlightedBuildings": {
     "display_name": "Highlighted Buildings",
