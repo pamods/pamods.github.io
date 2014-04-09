@@ -311,10 +311,10 @@
   "cSketchJS": {
     "display_name": "Sketch Tools For Casters",
     "description": "Adds a sketch.js layer over the game window so that casters can draw lines or arrows on the screen.",
-    "author": "Captain Conundrum, Lavasnake, martenus",
-    "version": "1.0.0",
+    "author": "Captain Conundrum, LavaSnake, Martenus",
+    "version": "1.2.0",
     "build": "63234",
-    "date": "2014/03/26",
+    "date": "2014/04/09",
     "forum": "https://forums.uberent.com/threads/request-click-drag-colorful-arrows-for-casters.58029",
     "category": [
       "in-game",
@@ -324,7 +324,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/cSketchJS_v1.0.0.zip"
+    "url": "http://pamods.github.io/user_mods/cSketchJS_v1.2.0.zip"
   },
   "cTrackingPips": {
     "display_name": "Tracking Pips",
