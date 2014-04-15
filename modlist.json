@@ -585,6 +585,19 @@
     "version": "3.0.0",
     "url": "http://pamods.github.io/user_mods/gross_economy_v3.0.zip"
   },
+  "HideFogOfWar": {
+    "display_name": "Hide Fog of War",
+    "description": "Removes the grey lighting from the fog of war. For cinematic purposes.",
+    "author": "superouman",
+    "version": "1.0",
+    "build": "63475",
+    "date": "2014/04/15",
+    "forum": "https://forums.uberent.com/threads/notyet",
+    "category": [
+      "In-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/HideFogOfWar_v1.0.zip"
+  },
   "hotbuild2": {
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
