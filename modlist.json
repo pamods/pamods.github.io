@@ -1182,6 +1182,20 @@
     "version": "1.0",
     "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip"
   },
+  "tAnnoyMe": {
+    "display_name": "Annoy Me",
+    "description": "Audibly alert the player, repeatedly, when the economy is being wasted or stalling.",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "63475",
+    "date": "2014/04/17",
+    "forum": "https://forums.uberent.com/threads/rel-annoy-me.58786/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/tAnnoyMe_v1.0.zip"
+  },
   "tauntMod": {
     "display_name": "TauntMod",
     "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
