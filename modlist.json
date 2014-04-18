@@ -296,17 +296,20 @@
   },
   "cShareSystems": {
     "display_name": "System Sharing",
-    "description": "Share your favorite systems with other users. Enhanced System Preview is recommended with this mod.",
+    "description": "Share your favorite systems with other users. PACE, eXodus, and PA Stats maps are available as well.",
     "author": "Captain Conundrum",
-    "version": "1.1.2",
-    "build": "62110",
-    "date": "2014/03/05",
+    "version": "1.2.0",
+    "build": "63475",
+    "date": "2014/04/18",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.1.2.zip"
+    "requires": [
+      "cEnhancedSystemPreview"
+    ],
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.2.0.zip"
   },
   "cSketchJS": {
     "display_name": "Sketch Tools For Casters",
