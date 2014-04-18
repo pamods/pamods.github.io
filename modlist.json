@@ -94,15 +94,15 @@
   "blackscreenfix": {
     "display_name": "No Blackscreens",
     "description": "Fix for Blackscreens when loading css in mods for PA v.63180",
-    "author": "Cola_Colin",
-    "version": "5.0",
-    "build": "63180",
+    "author": "Cola_Colin, PRoeleert, wondible",
+    "version": "6.0",
+    "build": "63475",
     "forum": "https://forums.uberent.com/threads/rel-possible-fix-for-blackscreen-issues.56735/",
     "category": [
       "Bugfix"
     ],
-    "date": "2014/03/21",
-    "url": "http://pamods.github.io/user_mods/blackscreenfix_v5.0.zip"
+    "date": "2014/04/18",
+    "url": "http://pamods.github.io/user_mods/blackscreenfix_v6.0.zip"
   },
   "bShowSecondaryColour": {
     "display_name": "Show Secondary Colour",
