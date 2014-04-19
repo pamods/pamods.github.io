@@ -1020,18 +1020,18 @@
   },
   "reconnect_button": {
     "author": "wondible",
-    "build": "63180",
+    "build": "63475",
     "category": [
       "ui",
       "main menu"
     ],
-    "date": "2014/03/21",
-    "description": "Provides a Reconnect button on the start menu.  When it's disabled, you know it's safe to start a game without fear of reconnecting to the wrong one.",
+    "date": "2014/04/19",
+    "description": "Provides a Reconnect button on the start menu when you are still assigned to a game.  A reconnect option is also provided in the live game ESC menu which will attempt to restore a disconnected session.",
     "display_name": "Reconnect Button",
     "forum": "https://forums.uberent.com/threads/wip-reconnect-button.57733/",
     "requires": [],
-    "version": "1.0.1",
-    "url": "http://pamods.github.io/user_mods/reconnect_button_v1.0.1.zip"
+    "version": "2.0.0",
+    "url": "http://pamods.github.io/user_mods/reconnect_button_v2.0.0.zip"
   },
   "rFloatFrame": {
     "display_name": "Floating Framework",
