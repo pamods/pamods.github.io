@@ -578,15 +578,15 @@
       "in-game",
       "ui"
     ],
-    "date": "2014/03/30",
+    "date": "2014/04/19",
     "description": "Status bar that emphasises income and expense so that they can be visually compared.",
     "display_name": "Gross Economy",
     "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
     "requires": [
       "rSettingsManager"
     ],
-    "version": "3.0.0",
-    "url": "http://pamods.github.io/user_mods/gross_economy_v3.0.zip"
+    "version": "3.0.1",
+    "url": "http://pamods.github.io/user_mods/gross_economy_v3.0.1.zip"
   },
   "HideFogOfWar": {
     "display_name": "Hide Fog of War",
