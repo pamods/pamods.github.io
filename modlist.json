@@ -1189,15 +1189,18 @@
     "display_name": "Annoy Me",
     "description": "Audibly alert the player, repeatedly, when the economy is being wasted or stalling.",
     "author": "trialq",
-    "version": "1.1",
+    "version": "1.2",
     "build": "63475",
-    "date": "2014/04/19",
+    "date": "2014/04/20",
     "forum": "https://forums.uberent.com/threads/rel-annoy-me.58786/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/tAnnoyMe_v1.1.zip"
+    "requires": [
+      "rSettingsManager"
+    ],
+    "url": "http://pamods.github.io/user_mods/tAnnoyMe_v1.2.zip"
   },
   "tauntMod": {
     "display_name": "TauntMod",
