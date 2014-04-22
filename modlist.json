@@ -640,16 +640,16 @@
     "display_name": "In Game Browser",
     "description": "Adds an in game web browser",
     "author": "someonewhoisnobody",
-    "version": "1.3.3",
+    "version": "1.3.4",
     "build": "63180",
-    "date": "2014/4/14",
+    "date": "2014/4/22",
     "forum": "https://forums.uberent.com/threads/rel-in-game-browser-v1-0.57290/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://i.imgur.com/V5fra1Y.jpg",
-    "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.3.3.zip"
+    "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.3.4.zip"
   },
   "kodef": {
     "display_name": "include KO Deferred",
