@@ -1159,6 +1159,20 @@
     ],
     "url": "http://pamods.github.io/user_mods/SpectatorVision_v1.0.0.zip"
   },
+  "sTeamNotes": {
+    "display_name": "Team Notes",
+    "description": "Organise information in teams",
+    "author": "Shalkka",
+    "version": "v0.1.1",
+    "build": "64498",
+    "date": "2014/04/23",
+    "forum": "https://forums.uberent.com/threads/dev-request-team-task-list.58385/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/sTeamNotes_v0.1.1.zip"
+  },
   "subduedorbitalbooster": {
     "author": "Dementiurge",
     "build": "63234",
