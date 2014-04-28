@@ -622,20 +622,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/hotbuild2_v1.9.9.9.9.zip"
   },
-  "hotfictus_invictus": {
-    "author": "wondible",
-    "build": "63475",
-    "category": [
-      "hotfix"
-    ],
-    "date": "2014/04/18",
-    "description": "Patch the icon paths for the Invicutus Commander in 63180-63475",
-    "display_name": "Hotfictus Invictus",
-    "forum": "https://forums.uberent.com/threads/rel-hotfictus-invictus-63180-63475.58260/",
-    "requires": [],
-    "version": "1.1.0",
-    "url": "http://pamods.github.io/user_mods/hotfictus_invictus_v1.1.0.zip"
-  },
   "inGameBrowser": {
     "display_name": "In Game Browser",
     "description": "Adds an in game web browser",
