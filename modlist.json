@@ -811,6 +811,25 @@
     "build": "62168",
     "url": "http://pamods.github.io/user_mods/mEventHandler_v1.2.zip"
   },
+  "missile_command": {
+    "author": "wondible",
+    "build": "64498",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/04/28",
+    "description": "Provides limited assistance for managing nuke launchers.",
+    "display_name": "Missile Command",
+    "forum": "https://forums.uberent.com/threads/wip-missile-command.58542/",
+    "icon": "http://pamods.github.io/icons/missile_command.png",
+    "requires": [
+      "rFloatFrame",
+      "alertsManager"
+    ],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/missile_command_v1.0.zip"
+  },
   "modbatch": {
     "display_name": "Mod BatchSize",
     "description": "Change Batchsize from 5 to 100",
