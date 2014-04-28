@@ -799,6 +799,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip"
   },
+  "maxTinyPoles": {
+    "display_name": "Tiny Poles",
+    "description": "Reduces the size of the 'N' and 'S' pole indicators",
+    "author": "maxpowerz",
+    "version": "1.0",
+    "build": "64498",
+    "date": "2014/04/28",
+    "forum": "https://forums.uberent.com/threads/s-and-n-marks-super-awkward.58122/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/maxTinyPoles_v1.0.zip"
+  },
   "mEventHandler": {
     "display_name": "Process-Event-Handler Framework",
     "description": "A Framework for handling process events sent to the engine",
