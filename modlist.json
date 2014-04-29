@@ -782,19 +782,6 @@
     "version": "1.0.2",
     "url": "http://pamods.github.io/user_mods/linger_v1.0.2.zip"
   },
-  "loadExperimentalSystem": {
-    "display_name": "Load experimental system in lobby creator",
-    "description": "Load experimental system in lobby creator",
-    "author": "yuuzhantar",
-    "version": "1.0",
-    "build": "61450",
-    "date": "2014/04/26",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/loadExperimentalSystem_v1.0.zip"
-  },
   "mAdvancedSelect": {
     "display_name": "Advanced Unit Selection",
     "description": "More options/filters for unit selection",
