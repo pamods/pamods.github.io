@@ -637,6 +637,25 @@
     "icon": "http://i.imgur.com/V5fra1Y.jpg",
     "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.3.4.zip"
   },
+  "instant_sandbox": {
+    "author": "wondible",
+    "build": "64498",
+    "category": [
+      "ui",
+      "main menu",
+      "modding"
+    ],
+    "date": "2014/04/29",
+    "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
+    "display_name": "Instant Sandbox",
+    "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
+    "icon": "http://pamods.github.io/icons/instant_sandbox.png",
+    "requires": [
+      "rSettingsManager"
+    ],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.zip"
+  },
   "kodef": {
     "display_name": "include KO Deferred",
     "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
