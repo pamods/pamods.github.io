@@ -645,7 +645,7 @@
       "main menu",
       "modding"
     ],
-    "date": "2014/04/29",
+    "date": "2014/05/02",
     "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
     "display_name": "Instant Sandbox",
     "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
@@ -653,8 +653,8 @@
     "requires": [
       "rSettingsManager"
     ],
-    "version": "1.0.0",
-    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.zip"
+    "version": "1.0.1",
+    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.1.zip"
   },
   "kodef": {
     "display_name": "include KO Deferred",
