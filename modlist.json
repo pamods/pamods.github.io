@@ -1051,22 +1051,24 @@
     "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip"
   },
   "rCommanderHP": {
-    "display_name": "Commander Health Display",
-    "description": "Adds a display to the UI that tracks your commander's health",
-    "author": "raevn, danzel, burntcustard",
-    "version": "2.7.4",
-    "build": "61250",
-    "date": "2014/02/20",
-    "forum": "https://forums.uberent.com/threads/rel-commander-health-display-v2.50584/",
+    "display_name": "Commander HUD",
+    "description": "Adds HUD that tracks your commander's health and more!",
+    "author": "LavaSnake, raevn, and others",
+    "version": "3.0",
+    "build": "64498",
+    "date": "2014/5/11",
+    "forum": "https://forums.uberent.com/threads/wip-commander-hud-v3.59137/",
     "category": [
       "in-game",
       "ui"
     ],
     "requires": [
       "rFloatFrame",
-      "rSettingsManager"
+      "rSettingsManager",
+      "rBlueprintInfoFramework"
     ],
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v2.7.4.zip"
+    "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-0.zip"
   },
   "reconnect_button": {
     "author": "wondible",
@@ -1201,14 +1203,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.1",
-    "build": "62110",
-    "date": "2014/02/20",
+    "version": "1.11",
+    "build": "64498",
+    "date": "2014/05/05",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
