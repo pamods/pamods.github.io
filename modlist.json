@@ -1052,7 +1052,7 @@
   },
   "rCommanderHP": {
     "display_name": "Commander HUD",
-    "description": "Adds HUD that tracks your commander's health and more!",
+    "description": "Adds a HUD that tracks your commander's health and more!",
     "author": "LavaSnake, raevn, and others",
     "version": "3.0",
     "build": "64498",
