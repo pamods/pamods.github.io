@@ -645,7 +645,7 @@
       "main menu",
       "modding"
     ],
-    "date": "2014/05/02",
+    "date": "2014/05/11",
     "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
     "display_name": "Instant Sandbox",
     "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
@@ -653,8 +653,8 @@
     "requires": [
       "rSettingsManager"
     ],
-    "version": "1.0.1",
-    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.1.zip"
+    "version": "1.0.2",
+    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.2.zip"
   },
   "kodef": {
     "display_name": "include KO Deferred",
@@ -1203,14 +1203,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.11",
-    "build": "64498",
-    "date": "2014/05/05",
+    "version": "1.1",
+    "build": "62110",
+    "date": "2014/02/20",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
