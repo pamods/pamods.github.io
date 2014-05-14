@@ -756,9 +756,9 @@
     "display_name": "Stargate Unit Names",
     "description": "Ever wanted to command legions of Jaffa warriors, swarms of Abrams tanks, or fleets of X-302s? Well now you can with the Stargate Unit Names mod!",
     "author": "LavaSnake",
-    "version": "1.1",
-    "build": "64498",
-    "date": "2014/04/27",
+    "version": "1.2",
+    "build": "65588",
+    "date": "2014/05/14",
     "forum": "https://forums.uberent.com/threads/rel-stargate-unit-names-63475.58651/",
     "category": [
       "in-game",
@@ -769,7 +769,7 @@
       "LavaSnakes_CustomUnitNames"
     ],
     "icon": "http://pamods.github.io/icons/StargateBugFix.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateUnitNames_v1-1.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateUnitNames_v1-2.zip"
   },
   "lineToCircle": {
     "display_name": "Line to Circle mod",
@@ -1203,14 +1203,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.1",
-    "build": "62110",
-    "date": "2014/02/20",
+    "version": "1.11",
+    "build": "64498",
+    "date": "2014/05/05",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
