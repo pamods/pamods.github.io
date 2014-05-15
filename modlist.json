@@ -1449,24 +1449,6 @@
     "build": "65588",
     "url": "http://pamods.github.io/user_mods/transicons_v3.3.2.zip"
   },
-  "tSmasherDox": {
-    "display_name": "Dox to Smasher",
-    "description": "Replaces the model of the Dox with that of the Smasher. Now you too can harass while looking 50% more awesome!",
-    "author": "Stuart98",
-    "version": "1.0",
-    "build": "63475",
-    "date": "2014/04/11",
-    "icon": "http://pamods.github.io/icons/tSmasherDox.jpg",
-    "forum": "https://forums.uberent.com/threads/rel-dox-to-smasher.58677/",
-    "category": [
-      "in-game",
-      "dox",
-      "model",
-      "replacement",
-      "unit"
-    ],
-    "url": "http://pamods.github.io/user_mods/tSmasherDox_v1-0.zip"
-  },
   "tSystemEditorFix": {
     "display_name": "System Editor Fix",
     "description": "Adds input validation in system editor, so editor crashes less",
