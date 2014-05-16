@@ -40,6 +40,21 @@
     "build": "63475",
     "url": "http://pamods.github.io/user_mods/alertsManager_v1.3.2.zip"
   },
+  "alphaenergy": {
+    "display_name": "Alpha Energy Plant",
+    "description": "Replaces the energy plant model with one from the Alpha.",
+    "author": "Stuart98",
+    "version": "1.0",
+    "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
+    "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
+    "category": [
+      "Model",
+      "Energy Plant"
+    ],
+    "date": "2014/05/15",
+    "build": "65588",
+    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.0.zip"
+  },
   "autoselect_commander": {
     "author": "wondible and friends",
     "build": "62443",
