@@ -670,7 +670,23 @@
     ],
     "version": "1.0.2",
     "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.2.zip"
-  },
+ },
+  "jungletropical": {
+    "display_name": "Tropical Jungle Planet Icon",
+    "description": "Replaces the icon for the Tropical planet in the system editor with a more fitting icon.",
+    "author": "Stuart98",
+    "version": "1.0",
+    "icon": "http://pamods.github.io/icons/jungletropical.jpg",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+        "Planets",
+        "System Editor",
+        "Icons",
+        "Tropical"
+    ],
+    "date": "2014/05/16",
+    "build": "65588"
+ },
   "kodef": {
     "display_name": "include KO Deferred",
     "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
