@@ -1454,15 +1454,15 @@
     "display_name": "Transparent Strategic Icons",
     "description": "Transparent Strategic Icons",
     "author": "Moldez",
-    "version": "3.3.2",
+    "version": "3.3.3",
     "icon": "http://pamods.github.io/icons/transicons.png",
     "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
     "category": [
       "Strategic Icons"
     ],
-    "date": "2014/05/14",
+    "date": "2014/05/15",
     "build": "65588",
-    "url": "http://pamods.github.io/user_mods/transicons_v3.3.2.zip"
+    "url": "http://pamods.github.io/user_mods/transicons_v3.3.3.zip"
   },
   "tSystemEditorFix": {
     "display_name": "System Editor Fix",
