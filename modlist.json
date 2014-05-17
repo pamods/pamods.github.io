@@ -44,16 +44,16 @@
     "display_name": "Alpha Energy Plant",
     "description": "Replaces the energy plant model with one from the Alpha.",
     "author": "Stuart98",
-    "version": "1.0",
+    "version": "1.1",
     "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
     "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
     "category": [
       "Model",
       "Energy Plant"
     ],
-    "date": "2014/05/15",
+    "date": "2014/05/17",
     "build": "65588",
-    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.1.zip"
   },
   "autoselect_commander": {
     "author": "wondible and friends",
@@ -679,15 +679,15 @@
     "icon": "http://pamods.github.io/icons/jungletropical.jpg",
     "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
     "category": [
-        "Planets",
-        "System Editor",
-        "Icons",
-        "Tropical"
+      "Planets",
+      "System Editor",
+      "Icons",
+      "Tropical"
     ],
     "date": "2014/05/16",
     "build": "65588",
-   "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip"
-   },
+    "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip"
+  },
   "kodef": {
     "display_name": "include KO Deferred",
     "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
@@ -864,19 +864,19 @@
   },
   "metalbackground": {
     "display_name": "Metal Planet Background Mod",
-    "description": "Replaces the earth planet background with the promotional metal planet background",
+    "description": "Replaces the earth planet background with the promotional metal planet art.",
     "author": "Stuart98",
     "version": "1.0",
     "icon": "http://pamods.github.io/icons/metalbackground.jpg",
     "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
     "category": [
-        "Main-Menu",
-        "Background",
-        "Metal"
+      "Main-Menu",
+      "Background",
+      "Metal"
     ],
     "date": "2014/05/16",
     "build": "65588",
-   "url": "http://pamods.github.io/user_mods/metalbackground_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/metalbackground_v1.0.zip"
   },
   "mEventHandler": {
     "display_name": "Process-Event-Handler Framework",
@@ -1251,14 +1251,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.11",
-    "build": "64498",
-    "date": "2014/05/05",
+    "version": "1.1",
+    "build": "62110",
+    "date": "2014/02/20",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
