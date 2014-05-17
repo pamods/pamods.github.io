@@ -670,7 +670,7 @@
     ],
     "version": "1.0.2",
     "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.2.zip"
- },
+  },
   "jungletropical": {
     "display_name": "Tropical Jungle Planet Icon",
     "description": "Replaces the icon for the Tropical planet in the system editor with a more fitting icon.",
@@ -687,8 +687,7 @@
     "date": "2014/05/16",
     "build": "65588"
    "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip"
-   
- },
+   },
   "kodef": {
     "display_name": "include KO Deferred",
     "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
