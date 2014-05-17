@@ -685,7 +685,7 @@
         "Tropical"
     ],
     "date": "2014/05/16",
-    "build": "65588"
+    "build": "65588",
    "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip"
    },
   "kodef": {
@@ -875,7 +875,7 @@
         "Metal"
     ],
     "date": "2014/05/16",
-    "build": "65588"
+    "build": "65588",
    "url": "http://pamods.github.io/user_mods/metalbackground_v1.0.zip"
   },
   "mEventHandler": {
