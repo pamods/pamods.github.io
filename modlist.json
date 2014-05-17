@@ -1251,14 +1251,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.1",
-    "build": "62110",
-    "date": "2014/02/20",
+    "version": "1.11",
+    "build": "64498",
+    "date": "2014/05/05",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
