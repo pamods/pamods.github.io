@@ -686,6 +686,8 @@
     ],
     "date": "2014/05/16",
     "build": "65588"
+   "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip"
+   
  },
   "kodef": {
     "display_name": "include KO Deferred",
@@ -860,6 +862,22 @@
       "in-game"
     ],
     "url": "http://pamods.github.io/user_mods/maxTinyPoles_v1.0.zip"
+  },
+  "metalbackground": {
+    "display_name": "Metal Planet Background Mod",
+    "description": "Replaces the earth planet background with the promotional metal planet background",
+    "author": "Stuart98",
+    "version": "1.0",
+    "icon": "http://pamods.github.io/icons/metalbackground.jpg",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+        "Main-Menu",
+        "Background",
+        "Metal"
+    ],
+    "date": "2014/05/16",
+    "build": "65588"
+   "url": "http://pamods.github.io/user_mods/metalbackground_v1.0.zip"
   },
   "mEventHandler": {
     "display_name": "Process-Event-Handler Framework",
