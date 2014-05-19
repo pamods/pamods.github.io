@@ -1251,14 +1251,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.11",
-    "build": "64498",
-    "date": "2014/05/05",
+    "version": "1.1",
+    "build": "62110",
+    "date": "2014/02/20",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
@@ -1482,6 +1482,21 @@
       "rFloatFrame"
     ],
     "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
+  },
+  "tHideUberBar": {
+    "display_name": "Hide UberBar",
+    "description": "Hides the UberBar everywhere.",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "65588",
+    "date": "2014/05/19",
+    "forum": "https://forums.uberent.com/threads/rel-hide-uber-bar.59626/",
+    "icon": "http://pamods.github.io/icons/tHideUberBar.png",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/tHideUberBar_v1.0.zip"
   },
   "transicons": {
     "display_name": "Transparent Strategic Icons",
