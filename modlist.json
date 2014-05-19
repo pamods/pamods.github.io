@@ -552,6 +552,21 @@
     "icon": "http://pamods.github.io/icons/EcoEff.png",
     "url": "http://pamods.github.io/user_mods/EcoEffv2.zip"
   },
+  "EcoEffv3": {
+    "display_name": "Economy Efficiency v3",
+    "description": "Improves the Eco Information bars",
+    "author": "Stan_petit_cul",
+    "version": "3.0",
+    "build": "64498",
+    "date": "2014/05/07",
+    "forum": "TODO",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/EcoEff.png",
+    "url": "http://pamods.github.io/user_mods/EcoEffv3.zip"
+  },
   "fabulous_selections": {
     "author": "wondible",
     "build": "62110",
@@ -1251,14 +1266,14 @@
     "display_name": "Spaced-out Defence Towers",
     "description": "Puts more space between dragged turret lines",
     "author": "superouman",
-    "version": "1.1",
-    "build": "62110",
-    "date": "2014/02/20",
+    "version": "1.11",
+    "build": "64498",
+    "date": "2014/05/05",
     "forum": "https://forums.uberent.com/threads/notyet",
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
   },
   "SpectatorVision": {
     "display_name": "Spectator Vision",
