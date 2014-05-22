@@ -55,6 +55,23 @@
     "build": "65588",
     "url": "http://pamods.github.io/user_mods/alphaenergy_v1.1.zip"
   },
+  "anchorsfx": {
+    "display_name": "Anchor Sound Mod",
+    "description": "Replaces the sound effect for the Anchor firing with that of the Umbrella.",
+    "author": "Stuart98",
+    "version": "1.0",
+    "date": "2014/05/21",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+      "in-game",
+      "anchor",
+      "sound",
+      "sfx",
+      "bugfix"
+    ],
+    "build": "65588",
+    "url": "http://pamods.github.io/user_mods/anchorsfx_v1.0.zip"
+  },
   "autoselect_commander": {
     "author": "wondible and friends",
     "build": "62443",
