@@ -220,6 +220,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/cGGButton_v1.0.2.zip"
   },
+  "cheeseDevStage": {
+    "display_name": "Cheese Dev Stage",
+    "description": "Corrects the beginning of the version number to Cheese",
+    "author": "someonewhoisnobody",
+    "version": "0.1",
+    "build": "66516",
+    "date": "2014/5/23",
+    "forum": "https://forums.uberent.com/threads/rel-cheese-dev-stage.59838/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://i.imgur.com/CNCmW28.jpg",
+    "url": "http://pamods.github.io/user_mods/cheeseDevStage_v0.1.zip"
+  },
   "circleToLine": {
     "display_name": "Circle to Line mod",
     "description": "Changes all the circle builds to line build (metal+energy storage)",
