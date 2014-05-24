@@ -259,22 +259,19 @@
     "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.1.zip"
   },
   "corBetterBuildBars": {
-    "display_name": "Better Build Bars",
-    "description": "5 different build bars available - Check the UI tab in settings at the bottom - Icon Size is now adjustable 50% to 100% - 'No Blackscreens' by Cola_Colin Recommended",
+    "display_name": "Better Build Bar",
+    "description": "Updated for galactic war! Only one preset now, doesn't require settings manager anymore",
     "author": "Corang",
-    "version": "1.3.1",
-    "build": "62857",
-    "date": "2014/03/14",
+    "version": "2.0",
+    "build": "66567",
+    "date": "2014/05/23",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
-    "requires": [
-      "rSettingsManager"
-    ],
     "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBars_v1.3.1.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.zip"
   },
   "corLingerPiP": {
     "display_name": "Alert PiP Linger",
