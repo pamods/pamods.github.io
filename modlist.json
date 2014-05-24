@@ -696,13 +696,13 @@
   },
   "instant_sandbox": {
     "author": "wondible",
-    "build": "64498",
+    "build": "66567",
     "category": [
       "ui",
       "main menu",
       "modding"
     ],
-    "date": "2014/05/11",
+    "date": "2014/05/24",
     "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
     "display_name": "Instant Sandbox",
     "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
@@ -710,8 +710,8 @@
     "requires": [
       "rSettingsManager"
     ],
-    "version": "1.0.2",
-    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.0.2.zip"
+    "version": "1.1.0",
+    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.1.0.zip"
   },
   "jungletropical": {
     "display_name": "Tropical Jungle Planet Icon",
