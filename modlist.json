@@ -136,6 +136,21 @@
     "date": "2014/04/18",
     "url": "http://pamods.github.io/user_mods/blackscreenfix_v6.0.zip"
   },
+  "bRemoveAlertPIPs": {
+    "display_name": "bRemoveAlertPIPs",
+    "description": "Stops a PIP appearing when putting mouse over an alert, to help reduce lag.",
+    "author": "burntcustard",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/05/26",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "",
+    "forum": "",
+    "url": "http://pamods.github.io/user_mods/bRemoveAlertPIPs_v1.0.zip"
+  },
   "bShowSecondaryColour": {
     "display_name": "Show Secondary Colour",
     "description": "Shows secondary colours in lobby, and allows you to select which you use.",
