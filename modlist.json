@@ -137,7 +137,7 @@
     "url": "http://pamods.github.io/user_mods/blackscreenfix_v6.0.zip"
   },
   "bRemoveAlertPIPs": {
-    "display_name": "bRemoveAlertPIPs",
+    "display_name": "Remove Alert PIPs",
     "description": "Stops a PIP appearing when putting mouse over an alert, to help reduce lag.",
     "author": "burntcustard",
     "version": "1.0",
