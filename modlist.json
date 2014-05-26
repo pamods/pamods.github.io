@@ -696,16 +696,17 @@
     "display_name": "In Game Browser",
     "description": "Adds an in game web browser",
     "author": "someonewhoisnobody",
-    "version": "1.3.4",
-    "build": "63180",
-    "date": "2014/4/22",
+    "version": "2.0.0",
+    "build": "66567",
+    "date": "2014/5/26",
     "forum": "https://forums.uberent.com/threads/rel-in-game-browser-v1-0.57290/",
     "category": [
       "in-game",
-      "ui"
+      "ui",
+      "uberbar"
     ],
-    "icon": "http://i.imgur.com/V5fra1Y.jpg",
-    "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.3.4.zip"
+    "icon": "http://i.imgur.com/J9MG5mX.png",
+    "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.0.zip"
   },
   "instant_sandbox": {
     "author": "wondible",
