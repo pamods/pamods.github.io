@@ -1055,6 +1055,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
+  "PixelIcons": {
+    "display_name": "Pixel icons",
+    "description": "strategic icons in the style of Supreme Commander",
+    "author": "Xedi",
+    "version": "3.01",
+    "build": "66567",
+    "date": "2014/05/26",
+    "forum": "https://forums.uberent.com/threads/49316/",
+    "icon": "http://pamods.github.io/icons/pixelicons.png",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.01.zip"
+  },
   "powReturnToServerBrowser": {
     "display_name": "Return to Server Browser",
     "description": "Hate that Main Menu upon failing to join a game? Fret not, now you get back to the list of games.",
