@@ -1568,6 +1568,20 @@
     ],
     "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
+  "uimod-scaleui": {
+    "display_name": "ScaleUI",
+    "description": "Allows to scale the UI for smaller display resolutions",
+    "author": "Cola_Colin",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/5/26",
+    "forum": "https://forums.uberent.com/threads/soon-scale-ui.60092/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/scale-ui_v1.0.zip"
+  },
   "VipezTrees": {
     "display_name": "Christmas Trees",
     "description": "Christmas Spirit in PA!",
