@@ -776,9 +776,9 @@
     "display_name": "Customizable In-Game Timers",
     "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
     "author": "LavaSnake",
-    "version": "1.7",
-    "build": "63475",
-    "date": "2014/04/06",
+    "version": "1.8",
+    "build": "66567",
+    "date": "2014/5/26",
     "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
     "category": [
       "in-game",
@@ -787,7 +787,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-7.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-8.zip"
   },
   "LavaSnakes_CustomUnitNames": {
     "display_name": "Custom Unit Names",
@@ -1173,9 +1173,9 @@
     "display_name": "Commander HUD",
     "description": "Adds a HUD that tracks your commander's health and more!",
     "author": "LavaSnake, raevn, and others",
-    "version": "3.0",
-    "build": "64498",
-    "date": "2014/5/11",
+    "version": "3.1",
+    "build": "66567",
+    "date": "2014/5/26",
     "forum": "https://forums.uberent.com/threads/wip-commander-hud-v3.59137/",
     "category": [
       "in-game",
@@ -1187,7 +1187,7 @@
       "rBlueprintInfoFramework"
     ],
     "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-0.zip"
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-1.zip"
   },
   "reconnect_button": {
     "author": "wondible",
