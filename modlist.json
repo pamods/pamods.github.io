@@ -1570,6 +1570,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/tGWDeck_v1.4.zip"
   },
+  "tGWLoadout": {
+    "display_name": "Galactic War Loadouts",
+    "description": "New loadouts for use in Galactic War",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/05/28",
+    "forum": "https://forums.uberent.com/threads/rel-galactic-war-loadouts.60187/",
+    "icon": "http://pamods.github.io/icons/tGWLoadout.png",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.0.zip"
+  },
   "tGWSpeedHotfix": {
     "display_name": "Galactic War Speed Hotfix",
     "description": "Fixes the stock cards that buff a units speed, so the buff is actually applied.",
