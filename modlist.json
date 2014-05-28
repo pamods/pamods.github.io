@@ -1554,6 +1554,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
   },
+  "tGWDeck": {
+    "display_name": "Galactic War Deck",
+    "description": "A new deck for use in Galactic War",
+    "author": "trialq",
+    "version": "1.4",
+    "build": "66567",
+    "date": "2014/05/27",
+    "forum": "https://forums.uberent.com/threads/rel-galactic-war-deck.60167/",
+    "icon": "http://pamods.github.io/icons/tGWDeck.png",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "url": "http://pamods.github.io/user_mods/tGWDeck_v1.4.zip"
+  },
   "tGWSpeedHotfix": {
     "display_name": "Galactic War Speed Hotfix",
     "description": "Fixes the stock cards that buff a units speed, so the buff is actually applied.",
