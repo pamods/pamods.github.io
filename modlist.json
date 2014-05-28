@@ -1058,18 +1058,19 @@
   },
   "PixelIcons": {
     "display_name": "Pixel icons",
-    "description": "strategic icons in the style of Supreme Commander",
+    "description": "Strategic icons in the style of Supreme Commander",
     "author": "Xedi",
-    "version": "3.01",
+    "version": "3.02",
     "build": "66567",
-    "date": "2014/05/26",
+    "date": "2014/05/28",
     "forum": "https://forums.uberent.com/threads/49316/",
     "icon": "http://pamods.github.io/icons/pixelicons.png",
     "category": [
       "in-game",
-      "ui"
+      "ui",
+      "strategic icons"
     ],
-    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.01.zip"
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.02.zip"
   },
   "powReturnToServerBrowser": {
     "display_name": "Return to Server Browser",
