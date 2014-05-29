@@ -107,22 +107,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip"
   },
-  "bEfficiencyBoxFix": {
-    "display_name": "Efficiency Box Fix",
-    "description": "Temporary fix for the new efficiency box, to make it look nice.",
-    "author": "burntcustard",
-    "version": "1.0",
-    "build": "63180",
-    "date": "2014/03/21",
-    "category": [
-      "in-game",
-      "ui",
-      "bugfix"
-    ],
-    "icon": "http://pamods.github.io/icons/bEfficiencyBoxFix.png",
-    "forum": "https://forums.uberent.com/threads/rel-the-efficiency-box-is-ugly-and-ive-fixed-it.58125/",
-    "url": "http://pamods.github.io/user_mods/bEfficiencyBoxFix_v1.0.zip"
-  },
   "blackscreenfix": {
     "display_name": "No Blackscreens",
     "description": "Fix for Blackscreens when loading css in mods for PA v.63180",
@@ -181,6 +165,21 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.2.zip"
+  },
+  "bUITweaks": {
+    "display_name": "burntcustard's UI Tweaks",
+    "description": "Removes empty build bar boxes and does stuff",
+    "author": "burntcustard",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/05/29",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/bUITweaks.png",
+    "forum": "https://forums.uberent.com/threads/rel-burntcustards-ui-tweaks.60233/",
+    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.0.zip"
   },
   "cDraggablePip": {
     "display_name": "Draggable Picture in Picture",
