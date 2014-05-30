@@ -170,7 +170,7 @@
     "display_name": "burntcustard's UI Tweaks",
     "description": "Removes empty build bar boxes and does stuff",
     "author": "burntcustard",
-    "version": "1.0",
+    "version": "1.01",
     "build": "66567",
     "date": "2014/05/29",
     "category": [
@@ -179,7 +179,7 @@
     ],
     "icon": "http://pamods.github.io/icons/bUITweaks.png",
     "forum": "https://forums.uberent.com/threads/rel-burntcustards-ui-tweaks.60233/",
-    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.01.zip"
   },
   "cDraggablePip": {
     "display_name": "Draggable Picture in Picture",
