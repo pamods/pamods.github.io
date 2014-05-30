@@ -274,16 +274,16 @@
     "display_name": "Better Build Bar",
     "description": "Updated for galactic war! Only one preset now, doesn't require settings manager anymore",
     "author": "Corang",
-    "version": "2.0",
-    "build": "66567",
-    "date": "2014/05/23",
+    "version": "2.0.1",
+    "build": "66770",
+    "date": "2014/05/31",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.1.zip"
   },
   "corLingerPiP": {
     "display_name": "Alert PiP Linger",
