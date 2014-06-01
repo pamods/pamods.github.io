@@ -1734,5 +1734,20 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/wScriptSource_v.0.1.0.zip"
+  },
+  "yellow_synchronous": {
+    "author": "wondible",
+    "build": "66567",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/05/31",
+    "description": "Change Orange to Yellow so you can tell it from Red.",
+    "display_name": "Yellow Synchronous",
+    "forum": null,
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/yellow_synchronous_v1.0.zip"
   }
 }
