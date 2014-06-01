@@ -369,16 +369,16 @@
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. eXodus eSports, PACE, and The Realm maps are available as well.",
     "author": "Captain Conundrum",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "build": "65588",
-    "date": "2014/05/22",
+    "date": "2014/05/31",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
     "requires": [],
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.2.zip"
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.3.zip"
   },
   "cSketchJS": {
     "display_name": "Sketch Tools For Casters",
