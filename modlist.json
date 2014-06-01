@@ -107,22 +107,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip"
   },
-  "bEfficiencyBoxFix": {
-    "display_name": "Efficiency Box Fix",
-    "description": "Temporary fix for the new efficiency box, to make it look nice.",
-    "author": "burntcustard",
-    "version": "1.0",
-    "build": "63180",
-    "date": "2014/03/21",
-    "category": [
-      "in-game",
-      "ui",
-      "bugfix"
-    ],
-    "icon": "http://pamods.github.io/icons/bEfficiencyBoxFix.png",
-    "forum": "https://forums.uberent.com/threads/rel-the-efficiency-box-is-ugly-and-ive-fixed-it.58125/",
-    "url": "http://pamods.github.io/user_mods/bEfficiencyBoxFix_v1.0.zip"
-  },
   "blackscreenfix": {
     "display_name": "No Blackscreens",
     "description": "Fix for Blackscreens when loading css in mods for PA v.63180",
@@ -135,6 +119,19 @@
     ],
     "date": "2014/04/18",
     "url": "http://pamods.github.io/user_mods/blackscreenfix_v6.0.zip"
+  },
+  "bRemoveAlertPIPs": {
+    "display_name": "Remove Alert PIPs",
+    "description": "Stops a PIP appearing when putting mouse over an alert, to help reduce lag.",
+    "author": "burntcustard",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/05/26",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/bRemoveAlertPIPs_v1.0.zip"
   },
   "bShowSecondaryColour": {
     "display_name": "Show Secondary Colour",
@@ -168,6 +165,21 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.2.zip"
+  },
+  "bUITweaks": {
+    "display_name": "burntcustard's UI Tweaks",
+    "description": "Removes empty build bar boxes and does stuff",
+    "author": "burntcustard",
+    "version": "1.01",
+    "build": "66567",
+    "date": "2014/05/29",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/bUITweaks.png",
+    "forum": "https://forums.uberent.com/threads/rel-burntcustards-ui-tweaks.60233/",
+    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.01.zip"
   },
   "cDraggablePip": {
     "display_name": "Draggable Picture in Picture",
@@ -262,16 +274,31 @@
     "display_name": "Better Build Bar",
     "description": "Updated for galactic war! Only one preset now, doesn't require settings manager anymore",
     "author": "Corang",
-    "version": "2.0",
-    "build": "66567",
-    "date": "2014/05/23",
+    "version": "2.0.1",
+    "build": "66770",
+    "date": "2014/05/31",
     "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.zip"
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.1.zip"
+  },
+  "corBetterBuildBarsPTE": {
+    "display_name": "Better Build Bar for PTE",
+    "description": "ONLY USE IN PTE BUILD 66863",
+    "author": "Corang",
+    "version": "1.0.0",
+    "build": "66863",
+    "date": "2014/06/01",
+    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/corBBB.png",
+    "url": "http://pamods.github.io/user_mods/corBetterBuildBarsPTE_v1.0.zip"
   },
   "corLingerPiP": {
     "display_name": "Alert PiP Linger",
@@ -342,16 +369,16 @@
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. eXodus eSports, PACE, and The Realm maps are available as well.",
     "author": "Captain Conundrum",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "build": "65588",
-    "date": "2014/05/22",
+    "date": "2014/05/31",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
     "requires": [],
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.2.zip"
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.3.zip"
   },
   "cSketchJS": {
     "display_name": "Sketch Tools For Casters",
@@ -663,9 +690,9 @@
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
     "author": "proeleert,tripax,cola_colin",
-    "version": "1.12",
-    "build": "66516",
-    "date": "2014/05/23",
+    "version": "1.16",
+    "build": "66770",
+    "date": "2014/06/01",
     "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
     "category": [
       "in-game",
@@ -677,22 +704,23 @@
       "rSettingsManager",
       "rBlueprintInfoFramework"
     ],
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.12.zip"
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.16.zip"
   },
   "inGameBrowser": {
     "display_name": "In Game Browser",
     "description": "Adds an in game web browser",
     "author": "someonewhoisnobody",
-    "version": "1.3.4",
-    "build": "63180",
-    "date": "2014/4/22",
+    "version": "2.0.2",
+    "build": "66567",
+    "date": "2014/5/27",
     "forum": "https://forums.uberent.com/threads/rel-in-game-browser-v1-0.57290/",
     "category": [
       "in-game",
-      "ui"
+      "ui",
+      "uberbar"
     ],
-    "icon": "http://i.imgur.com/V5fra1Y.jpg",
-    "url": "http://pamods.github.io/user_mods/inGameBrowser_v1.3.4.zip"
+    "icon": "http://i.imgur.com/J9MG5mX.png",
+    "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.2.zip"
   },
   "instant_sandbox": {
     "author": "wondible",
@@ -702,7 +730,7 @@
       "main menu",
       "modding"
     ],
-    "date": "2014/05/24",
+    "date": "2014/05/31",
     "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
     "display_name": "Instant Sandbox",
     "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
@@ -710,8 +738,8 @@
     "requires": [
       "rSettingsManager"
     ],
-    "version": "1.1.0",
-    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.1.0.zip"
+    "version": "1.2.0",
+    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.2.0.zip"
   },
   "jungletropical": {
     "display_name": "Tropical Jungle Planet Icon",
@@ -762,9 +790,9 @@
     "display_name": "Customizable In-Game Timers",
     "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
     "author": "LavaSnake",
-    "version": "1.7",
-    "build": "63475",
-    "date": "2014/04/06",
+    "version": "1.8",
+    "build": "66567",
+    "date": "2014/5/26",
     "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
     "category": [
       "in-game",
@@ -773,7 +801,7 @@
     "requires": [
       "rFloatFrame"
     ],
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-7.zip"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-8.zip"
   },
   "LavaSnakes_CustomUnitNames": {
     "display_name": "Custom Unit Names",
@@ -1042,6 +1070,22 @@
     ],
     "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
+  "PixelIcons": {
+    "display_name": "Pixel icons",
+    "description": "Strategic icons in the style of Supreme Commander",
+    "author": "Xedi",
+    "version": "3.14",
+    "build": "66770",
+    "date": "2014/05/30",
+    "forum": "https://forums.uberent.com/threads/49316/",
+    "icon": "http://pamods.github.io/icons/pixelicons.png",
+    "category": [
+      "in-game",
+      "ui",
+      "strategic icons"
+    ],
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.14.zip"
+  },
   "powReturnToServerBrowser": {
     "display_name": "Return to Server Browser",
     "description": "Hate that Main Menu upon failing to join a game? Fret not, now you get back to the list of games.",
@@ -1144,9 +1188,9 @@
     "display_name": "Commander HUD",
     "description": "Adds a HUD that tracks your commander's health and more!",
     "author": "LavaSnake, raevn, and others",
-    "version": "3.0",
-    "build": "64498",
-    "date": "2014/5/11",
+    "version": "3.1",
+    "build": "66567",
+    "date": "2014/5/26",
     "forum": "https://forums.uberent.com/threads/wip-commander-hud-v3.59137/",
     "category": [
       "in-game",
@@ -1158,7 +1202,7 @@
       "rBlueprintInfoFramework"
     ],
     "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-0.zip"
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-1.zip"
   },
   "reconnect_button": {
     "author": "wondible",
@@ -1525,6 +1569,51 @@
     ],
     "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
   },
+  "tGWDeck": {
+    "display_name": "Galactic War Deck",
+    "description": "A new deck for use in Galactic War",
+    "author": "trialq",
+    "version": "1.4",
+    "build": "66567",
+    "date": "2014/05/27",
+    "forum": "https://forums.uberent.com/threads/rel-galactic-war-deck.60167/",
+    "icon": "http://pamods.github.io/icons/tGWDeck.png",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "url": "http://pamods.github.io/user_mods/tGWDeck_v1.4.zip"
+  },
+  "tGWLoadout": {
+    "display_name": "Galactic War Loadouts",
+    "description": "New loadouts for use in Galactic War",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/05/28",
+    "forum": "https://forums.uberent.com/threads/rel-galactic-war-loadouts.60187/",
+    "icon": "http://pamods.github.io/icons/tGWLoadout.png",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.0.zip"
+  },
+  "tGWSpeedHotfix": {
+    "display_name": "Galactic War Speed Hotfix",
+    "description": "Fixes the stock cards that buff a units speed, so the buff is actually applied.",
+    "author": "trialq",
+    "version": "1.0",
+    "build": "66567",
+    "date": "2014/05/27",
+    "icon": "http://pamods.github.io/icons/tGWSpeedHotfix.png",
+    "category": [
+      "in-game",
+      "galactic-war",
+      "hotfix"
+    ],
+    "url": "http://pamods.github.io/user_mods/tGWSpeedHotfix_v1.0.zip"
+  },
   "tHideUberBar": {
     "display_name": "Hide UberBar",
     "description": "Hides the UberBar everywhere.",
@@ -1645,5 +1734,20 @@
       "ui"
     ],
     "url": "http://pamods.github.io/user_mods/wScriptSource_v.0.1.0.zip"
+  },
+  "yellow_synchronous": {
+    "author": "wondible",
+    "build": "66567",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/05/31",
+    "description": "Change Orange to Yellow so you can tell it from Red.",
+    "display_name": "Yellow Synchronous",
+    "forum": null,
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/yellow_synchronous_v1.0.zip"
   }
 }
