@@ -887,23 +887,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/lineToCircle_v1.0.zip"
   },
-  "linger": {
-    "author": "wondible",
-    "build": "63180",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "date": "2014/03/21",
-    "description": "Prevent the game from exiting immediately, and provides a button to go to game over.",
-    "display_name": "Linger",
-    "forum": "https://forums.uberent.com/threads/wip-linger.56944/",
-    "requires": [
-      "rFloatFrame"
-    ],
-    "version": "1.0.2",
-    "url": "http://pamods.github.io/user_mods/linger_v1.0.2.zip"
-  },
   "mAdvancedSelect": {
     "display_name": "Advanced Unit Selection",
     "description": "More options/filters for unit selection",
