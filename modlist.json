@@ -1316,6 +1316,15 @@
     ],
     "url": "http://pamods.github.io/user_mods/SCicons_v10.zip"
   },
+  "server_browser_show_cheat_servers": {
+    "display_name": "Server Browser - Show Cheat Servers",
+    "description": "Server browser will display servers that have cheats enabled",
+    "author": "Uber Entertainment, package by Cola_Colin",
+    "version": "0.1",
+    "date": "2014/06/05",
+    "build": "66863-main",
+    "url": "http://pamods.github.io/user_mods/server_browser_show_cheat_servers_v0.1.zip"
+  },
   "simplified_sun_shader": {
     "author": "SXX, wondible",
     "build": "66943",
