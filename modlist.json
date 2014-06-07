@@ -79,13 +79,13 @@
       "in-game",
       "ui"
     ],
-    "date": "2014/06/03",
+    "date": "2014/06/07",
     "description": "Select your commander when starting the game.  With inspiration and support from tatsujb, raevn, Cola_Colin, and the PA modders forum.",
     "display_name": "Autoselect Commander",
     "forum": null,
     "requires": [],
-    "version": "2.0.0",
-    "url": "http://pamods.github.io/user_mods/autoselect_commander_v2.0.zip"
+    "version": "2.0.1",
+    "url": "http://pamods.github.io/user_mods/autoselect_commander_v2.0.1.zip"
   },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
