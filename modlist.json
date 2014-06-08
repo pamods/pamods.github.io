@@ -1558,6 +1558,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip"
   },
+  "TeamLatheColor": {
+    "display_name": "TeamLatheColor",
+    "description": "Changes the Lathe Spray to your Team Color instead of green",
+    "author": "TrophySystem",
+    "version": "1.0.0",
+    "build": "67099",
+    "date": "2014/06/07",
+    "forum": "https://forums.uberent.com/threads/rel-team-lathe-color.60608/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip"
+  },
   "teamspeak": {
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
@@ -1574,6 +1587,19 @@
       "rFloatFrame"
     ],
     "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
+  },
+  "TeamUberCannonColor": {
+    "display_name": "TeamUberCannonColor",
+    "description": "Changes the Uber Canon Effects to your Team Color instead of blue",
+    "author": "Fr33lancer, TrophySystem",
+    "version": "1.0.0",
+    "build": "67099",
+    "date": "2014/06/08",
+    "forum": "https://forums.uberent.com/threads/rel-team-uber-cannon-color.60629/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/TeamUberCannonColor_v1.0.0.zip"
   },
   "tGWDeck": {
     "display_name": "Galactic War Deck",
