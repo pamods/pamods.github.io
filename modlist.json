@@ -1679,6 +1679,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
+  "version_warning_once": {
+    "author": "wondible",
+    "build": "67099-main",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/06/08",
+    "description": "Only warn about new game versions once, because it ALWAYS comes up in PTE.",
+    "display_name": "Version Warning Once",
+    "forum": null,
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/version_warning_once_v1.0.zip"
+  },
   "VipezTrees": {
     "display_name": "Christmas Trees",
     "description": "Christmas Spirit in PA!",
