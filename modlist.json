@@ -1480,22 +1480,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.6.4.zip"
   },
-  "tBeastIcoHotfix": {
-    "display_name": "Beast Icon Hotfix",
-    "description": "Fixes the Beast Commander icon in the armory.",
-    "author": "Stuart98",
-    "version": "1.0",
-    "build": "64498",
-    "date": "2014/04/22",
-    "forum": "https://forums.uberent.com/threads/rel-beast-icon-hotfix.58913/",
-    "category": [
-      "armory",
-      "beast",
-      "hotfix",
-      "icon"
-    ],
-    "url": "http://pamods.github.io/user_mods/tBeastIcoHotfix_v1.0.zip"
-  },
   "tBuildingWriter": {
     "display_name": "Building Writer",
     "description": "Use buildings to write text. See forum for details",
@@ -1560,7 +1544,22 @@
       "commander"
     ],
     "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip"
+
   },
+  "teamBuildColor": {
+    "display_name": "Team Build Color",
+    "description": "Changes the Build Color to your Team Color instead of green",
+    "author": "rcix",
+    "version": "1.1.0",
+    "build": "66943",
+    "date": "2014/06/08",
+    "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip"
+  },
+
   "teamspeak": {
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
