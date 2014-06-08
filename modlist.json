@@ -920,7 +920,7 @@
     "display_name": "Metal Planet Background Mod",
     "description": "Replaces the earth planet background with the promotional metal planet art.",
     "author": "Stuart98",
-    "version": "1.0",
+    "version": "1.1",
     "icon": "http://pamods.github.io/icons/metalbackground.jpg",
     "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
     "category": [
@@ -928,9 +928,9 @@
       "Background",
       "Metal"
     ],
-    "date": "2014/05/16",
-    "build": "65588",
-    "url": "http://pamods.github.io/user_mods/metalbackground_v1.0.zip"
+    "date": "2014/06/08",
+    "build": "66943",
+    "url": "http://pamods.github.io/user_mods/metalbackground_v1.1.zip"
   },
   "mEventHandler": {
     "display_name": "Process-Event-Handler Framework",
@@ -1544,7 +1544,6 @@
       "commander"
     ],
     "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip"
-
   },
   "teamBuildColor": {
     "display_name": "Team Build Color",
@@ -1559,7 +1558,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip"
   },
-
   "teamspeak": {
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
