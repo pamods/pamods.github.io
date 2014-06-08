@@ -1544,7 +1544,22 @@
       "commander"
     ],
     "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip"
+
   },
+  "teamBuildColor": {
+    "display_name": "Team Build Color",
+    "description": "Changes the Build Color to your Team Color instead of green",
+    "author": "rcix",
+    "version": "1.1.0",
+    "build": "66943",
+    "date": "2014/06/08",
+    "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip"
+  },
+
   "teamspeak": {
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
