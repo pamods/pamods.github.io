@@ -22,4 +22,21 @@
     "date": "2014/06/09",
     "url" : "https://github.com/Stuart1998/Statera/archive/9ef799ccc0ac78789d8df90110a6abd38e9f5771.zip"
   }
+  ,
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tCommYard",
+    "author": "trialq",
+    "display_name": "Comm Yard",
+    "description": "Turns the Commander into a static factory",
+    "forum" : "https://forums.uberent.com/threads/60657/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1",
+    "build": "67099",
+    "date": "2014/06/09",
+    "url" : "https://github.com/trialq/tCommYard/archive/e5d8af9a1192f28df78606f2ea30ea955dcb38b2.zip"
+  }
 ]
