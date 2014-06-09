@@ -35,8 +35,25 @@
         "server-mod"
     ],
     "version": "0.1",
-    "build": "67099",
+    "build": "67099-main",
     "date": "2014/06/09",
     "url" : "https://github.com/trialq/tCommYard/archive/e5d8af9a1192f28df78606f2ea30ea955dcb38b2.zip"
+  }
+  ,
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tUpToEleven",
+    "author": "trialq",
+    "display_name": "Up To 11",
+    "description": "Makes all units go much faster. Only use with the exact same build.",
+    "forum": "https://forums.uberent.com/threads/60017/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1",
+    "build": "67099-main",
+    "date": "2014/06/09",
+    "url" : "https://github.com/trialq/tUpToEleven/archive/b77249f81748bc284749a7397c1262acf3a24ded.zip"
   }
 ]
