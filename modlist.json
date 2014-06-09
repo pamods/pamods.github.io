@@ -1690,6 +1690,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
+  "two_color_icons": {
+    "author": "wondible",
+    "build": "66943",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/06/08",
+    "description": "Use secondary color for icon outlines, and white for selected.",
+    "display_name": "Two Color Icons",
+    "forum": "https://forums.uberent.com/threads/wip-two-color-icons.60568/",
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/two_color_icons_v1.0.zip"
+  },
   "version_warning_once": {
     "author": "wondible",
     "build": "67099-main",
