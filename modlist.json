@@ -1588,20 +1588,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
   },
-  "TeamUberCannonColor": {
-    "display_name": "TeamUberCannonColor",
-    "description": "Changes the Uber Canon Effects to your Team Color instead of blue",
-    "author": "Fr33lancer, TrophySystem",
-    "version": "1.0.1",
-    "build": "67099",
-    "date": "2014/06/09",
-    "forum": "https://forums.uberent.com/threads/rel-team-uber-cannon-color.60629/",
-    "category": [
-      "in-game"
-	  "shader"
-    ],
-    "url": "http://pamods.github.io/user_mods/TeamUberCannonColor_v1.0.1.zip"
-  },
   "tGWDeck": {
     "display_name": "Galactic War Deck",
     "description": "A new deck for use in Galactic War",
