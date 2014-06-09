@@ -1,0 +1,13 @@
+[
+  {
+    "context" : "server",
+    "identifier" : "info.nanodesu.murderparty",
+    "author" : "Cola_Colin",
+    "display_name" : "Murder Party",
+    "description" : "Kill your targets",
+    "forum" : "https://forums.uberent.com/threads/60312/",
+    "version" : "0.1",
+    "date": "2014/06/06",
+    "url" : "https://github.com/pamods/servermod-murderparty/archive/be866e556bd2368937708dcf5a921fc8c8dea8bf.zip"
+  }
+]
