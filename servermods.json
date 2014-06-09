@@ -13,14 +13,14 @@
   ,
   {
     "context" : "server",
-    "identifier" : "com.uberent.pa.mods.stockmods.server.BalancedAnnihilation",
-    "author" : "Stuart1998",
-    "display_name" : "Balanced Annihilation",
+    "identifier" : "com.squishypon3.balancedannihilation",
+    "author" : "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX01",
+    "display_name" : "Statera",
     "description" : "Mod created to balance the game to have more niche units",
     "forum" : "https://forums.uberent.com/threads/60342/",
     "version" : "0.1",
-    "date": "2014/06/09",
-    "url" : "https://github.com/Stuart1998/Statera/archive/9ef799ccc0ac78789d8df90110a6abd38e9f5771.zip"
+    "date": "2014/06/10",
+    "url" : "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.2.1.zip"
   }
   ,
   {
