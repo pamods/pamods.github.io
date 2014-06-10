@@ -637,6 +637,26 @@
     "version": "0.0.0",
     "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip"
   },
+  "FAFicons": {
+    "display_name": "Supreme Commander Icons (FAF)",
+    "description": "Forged Alliance Forever-inspired icons",
+    "author": "tatsu",
+    "version": "12",
+    "build": "67099",
+    "date": "2014/06/09",
+    "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
+    "icon": "http://pamods.github.io/icons/faficons.png",
+    "category": [
+      "in-game",
+      "ui",
+      "strategic icons"
+    ],
+    "requires": [
+      "teamBuildColor",
+      "TeamLatheColor"
+    ],
+    "url": "http://pamods.github.io/user_mods/FAFIconsv12.zip"
+  },
   "favCommander": {
     "display_name": "Favorite Commander",
     "description": "Automatically chooses the commander selected in the armory",
