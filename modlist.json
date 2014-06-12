@@ -1302,6 +1302,21 @@
     "version": "1.1.0",
     "url": "http://pamods.github.io/user_mods/sandbox_biome_v1.1.zip"
   },
+  "sandbox_unit_toolbox": {
+    "author": "wondible",
+    "build": "67249-main",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "date": "2014/06/12",
+    "description": "Enable the unit creation toolbox when the create-unit cheat is enabled.",
+    "display_name": "Sandbox Unit Toolbox",
+    "forum": "https://forums.uberent.com/threads/rel-sandbox-unit-toolbox.60799/",
+    "requires": [],
+    "version": "1.0.0",
+    "url": "http://pamods.github.io/user_mods/sandbox_unit_toolbox_v1.0.zip"
+  },
   "scale-ui": {
     "display_name": "ScaleUI",
     "description": "Allows to scale the UI for smaller display resolutions",
