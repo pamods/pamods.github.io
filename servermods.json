@@ -28,16 +28,16 @@
     "identifier": "com.pa.trialq.tCommYard",
     "author": "trialq",
     "display_name": "Comm Yard",
-    "description": "Turns the Commander into a static factory",
+    "description": "Turns the Commander into a static factory.",
     "forum" : "https://forums.uberent.com/threads/60657/",
     "category": [
         "in-game",
         "server-mod"
     ],
-    "version": "0.1",
-    "build": "67099-main",
-    "date": "2014/06/09",
-    "url" : "https://github.com/trialq/tCommYard/archive/e5d8af9a1192f28df78606f2ea30ea955dcb38b2.zip"
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/14",
+    "url" : "https://github.com/trialq/tCommYard/archive/f522a9220f2464ac69f4ef9724588a16ebd843a9.zip"
   }
   ,
   {
@@ -45,15 +45,49 @@
     "identifier": "com.pa.trialq.tUpToEleven",
     "author": "trialq",
     "display_name": "Up To 11",
-    "description": "Makes all units go much faster. Only use with the exact same build.",
+    "description": "Makes every unit 5x quicker.",
     "forum": "https://forums.uberent.com/threads/60017/",
     "category": [
         "in-game",
         "server-mod"
     ],
-    "version": "0.1",
-    "build": "67099-main",
-    "date": "2014/06/09",
-    "url" : "https://github.com/trialq/tUpToEleven/archive/b77249f81748bc284749a7397c1262acf3a24ded.zip"
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/14",
+    "url" : "https://github.com/trialq/tUpToEleven/archive/56b26fe3dd4f23011b8ef1563a2f7eb9b587a9ab.zip"
+  }
+  ,
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tRemoveEco",
+    "author": "trialq",
+    "display_name": "Remove Eco",
+    "description": "Players start with so much eco, they don't need to worry about eco management.",
+    "forum": "https://forums.uberent.com/threads/60017/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/14",
+    "url" : "https://github.com/trialq/tUpToEleven/archive/9e5b185fb2dc5c04052d37e50cd1b7167808b7b6.zip"
+  }
+  ,
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tStorageWars",
+    "author": "trialq",
+    "display_name": "Storage Wars",
+    "description": "Players start with 50,000 metal, but cannot build metal extractors.",
+    "forum": "https://forums.uberent.com/threads/60017/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/14",
+    "url" : "https://github.com/trialq/tUpToEleven/archive/85aabfc17c71d2fae290cc15defd2b63c77aba4b.zip"
   }
 ]
