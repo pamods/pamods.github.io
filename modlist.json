@@ -708,9 +708,9 @@
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
     "author": "proeleert,tripax,cola_colin",
-    "version": "1.19",
-    "build": "66770",
-    "date": "2014/06/14",
+    "version": "1.20",
+    "build": "67342",
+    "date": "2014/06/15",
     "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
     "category": [
       "in-game",
@@ -720,7 +720,7 @@
     "requires": [
       "rBlueprintInfoFramework"
     ],
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.19.zip"
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.20.zip"
   },
   "inGameBrowser": {
     "display_name": "In Game Browser",
