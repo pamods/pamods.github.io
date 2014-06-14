@@ -74,18 +74,18 @@
   },
   "autoselect_commander": {
     "author": "wondible and friends",
-    "build": "66830",
+    "build": "67342",
     "category": [
       "in-game",
       "ui"
     ],
-    "date": "2014/06/07",
+    "date": "2014/06/14",
     "description": "Select your commander when starting the game.  With inspiration and support from tatsujb, raevn, Cola_Colin, and the PA modders forum.",
     "display_name": "Autoselect Commander",
     "forum": null,
     "requires": [],
-    "version": "2.0.1",
-    "url": "http://pamods.github.io/user_mods/autoselect_commander_v2.0.1.zip"
+    "version": "3.0.0",
+    "url": "http://pamods.github.io/user_mods/autoselect_commander_v3.0.0.zip"
   },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
