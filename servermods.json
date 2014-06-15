@@ -42,23 +42,6 @@
   ,
   {
     "context": "server",
-    "identifier": "com.pa.trialq.tUpToEleven",
-    "author": "trialq",
-    "display_name": "Up To 11",
-    "description": "Makes every unit 5x quicker.",
-    "forum": "https://forums.uberent.com/threads/60762/",
-    "category": [
-        "in-game",
-        "server-mod"
-    ],
-    "version": "0.1.1",
-    "build": "67342",
-    "date": "2014/06/14",
-    "url" : "https://github.com/trialq/tUpToEleven/archive/56b26fe3dd4f23011b8ef1563a2f7eb9b587a9ab.zip"
-  }
-  ,
-  {
-    "context": "server",
     "identifier": "com.pa.trialq.tRemoveEco",
     "author": "trialq",
     "display_name": "Remove Eco",
@@ -89,5 +72,51 @@
     "build": "67342",
     "date": "2014/06/14",
     "url" : "https://github.com/trialq/tStorageWars/archive/85aabfc17c71d2fae290cc15defd2b63c77aba4b.zip"
+  }
+  ,
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tUpToEleven",
+    "author": "trialq",
+    "display_name": "Up To 11",
+    "description": "Makes every unit 5x quicker.",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/14",
+    "url" : "https://github.com/trialq/tUpToEleven/archive/56b26fe3dd4f23011b8ef1563a2f7eb9b587a9ab.zip"
+  }
+  ,
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tBoomBotOnly",
+    "author": "trialq",
+    "display_name": "Boom Bot Only",
+    "description": "Makes boom bots the only buildable offensive unit.",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/15",
+    "url" : "https://github.com/trialq/tBoomBotOnly/archive/229ada4ecb7340a0b8ac6ccf5d4993762690ce2b.zip"
+  }
+  ,
+  {
+    "author": "wondible",
+    "build": "67342",
+    "context": "server",
+    "date": "2014/06/14",
+    "description": "Give the commander enough economy to run his own nanolathe, avoiding mex-mex-pgen-mex.  May conflict with other mods affecting commander.",
+    "display_name": "Factory First",
+    "identifier": "com.wondible.pa.factory_first",
+    "version": "1.0.0",
+    "url": "https://github.com/JustinLove/factory_first/archive/6891ec2ce7e905f5eb388fa1bbbea7fafd672fc6.zip"
   }
 ]
