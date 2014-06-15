@@ -42,6 +42,23 @@
   ,
   {
     "context": "server",
+    "identifier": "com.pa.trialq.tFrontloadedDox",
+    "author": "trialq",
+    "display_name": "Frontloaded Dox",
+    "description": "Frontloads damage dealt by dox (weapons deal 100 damage every 10 seconds instead of 10 damage every second).",
+    "forum" : "https://forums.uberent.com/threads/60762/",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/15",
+    "url" : "https://github.com/trialq/tFrontloadedDox/archive/ee792ed34a29ff8a006debf5edf06d4bcf30b39d.zip"
+  }
+  ,
+  {
+    "context": "server",
     "identifier": "com.pa.trialq.tRemoveEco",
     "author": "trialq",
     "display_name": "Remove Eco",
