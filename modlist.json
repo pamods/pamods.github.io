@@ -1668,14 +1668,14 @@
     "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
   },
   "TeamUberCannonColor": {
-    "display_name": "TeamUberCannonColor",
+    "display_name": "Team Uber Cannon Color",
     "description": "Changes the Uber Canon Effects to your Team Color instead of blue",
     "author": "Fr33lancer,TrophySystem",
     "version": "1.0.2",
     "build": "67342",
     "date": "2014/06/15",
     "forum": "https://forums.uberent.com/threads/rel-team-uber-cannon-color.60629/",
-	"icon": "http://pamods.github.io/icons/UberCannon.gif",
+    "icon": "http://pamods.github.io/icons/UberCannon.gif",
     "category": [
       "in-game",
       "shader"
