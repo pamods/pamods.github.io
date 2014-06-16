@@ -1305,14 +1305,14 @@
     "display_name": "Settings Manager",
     "description": "Framework for adding new settings",
     "author": "Raevn",
-    "version": "1.5.4",
+    "version": "1.6.0",
     "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
     "category": [
       "Framework"
     ],
-    "date": "2014/05/23",
-    "build": "66516",
-    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.5.4.zip"
+    "date": "2014/06/16",
+    "build": "67342",
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.6.0.zip"
   },
   "rUnitDatabase": {
     "display_name": "Unit Database",
