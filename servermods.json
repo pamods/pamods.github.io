@@ -13,14 +13,14 @@
   ,
   {
     "context" : "server",
-    "identifier" : "com.realmods.rebalance",
+    "identifier" : "com.realmmods.rebalance",
     "author" : "Nanolathe, YourLocalMadSci, TheWrongCat, Liquius",
     "display_name" : "The Realm Community Rebalance",
     "description" : "Performs many changes to game direction and balance",
-    "forum" : "https://forums.uberent.com/threads/wip-the-realm-community-balance-mod.58942/",
-    "version" : "3.0.0",
+    "forum" : "https://forums.uberent.com/threads/58942/",
+    "version" : "0.1",
     "date": "2014/06/05",
-    "url" : "https://github.com/pamods/pamods.github.io/raw/master/server_mods/RCBM_3.0.0PreRel.zip"
+    "url" : "https://github.com/cwarner7264/realm-rebalance/releases/download/3.0.0/RCBM_3.0.0PreRel.zip"
   }
   ,
   {
@@ -30,7 +30,7 @@
     "display_name" : "Statera",
     "description" : "Mod created to balance the game to have more niche units",
     "forum" : "https://forums.uberent.com/threads/60342/",
-    "version" : "0.2.91",
+    "version" : "02.91",
     "date": "2014/06/15",
     "url" : "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.2.91.zip"
   }
