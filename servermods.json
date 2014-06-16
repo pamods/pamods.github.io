@@ -13,6 +13,18 @@
   ,
   {
     "context" : "server",
+    "identifier" : "com.realmods.rebalance",
+    "author" : "Nanolathe, YourLocalMadSci, TheWrongCat, Liquius",
+    "display_name" : "The Realm Community Rebalance",
+    "description" : "Performs many changes to game direction and balance",
+    "forum" : "https://forums.uberent.com/threads/wip-the-realm-community-balance-mod.58942/",
+    "version" : "3.0.0",
+    "date": "2014/06/05",
+    "url" : "https://github.com/pamods/pamods.github.io/raw/master/server_mods/RCBM_3.0.0PreRel.zip"
+  }
+  ,
+  {
+    "context" : "server",
     "identifier" : "com.squishypon3.balancedannihilation",
     "author" : "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX01",
     "display_name" : "Statera",
