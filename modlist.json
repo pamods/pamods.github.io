@@ -999,6 +999,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip"
   },
+  "MouseFix": {
+    "author": "DeathByDenim",
+    "build": "67457",
+    "category": [
+      "ui", "bugfix"
+    ],
+    "date": "2014/06/17",
+    "description": "Fixes the mouse cursor when using Mesa or bumblebee under Linux.",
+    "display_name": "Mouse cursor fix",
+    "forum": "https://forums.uberent.com/threads/no-cursor-block-cursor-ubuntu-12-04-13-04-13-10.53019/page-2#post-814965",
+    "version": "1.0",
+    "url": "http://pamods.github.io/user_mods/MouseFix_v1.0.zip"
+  },
   "MushroomarsRainbow": {
     "display_name": "Rainbow Fab Shader",
     "description": "Factory fab shader that makes you taste the rainbow!",
