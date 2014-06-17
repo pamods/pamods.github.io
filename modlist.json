@@ -270,50 +270,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.1.zip"
   },
-  "corBetterBuildBars": {
-    "display_name": "Better Build Bar",
-    "description": "Updated for galactic war! Only one preset now, doesn't require settings manager anymore",
-    "author": "Corang",
-    "version": "2.0.1",
-    "build": "66770",
-    "date": "2014/05/31",
-    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBar_v2.0.1.zip"
-  },
-  "corBetterBuildBarsPTE": {
-    "display_name": "Better Build Bar for PTE",
-    "description": "ONLY USE IN PTE BUILD 66863",
-    "author": "Corang",
-    "version": "1.0.0",
-    "build": "66863",
-    "date": "2014/06/01",
-    "forum": "https://forums.uberent.com/threads/rel-better-build-bar.57183/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "icon": "http://pamods.github.io/icons/corBBB.png",
-    "url": "http://pamods.github.io/user_mods/corBetterBuildBarsPTE_v1.0.zip"
-  },
-  "corLingerPiP": {
-    "display_name": "Alert PiP Linger",
-    "description": "changes the PiP alert that when your mouse hovers over it and leaves it 'lingererers' for 3 seconds then disappears",
-    "author": "Corang",
-    "version": "1.0.1",
-    "build": "62857",
-    "date": "2014/03/14",
-    "forum": "https://forums.uberent.com/threads/rel-alert-pip-lingerer-er-er.57832/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/corLingerPiP_v1.0.1.zip"
-  },
   "cPAStatsCharts": {
     "display_name": "PA Stats Live Charts",
     "description": "Gives spectators a button to show live PA Stats charts in the game. You can also open the chart with ctrl+space",
