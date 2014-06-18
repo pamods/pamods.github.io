@@ -1,19 +1,5 @@
 [
   {
-    "context" : "client",
-    "identifier" : "com.aevns.acliffplanets",
-    "display_name" : "Cliff Planets",
-    "description" : "Custom planets with cliff biomes. Client-side part of the mod, for use with the system editor. Replaces 'sandbox' planet and biome types.",
-    "author" : "ae",
-    "version" : "0.0.1",
-    "forum" : "https://forums.uberent.com/threads/60787/",
-    "date": "2014/06/18",
-    "category": [
-      "system editor"
-    ],
-    "url" : "https://github.com/aevns/PA-Cliffs/raw/master/cliffPlanetsAE.zip"
-  }
-  {
     "context" : "server",
     "identifier" : "com.aevns.server.acliffplanets",
     "display_name" : "Cliff Planets",
@@ -28,6 +14,7 @@
     ],
     "url" : "https://github.com/aevns/PA-Cliffs/raw/master/cliffPlanetsAEServer.zip"
   }
+  ,
   {
     "context" : "server",
     "identifier" : "info.nanodesu.murderparty",
