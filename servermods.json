@@ -1,6 +1,22 @@
 [
   {
     "context" : "server",
+    "identifier" : "com.aevns.server.acliffplanets",
+    "display_name" : "Cliff Planets",
+    "description" : "Custom planets with cliff biomes. Server side part of the mod. Replaces 'sandbox' planet and biome types.",
+    "author" : "ae",
+    "version" : "0.0.1",
+    "forum" : "https://forums.uberent.com/threads/60787/",
+    "date": "2014/06/18",
+    "category": [
+    	"in-game",
+    	"server-mod"
+    ],
+    "url" : "https://github.com/aevns/PA-Cliffs/raw/master/cliffPlanetsAEServer.zip"
+  }
+  ,
+  {
+    "context" : "server",
     "identifier" : "info.nanodesu.murderparty",
     "author" : "Cola_Colin",
     "display_name" : "Murder Party",
