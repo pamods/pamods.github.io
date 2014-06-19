@@ -1,19 +1,4 @@
 {
-  
-  "cliffPlanetsAE": {
-    "identifier": "com.aevns.acliffplanets",
-    "display_name": "Cliff Planets",
-    "build" : "67523",
-    "descrition" : "Custom planets with cliff biomes. Client-side part of the mod, for use with the system editor. Replaces 'sandbox' planet and biome types.",
-    "author" : "ae",
-    "version" : "0.0.1",
-    "forum" : "https://forums.uberent.com/threads/60787/",
-    "date": "2014/06/18",
-    "category": [
-      "system editor"
-    ],
-    "url" : "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.1.zip"
-  },
   "acceptance": {
     "author": "wondible",
     "build": "62350",
@@ -270,6 +255,17 @@
     "build": "61450",
     "date": "2014/02/21",
     "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip"
+  },
+  "cliffPlanetsAE": {
+    "display_name": "Cliff Planets",
+    "description": "Custom planets with cliff biomes. Client-side part of the mod, for use with the system editor. Replaces 'sandbox' planet and biome types.",
+    "author": "ae",
+    "version": "0.0.1",
+    "date": "2014/06/18",
+    "category": [
+      "system editor"
+    ],
+    "url": "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.1.zip"
   },
   "cLobbyRenamer": {
     "display_name": "Lobby Renamer",
@@ -1015,15 +1011,16 @@
     "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip"
   },
   "MouseFix": {
-    "author": "DeathByDenim",
+    "author": "SXX, Yrrep, DeathByDenim",
     "build": "67457",
     "category": [
-      "ui", "bugfix"
+      "Bugfix"
     ],
     "date": "2014/06/17",
     "description": "Fixes the mouse cursor when using Mesa or bumblebee under Linux.",
     "display_name": "Mouse cursor fix",
-    "forum": "https://forums.uberent.com/threads/no-cursor-block-cursor-ubuntu-12-04-13-04-13-10.53019/page-2#post-814965",
+    "forum": "",
+    "requires": null,
     "version": "1.0",
     "url": "http://pamods.github.io/user_mods/MouseFix_v1.0.zip"
   },
