@@ -260,12 +260,12 @@
     "display_name": "Cliff Planets",
     "description": "Custom planets with cliff biomes. Client-side part of the mod, for use with the system editor. Replaces 'sandbox' planet and biome types.",
     "author": "ae",
-    "version": "0.0.1",
-    "date": "2014/06/18",
+    "version": "0.0.2",
+    "date": "2014/06/19",
     "category": [
       "system editor"
     ],
-    "url": "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.1.zip"
+    "url": "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.2.zip"
   },
   "cLobbyRenamer": {
     "display_name": "Lobby Renamer",
