@@ -657,6 +657,21 @@
     "version": "5.0.1",
     "url": "http://pamods.github.io/user_mods/gross_economy_v5.0.1.zip"
   },
+  "gtcGWExtendedSystemMoves": {
+    "display_name": "Galactic War extended System moves",
+    "description": "GW: Move over any explored systems",
+    "author": "GTC-Gonzo",
+    "version": "1.0",
+    "forum": "https://forums.uberent.com/threads/wip-gw-extended-system-moves.61026/",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "requires": [],
+    "date": "2014/06/19",
+    "build": "67523",
+    "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.0.zip"
+  },
   "HideFogOfWar": {
     "display_name": "Hide Fog of War",
     "description": "Removes the grey lighting from the fog of war. For cinematic purposes.",
