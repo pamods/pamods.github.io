@@ -1681,16 +1681,16 @@
     "display_name": "Galactic War Loadouts",
     "description": "New loadouts for use in Galactic War",
     "author": "trialq",
-    "version": "1.1",
-    "build": "67457",
-    "date": "2014/06/17",
+    "version": "1.2",
+    "build": "67523",
+    "date": "2014/06/20",
     "forum": "https://forums.uberent.com/threads/rel-galactic-war-loadouts.60187/",
     "icon": "http://pamods.github.io/icons/tGWLoadout.png",
     "category": [
       "in-game",
       "galactic-war"
     ],
-    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.2.zip"
   },
   "tGWSpeedHotfix": {
     "display_name": "Galactic War Speed Hotfix",
