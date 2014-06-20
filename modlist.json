@@ -924,6 +924,19 @@
     ],
     "url": "http://pamods.github.io/user_mods/maxTinyPoles_v1.0.zip"
   },
+  "mereth.allgames": {
+    "display_name": "Show All Games",
+    "description": "Filter both non-modded and modded games by default.",
+    "author": "mereth",
+    "version": "1.0.0",
+    "build": "67523",
+    "date": "2014/06/21",
+    "category": [
+      "lobby",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/mereth.allgames_v1.0.0.zip"
+  },
   "mereth.replay": {
     "display_name": "Contact Replays",
     "description": "Add a 'Show Replays' entry in the UberBar contextual menu.",
