@@ -661,16 +661,16 @@
     "display_name": "Galactic War extended System moves",
     "description": "GW: Move over any explored systems",
     "author": "GTC-Gonzo",
-    "version": "1.0",
-    "forum": "https://forums.uberent.com/threads/wip-gw-extended-system-moves.61026/",
+    "version": "1.1",
+    "forum": "https://forums.uberent.com/threads/rel-gw-extended-system-moves.61026/",
     "category": [
       "in-game",
       "galactic-war"
     ],
     "requires": [],
-    "date": "2014/06/19",
+    "date": "2014/06/25",
     "build": "67523",
-    "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.1.zip"
   },
   "HideFogOfWar": {
     "display_name": "Hide Fog of War",
