@@ -107,19 +107,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip"
   },
-  "blackscreenfix": {
-    "display_name": "No Blackscreens",
-    "description": "Fix for Blackscreens when loading css in mods for PA v.63180",
-    "author": "Cola_Colin, PRoeleert, wondible",
-    "version": "6.0",
-    "build": "63475",
-    "forum": "https://forums.uberent.com/threads/rel-possible-fix-for-blackscreen-issues.56735/",
-    "category": [
-      "Bugfix"
-    ],
-    "date": "2014/04/18",
-    "url": "http://pamods.github.io/user_mods/blackscreenfix_v6.0.zip"
-  },
   "bRemoveAlertPIPs": {
     "display_name": "Remove Alert PIPs",
     "description": "Stops a PIP appearing when putting mouse over an alert, to help reduce lag.",
