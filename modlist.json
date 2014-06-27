@@ -608,11 +608,11 @@
     "display_name": "Supreme Commander Icons (FAF)",
     "description": "Forged Alliance Forever-inspired icons",
     "author": "tatsu",
-    "version": "12",
-    "build": "67099",
-    "date": "2014/06/09",
+    "version": "13",
+    "build": "67523",
+    "date": "2014/06/27",
     "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
-    "icon": "http://pamods.github.io/icons/faficons.png",
+    "icon": "http://pamods.github.io/icons/supcom.png",
     "category": [
       "in-game",
       "ui",
@@ -622,7 +622,7 @@
       "teamBuildColor",
       "TeamLatheColor"
     ],
-    "url": "http://pamods.github.io/user_mods/FAFIconsv12.zip"
+    "url": "http://pamods.github.io/user_mods/FAFiconsv13.zip"
   },
   "favCommander": {
     "display_name": "Favorite Commander",
