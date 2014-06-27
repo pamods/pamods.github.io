@@ -882,6 +882,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/lineToCircle_v1.0.zip"
   },
+  "locate_commander": {
+    "display_name": "Locate Commander",
+    "description": "Locates commander.",
+    "author": "warren",
+    "version": ".01",
+    "build": "67523",
+    "date": "2014/06/26",
+    "forum": "https://forums.uberent.com/threads/rel-select-commander-button-client-ui-mod.61349/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "locate_commander.png",
+    "url": "http://pamods.github.io/user_mods/locate_commander_v.01.zip"
+  },
   "mAdvancedSelect": {
     "display_name": "Advanced Unit Selection",
     "description": "More options/filters for unit selection",
