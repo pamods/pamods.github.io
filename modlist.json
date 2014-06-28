@@ -886,7 +886,7 @@
     "display_name": "Locate Commander",
     "description": "Locates commander.",
     "author": "warren",
-    "version": ".01",
+    "version": "1.0.0",
     "build": "67523",
     "date": "2014/06/26",
     "forum": "https://forums.uberent.com/threads/rel-select-commander-button-client-ui-mod.61349/",
@@ -894,8 +894,8 @@
       "in-game",
       "ui"
     ],
-    "icon": "locate_commander.png",
-    "url": "http://pamods.github.io/user_mods/locate_commander_v.01.zip"
+    "icon": "http://pamods.github.io/icons/locate_commander.png",
+    "url": "http://pamods.github.io/user_mods/locate_commander_v1.0.0.zip"
   },
   "mAdvancedSelect": {
     "display_name": "Advanced Unit Selection",
