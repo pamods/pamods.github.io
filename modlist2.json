@@ -1,0 +1,2372 @@
+[
+  {
+    "context": "client",
+    "identifier": "com.aevns.acliffplanets",
+    "author": "ae",
+    "version": "0.0.2",
+    "display_name": "Cliff Planets",
+    "description": "Custom planets with cliff biomes. Client-side part of the mod, for use with the system editor. Replaces 'sandbox' planet and biome types.",
+    "date": "2014/06/19",
+    "category": [
+      "system editor"
+    ],
+    "url": "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.2.zip",
+    "id": "cliffPlanetsAE"
+  },
+  {
+    "context": "client",
+    "identifier": "com.elu.pa_strat_build_icons",
+    "author": "eluvatar",
+    "version": "1",
+    "display_name": "Strategic  build icons",
+    "description": "Display strategic  build icons over normal build icons",
+    "build": "63180",
+    "date": "2014/03/022",
+    "forum": "https://forums.uberent.com/threads/rel-wip-strategic-build-icons.58139/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/pa_strat_build_icons_v1.zip",
+    "id": "pa_strat_build_icons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.DeathByDenim.MouseFix",
+    "author": "SXX, Yrrep, DeathByDenim",
+    "version": "1.0",
+    "display_name": "Mouse cursor fix",
+    "description": "Fixes the mouse cursor when using Mesa or bumblebee under Linux.",
+    "build": "67457",
+    "date": "2014/06/17",
+    "forum": "",
+    "category": [
+      "Bugfix"
+    ],
+    "url": "http://pamods.github.io/user_mods/MouseFix_v1.0.zip",
+    "id": "MouseFix"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.DeathByDenim.dFavouriteColour",
+    "author": "DeathByDenim",
+    "version": "1.4",
+    "display_name": "Favourite Colour",
+    "description": "Automatically selects your favourite colour in the lobby.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "62443",
+    "date": "2014/03/06",
+    "display_name_de": "Lieblingsfarbe",
+    "display_name_fr": "Couleur préférée",
+    "display_name_nl": "Lievelingskleur",
+    "description_de": "Wählt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
+    "description_fr": "Choisit automatiquement votre couleur préférée dans le foyer.",
+    "description_nl": "Kiest automatisch uw favoriete kleur in de lobby.",
+    "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
+    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.4.zip",
+    "id": "dFavouriteColour"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.DeathByDenim.dNotes",
+    "author": "DeathByDenim",
+    "version": "1.3.2",
+    "display_name": "Notes",
+    "description": "Keep notes on players for future reference",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe",
+      "com.pa.DeathByDenim.dPlayersInServerBrowser"
+    ],
+    "build": "63234",
+    "date": "2014/03/25",
+    "display_name_de": "Notizen",
+    "display_name_fr": "Notes",
+    "display_name_nl": "Notities",
+    "description_de": "Führen Sie Notizen über die andere Spieler für zukünftige Verwendung.",
+    "description_fr": "Enregistrer des notes à propos des autres joueurs pour utiliser en futur.",
+    "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
+    "forum": "https://forums.uberent.com/threads/rel-notes-v1-0.55281/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/dNotes.png",
+    "url": "http://pamods.github.io/user_mods/dNotes_v1.3.2.zip",
+    "id": "dNotes"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.DeathByDenim.dPlayersInServerBrowser",
+    "author": "DeathByDenim",
+    "version": "1.1",
+    "display_name": "Players In Server Browser",
+    "description": "Shows which players are in a game from the server browser without actually joining the lobby.",
+    "build": "62519",
+    "date": "2014/03/10",
+    "display_name_de": "Spieler im Serverbrowser",
+    "display_name_fr": "Joueur dans le navigateur serveur",
+    "display_name_nl": "Spelers in de serverbrowser",
+    "description_de": "Zeigt Ihnen welche Spieler teilnehmen an einem Spiel aus dem Serverbrowser ohne im Lobby selbst zu gehen.",
+    "description_fr": "Montrer quels joueurs participer à un jeu dans le navigateur serveur sans entrer le foyer.",
+    "description_nl": "Laat zien welke spelers deelnemen aan een spel vanuit de server browser zonder de lobby zelf in te gaan.",
+    "forum": "https://forums.uberent.com/threads/rel-players-in-server-browser-62519.57664/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/dPlayersInServerBrowser.png",
+    "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.1.zip",
+    "id": "dPlayersInServerBrowser"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.DeathByDenim.dShowOffline",
+    "author": "DeathByDenim",
+    "version": "1.1",
+    "display_name": "Show Offline",
+    "description": "Shows off-line status of fellow players.",
+    "build": "63475",
+    "date": "2014/03/28",
+    "display_name_de": "Offline zeigen",
+    "display_name_fr": "Montrer Offline",
+    "display_name_nl": "Offline tonen",
+    "description_de": "Zeigen Sie den off-line Status der Mitspieler.",
+    "description_fr": "Afficher l'état off-line des conjoueurs.",
+    "description_nl": "Toont de off-line status van de medespelers.",
+    "forum": "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/dShowOffline.png",
+    "url": "http://pamods.github.io/user_mods/dShowOffline_v1.1.zip",
+    "id": "dShowOffline"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.LavaSnake.Ant",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "display_name": "Ant Name Bug Fix",
+    "description": "PA has a bug that prevents it from displaying the Ant's proper name; this mod fixes that.",
+    "build": "63475",
+    "date": "2014/03/27",
+    "forum": "https://forums.uberent.com/threads/rel-ant-name-bug-fix-63475.58349/",
+    "category": [
+      "In-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/AntIcon.png",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_Ant.zip",
+    "id": "LavaSnakes_Ant"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.LavaSnake.CustomUnitNames",
+    "author": "LavaSnake",
+    "version": "1.71",
+    "display_name": "Custom Unit Names",
+    "description": "Lets you set your own custom names for each unit and building in the settings menu.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "64498",
+    "date": "2014/04/28",
+    "forum": "https://forums.uberent.com/threads/rel-custom-unit-names-59549.56124/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/UnitRenamer.png",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-71.zip",
+    "id": "LavaSnakes_CustomUnitNames"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.LavaSnake.CustomizableInGameTimers",
+    "author": "LavaSnake",
+    "version": "1.8",
+    "display_name": "Customizable In-Game Timers",
+    "description": "Three customizable in-game timers for reminders and other events. (See forum link for screenshots and instructions.)",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "66567",
+    "date": "2014/5/26",
+    "forum": "https://forums.uberent.com/threads/rel-customizable-in-game-timers-56387.53544/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-8.zip",
+    "id": "LavaSnakes_CustomInGameTimers"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.LavaSnake.ProfilePicFixer",
+    "author": "LavaSnake",
+    "version": "2.2",
+    "display_name": "ProfilePic+",
+    "description": "A powerful mod that lets you set a profile picture, a tracking/sig picture, and custom HTML snippets for PA's main menu.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "62857",
+    "date": "2014/03/23",
+    "forum": "https://forums.uberent.com/threads/rel-profile-pic-fixer-56387.53531/",
+    "category": [
+      "Main Menu",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/ProfilePicFixer.png",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v2-2.zip",
+    "id": "LavaSnakes_ProfilePicFixer"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.LavaSnake.StargateBugFix",
+    "author": "LavaSnake",
+    "version": "1.0",
+    "display_name": "Stargate Name Bug Fix",
+    "description": "PA has a bug that prevents it from displaying the Stargate's proper name; this mod fixes that.",
+    "build": "62110",
+    "date": "2014/01/20",
+    "forum": "https://forums.uberent.com/threads/rel-stargate-name-bug-fix-59549.55850/",
+    "category": [
+      "In-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/StargateBugFix.png",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip",
+    "id": "LavaSnakes_StargateBugFix"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.LavaSnake.StargateUnitNames",
+    "author": "LavaSnake",
+    "version": "1.2",
+    "display_name": "Stargate Unit Names",
+    "description": "Ever wanted to command legions of Jaffa warriors, swarms of Abrams tanks, or fleets of X-302s? Well now you can with the Stargate Unit Names mod!",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager",
+      "com.pa.LavaSnake.CustomUnitNames"
+    ],
+    "build": "65588",
+    "date": "2014/05/14",
+    "forum": "https://forums.uberent.com/threads/rel-stargate-unit-names-63475.58651/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/StargateBugFix.png",
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateUnitNames_v1-2.zip",
+    "id": "LavaSnakes_StargateUnitNames"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.MushrooMars.MushroomarsRainbow",
+    "author": "MushrooMars",
+    "version": "1",
+    "display_name": "Rainbow Fab Shader",
+    "description": "Factory fab shader that makes you taste the rainbow!",
+    "build": "62168",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-rainbow-fab-shader-50355.49052/",
+    "category": [
+      "Fab-Shader",
+      "in-game",
+      "ui"
+    ],
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/new.jpg",
+    "url": "http://pamods.github.io/user_mods/MushrooMarsRainbow_2.zip",
+    "id": "MushroomarsRainbow"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.burntcustard.bAnchorButtons",
+    "author": "burntcustard, proeleert, cptconundrum",
+    "version": "1.7",
+    "display_name": "Anchor Buttons",
+    "description": "Click once to set camera anchor, and again to snap back there.",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe",
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "63234",
+    "date": "2014/03/23",
+    "description_nl": "Sla Cameraposities op met een knop en klik nog eens om terug te keren.",
+    "forum": "https://forums.uberent.com/threads/rel-anchor-buttons-v1-0-57703.54563/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/bAnchorButtons.png",
+    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip",
+    "id": "bAnchorButtons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.burntcustard.bRemoveAlertPIPs",
+    "author": "burntcustard",
+    "version": "1.0",
+    "display_name": "Remove Alert PIPs",
+    "description": "Stops a PIP appearing when putting mouse over an alert, to help reduce lag.",
+    "build": "66567",
+    "date": "2014/05/26",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/bRemoveAlertPIPs_v1.0.zip",
+    "id": "bRemoveAlertPIPs"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.burntcustard.bShowSecondaryColour",
+    "author": "burntcustard, DeathByDenim",
+    "version": "1.3",
+    "display_name": "Show Secondary Colour",
+    "description": "Shows secondary colours in lobby, and allows you to select which you use.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "62519",
+    "date": "2014/03/08",
+    "forum": "https://forums.uberent.com/threads/rel-show-secondary-colour-v1-0-62168.57305/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/bShowSecondaryColour.png",
+    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.3.zip",
+    "id": "bShowSecondaryColour"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.burntcustard.bUITweaks",
+    "author": "burntcustard",
+    "version": "1.01",
+    "display_name": "burntcustard's UI Tweaks",
+    "description": "Removes empty build bar boxes and does stuff",
+    "build": "66567",
+    "date": "2014/05/29",
+    "forum": "https://forums.uberent.com/threads/rel-burntcustards-ui-tweaks.60233/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/bUITweaks.png",
+    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.01.zip",
+    "id": "bUITweaks"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.colacolin.Modbatch",
+    "author": "Cola_Colin",
+    "version": "1.1",
+    "display_name": "Mod BatchSize",
+    "description": "Change Batchsize from 5 to 100",
+    "build": "58772",
+    "date": "2013/12/23",
+    "forum": "https://forums.uberent.com/threads/rel-modbatch-52168.50897/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip",
+    "id": "modbatch"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cDraggablePip",
+    "author": "Captain Conundrum",
+    "version": "1.1.4",
+    "display_name": "Draggable Picture in Picture",
+    "description": "Makes the PiP window draggable.",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "62225",
+    "date": "2014/03/04",
+    "forum": "https://forums.uberent.com/threads/rel-draggable-picture-in-picture.56738/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cDraggablePip.png",
+    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.1.4.zip",
+    "id": "cDraggablePip"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cEnhancedSystemPreview",
+    "author": "Captain Conundrum",
+    "version": "1.1.0",
+    "display_name": "Enhanced System Preview",
+    "description": "Improves the system selection screen so that you can see every planet in a system.",
+    "build": "59607",
+    "date": "2014/02/16",
+    "forum": "https://forums.uberent.com/threads/rel-enhanced-system-preview.56205/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip",
+    "id": "cEnhancedSystemPreview"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cGGButton",
+    "author": "Captain Conundrum",
+    "version": "1.0.2",
+    "display_name": "Auto GG Button",
+    "description": "Plays the GG Button sound every time someone types GG in chat.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "61450",
+    "date": "2014/03/04",
+    "forum": "https://forums.uberent.com/threads/rel-auto-gg-button.56861/",
+    "category": [
+      "in-game",
+      "ui",
+      "taunts",
+      "sound"
+    ],
+    "icon": "http://pamods.github.io/icons/cGGButton.png",
+    "url": "http://pamods.github.io/user_mods/cGGButton_v1.0.2.zip",
+    "id": "cGGButton"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cLobbyRenamer",
+    "author": "Captain Conundrum",
+    "version": "1.1.1",
+    "display_name": "Lobby Renamer",
+    "description": "Lets you change the game lobby name that shows in the server browser.",
+    "build": "63180",
+    "date": "2014/03/21",
+    "forum": "https://forums.uberent.com/threads/rel-lobby-renamer.57414/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cLobbyRenamer.gif",
+    "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.1.zip",
+    "id": "cLobbyRenamer"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cPAStatsCharts",
+    "author": "Captain Conundrum, Cola_Colin, someonewhoisnobody",
+    "version": "1.1.1",
+    "display_name": "PA Stats Live Charts",
+    "description": "Gives spectators a button to show live PA Stats charts in the game. You can also open the chart with ctrl+space",
+    "dependencies": [
+      "com.pa.someonewhoisnobody.inGameBrowser",
+      "info.nanodesu.pastats"
+    ],
+    "build": "62857",
+    "date": "2014/03/15",
+    "forum": "https://forums.uberent.com/threads/rel-pa-stats-live-charts.57878/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cPAStatsCharts.png",
+    "url": "http://pamods.github.io/user_mods/cPAStatsCharts_v1.1.1.zip",
+    "id": "cPAStatsCharts"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cPlanetNameThemes",
+    "author": "Captain Conundrum",
+    "version": "1.2",
+    "display_name": "Planet Name Themes",
+    "description": "Replaces Uber's random names with planet names from Star Wars, Stargate, Star Trek or Legacy (Names from TA and SupCom). Pick the theme from the settings menu.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "63475",
+    "date": "2014/04/07",
+    "forum": "https://forums.uberent.com/threads/rel-planet-name-themes.56008/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cPlanetNameThemes.png",
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.2.zip",
+    "id": "cPlanetNameThemes"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cPlanetPips",
+    "author": "Captain Conundrum, maxpowerz",
+    "version": "1.0.0",
+    "display_name": "Planet Pip Buttons",
+    "description": "Adds a button in the system panel to focus the pip on that planet.",
+    "build": "62857",
+    "date": "2014/03/17",
+    "forum": "https://forums.uberent.com/threads/suggestion-pip-jump-buttons-in-the-drop-down-system-box.57992/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cPlanetPips.png",
+    "url": "http://pamods.github.io/user_mods/cPlanetPips_v1.0.0.zip",
+    "id": "cPlanetPips"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cShareSystems",
+    "author": "Captain Conundrum",
+    "version": "1.4.3",
+    "display_name": "System Sharing",
+    "description": "Share your favorite systems with other users. eXodus eSports, PACE, and The Realm maps are available as well.",
+    "dependencies": [],
+    "build": "65588",
+    "date": "2014/05/31",
+    "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cShareSystems.png",
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.3.zip",
+    "id": "cShareSystems"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cSketchJS",
+    "author": "Captain Conundrum, LavaSnake, Martenus",
+    "version": "1.2.0",
+    "display_name": "Sketch Tools For Casters",
+    "description": "Adds a sketch.js layer over the game window so that casters can draw lines or arrows on the screen.",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "63234",
+    "date": "2014/04/09",
+    "forum": "https://forums.uberent.com/threads/request-click-drag-colorful-arrows-for-casters.58029",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/cSketchJS.png",
+    "url": "http://pamods.github.io/user_mods/cSketchJS_v1.2.0.zip",
+    "id": "cSketchJS"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.conundrum.cTrackingPips",
+    "author": "Captain Conundrum",
+    "version": "1.2.0",
+    "display_name": "Tracking Pips",
+    "description": "Opens a new picture-in-picture that tracks the selected unit if you press CTRL+T. INCOMPATIBLE with the Draggable Pip mod for now.",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe",
+      "com.pa.raevn.pamm.rsettingsmanager",
+      "info.nanodesu.alertsmanager"
+    ],
+    "build": "62443",
+    "date": "2014/03/13",
+    "forum": "https://forums.uberent.com/threads/rel-tracking-pips.57787/",
+    "category": [
+      "in-game",
+      "pip"
+    ],
+    "url": "http://pamods.github.io/user_mods/cTrackingPips_v1.2.0.zip",
+    "id": "cTrackingPips"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.danzel.dBetterSystemView",
+    "author": "danzel",
+    "version": "1.3",
+    "display_name": "Better System View",
+    "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
+    "build": "63234",
+    "date": "2014/03/24",
+    "forum": "https://forums.uberent.com/threads/rel-better-system-view-55089.52922/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.3.zip",
+    "id": "dBetterSystemView"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.danzel.dReminderTimer",
+    "author": "danzel",
+    "version": "1.2.1",
+    "display_name": "In Game Reminders Timer",
+    "description": "Provides a timer to show how long the current match has been running",
+    "build": "58772",
+    "date": "2014/01/13",
+    "forum": "https://forums.uberent.com/threads/rel-reminder-timer-v1-0.53625/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip",
+    "id": "dReminderTimer"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.danzel.teamspeak",
+    "author": "danzel",
+    "version": "1.0.1",
+    "display_name": "TeamSpeak overlay",
+    "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "59607",
+    "date": "2014/02/15",
+    "forum": "https://forums.uberent.com/threads/teamspeak-overlay.56469/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip",
+    "id": "teamspeak"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.dementiurge.apd",
+    "author": "Dementiurge",
+    "version": "2.0",
+    "display_name": "Advanced Planet Details 2.0",
+    "description": "Shows planet details in the New Game and Lobby screens.",
+    "build": "63475",
+    "date": "2014/04/04",
+    "forum": "https://forums.uberent.com/threads/rel-advanced-planet-details-63475.54290/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/advancedplanetdetails_v2-0.zip",
+    "id": "advancedplanetdetails"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.dementiurge.subduedbooster",
+    "author": "Dementiurge",
+    "version": "1.01",
+    "display_name": "Subdued Booster",
+    "description": "A more subdued orbital booster.",
+    "build": "63234",
+    "date": "2014/03/23",
+    "forum": "http://forums.uberent.com/threads/subdued-orbital-booster.58182/",
+    "url": "http://pamods.github.io/user_mods/subduedbooster_v1.0.1.zip",
+    "id": "subduedorbitalbooster"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.gtc.gw_extended_system_moves",
+    "author": "GTC-Gonzo",
+    "version": "1.1",
+    "display_name": "Galactic War extended System moves",
+    "description": "GW: Move over any explored systems",
+    "dependencies": [],
+    "build": "67523",
+    "date": "2014/06/25",
+    "forum": "https://forums.uberent.com/threads/rel-gw-extended-system-moves.61026/",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.1.zip",
+    "id": "gtcGWExtendedSystemMoves"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.mauru.mAdvancedSelect",
+    "author": "Mauru",
+    "version": "1.0",
+    "display_name": "Advanced Unit Selection",
+    "description": "More options/filters for unit selection",
+    "dependencies": [
+      "com.pa.mauru.mEventHandler"
+    ],
+    "build": "62168",
+    "date": "2014/03/13",
+    "forum": "https://forums.uberent.com/threads/rel-advanced-unit-selection.57875/",
+    "category": [
+      "framework"
+    ],
+    "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip",
+    "id": "mAdvancedSelect"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.mauru.mEventHandler",
+    "author": "Mauru",
+    "version": "1.2",
+    "display_name": "Process-Event-Handler Framework",
+    "description": "A Framework for handling process events sent to the engine",
+    "build": "62168",
+    "date": "2014/03/13",
+    "forum": "https://forums.uberent.com/threads/rel-wip-reventhandler-a-pa-engine-process-event-framework.57858/",
+    "category": [
+      "framework"
+    ],
+    "url": "http://pamods.github.io/user_mods/mEventHandler_v1.2.zip",
+    "id": "mEventHandler"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.mods.thirdparty.byAuthors.ZaphodX.and.iceDrop.circleToLine",
+    "author": "ZaphodX, iceDrop",
+    "version": "1.1",
+    "display_name": "Circle to Line mod",
+    "description": "Changes all the circle builds to line build (metal+energy storage)",
+    "build": "61450",
+    "date": "2014/02/21",
+    "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip",
+    "id": "circleToLine"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.mods.yuuzhantar.lineToCircle",
+    "author": "yuuzhantar",
+    "version": "1.0",
+    "display_name": "Line to Circle mod",
+    "description": "Changes the line builds to circle build (energy plant + advanced energy plant)",
+    "build": "61450",
+    "date": "2014/04/06",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/lineToCircle_v1.0.zip",
+    "id": "lineToCircle"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.moldez.transicons",
+    "author": "Moldez",
+    "version": "3.3.3",
+    "display_name": "Transparent Strategic Icons",
+    "description": "Transparent Strategic Icons",
+    "build": "65588",
+    "date": "2014/05/15",
+    "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
+    "category": [
+      "Strategic Icons"
+    ],
+    "icon": "http://pamods.github.io/icons/transicons.png",
+    "url": "http://pamods.github.io/user_mods/transicons_v3.3.3.zip",
+    "id": "transicons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.nuketf.SupremeCommanderIcons",
+    "author": "nuketf",
+    "version": "1.0",
+    "display_name": "Supreme Commander icons",
+    "description": "Supreme Commander icons in PA!",
+    "build": "59607",
+    "date": "2014/02/11",
+    "display_name_nl": "Supreme Commander iconen",
+    "description_nl": "Supreme Commander iconen in PA!",
+    "forum": "https://forums.uberent.com/threads/supcom-icons-fixed.56373/",
+    "category": [
+      "ui",
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip",
+    "id": "SupremeCommanderIcons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.proeleert.hotbuild2",
+    "author": "proeleert,tripax,cola_colin",
+    "version": "1.23",
+    "display_name": "Hotbuild2",
+    "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
+    "dependencies": [
+      "com.pa.raevn.rblueprintinfoframework"
+    ],
+    "build": "67523",
+    "date": "2014/06/27",
+    "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
+    "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/hotbuild2.png",
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.23.zip",
+    "id": "hotbuild2"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.pamm.ralertsfilter",
+    "author": "Raevn",
+    "version": "1.0.0",
+    "display_name": "Alerts Filter",
+    "description": "Allows selection of which unit types display alerts when built, under attack or destroyed",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "58772",
+    "date": "2014/01/08",
+    "forum": "https://forums.uberent.com/threads/rel-alerts-filter-v1-0-0-58772.55472/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/rAlertsFilter_v1.0.0.zip",
+    "id": "rAlertsFilter"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.pamm.rchronoclick",
+    "author": "Raevn",
+    "version": "1.0.0",
+    "display_name": "Chrono Click",
+    "description": "Set Chrono time by clicking any point on the chrono bar",
+    "build": "58772",
+    "date": "2014/01/08",
+    "forum": "https://forums.uberent.com/threads/rel-chrono-click-v1-0-0-58772.55477/",
+    "category": [
+      "chrono-cam",
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip",
+    "id": "rChronoClick"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.pamm.rsettingsmanager",
+    "author": "Raevn",
+    "version": "1.6.0",
+    "display_name": "Settings Manager",
+    "description": "Framework for adding new settings",
+    "build": "67342",
+    "date": "2014/06/16",
+    "forum": "https://forums.uberent.com/threads/rel-settings-manager-v1-0-58197.54588/",
+    "category": [
+      "Framework"
+    ],
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.6.0.zip",
+    "id": "rSettingsManager"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.rChatPlayerColour",
+    "author": "raevn",
+    "version": "1.2.1",
+    "display_name": "Chat Player Colours",
+    "description": "Changes the colour of player names in the in-game chat to match their team colour",
+    "build": "58772",
+    "date": "2013/12/29",
+    "forum": "https://forums.uberent.com/threads/rel-chat-player-colours.50750/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/rChatPlayerColour_v1.2.1.zip",
+    "id": "rChatPlayerColour"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.rbiggerarmoryimages",
+    "author": "Raevn",
+    "version": "1.1.0",
+    "display_name": "Armory Commander Preview",
+    "description": "Adds a large preview image of the selected Commander in the Armoury",
+    "build": "62165",
+    "date": "2014/03/02",
+    "forum": "https://forums.uberent.com/threads/rel-bigger-armory-images-62037.56963/",
+    "category": [
+      "armory",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/rBiggerArmoryImages_v1.1.0.zip",
+    "id": "rBiggerArmoryImages"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.rblueprintinfoframework",
+    "author": "Raevn",
+    "version": "1.4.1",
+    "display_name": "Blueprint Info Framework",
+    "description": "A Framework for obtaining unit, tool and ammo data",
+    "build": "63180",
+    "date": "2014/03/21",
+    "forum": "https://forums.uberent.com/threads/wip-blueprint-info-framework.56213/",
+    "category": [
+      "framework"
+    ],
+    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.4.1.zip",
+    "id": "rBlueprintInfoFramework"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.rcommanderhp",
+    "author": "LavaSnake, raevn, and others",
+    "version": "3.2",
+    "display_name": "Commander HUD",
+    "description": "Adds a HUD that tracks your commander's health and more!",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe",
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "66567",
+    "date": "2014/6/11",
+    "forum": "https://forums.uberent.com/threads/wip-commander-hud-v3.59137/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-2.zip",
+    "id": "rCommanderHP"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.rfloatframe",
+    "author": "raevn",
+    "version": "1.2.3",
+    "display_name": "Floating Framework",
+    "description": "Framework for creating draggable UI containers",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "58772",
+    "date": "2014/01/11",
+    "forum": "https://forums.uberent.com/threads/rel-floating-framework-v1-0-58197.54586/",
+    "category": [
+      "framework",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/rFloatFrame_v1.2.3.zip",
+    "id": "rFloatFrame"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.rmodslist",
+    "author": "Raevn",
+    "version": "3.1.0",
+    "display_name": "Installed Mods List",
+    "description": "Adds a 'Mods' tab on the main menu which shows a list of currently enabled mods, and if any require updates",
+    "dependencies": [
+      "rPAMM"
+    ],
+    "build": "63475",
+    "date": "2014/03/30",
+    "forum": "https://forums.uberent.com/threads/rel-installed-mods-list-v1-2-1-58197.54645/",
+    "category": [
+      "modding",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/rModsList_v3.1.0.zip",
+    "id": "rModsList"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.raevn.runitdatabase",
+    "author": "Raevn",
+    "version": "1.2.0",
+    "display_name": "Unit Database",
+    "description": "View details on all PA units",
+    "dependencies": [
+      "com.pa.raevn.rblueprintinfoframework"
+    ],
+    "build": "62168",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/wip-unit-database.56261/",
+    "category": [
+      "reference",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.2.0.zip",
+    "id": "rUnitDatabase"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.rcix.teamBuildColor",
+    "author": "rcix",
+    "version": "1.1.0",
+    "display_name": "Team Build Color",
+    "description": "Changes the Build Color to your Team Color instead of green",
+    "build": "66943",
+    "date": "2014/06/08",
+    "forum": "https://forums.uberent.com/threads/rel-modified-fab-shader.47691/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip",
+    "id": "teamBuildColor"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.shalkka.sTeamNotes",
+    "author": "Shalkka",
+    "version": "v0.2.1",
+    "display_name": "Team Notes",
+    "description": "Organise information in teams",
+    "build": "64498",
+    "date": "2014/04/27",
+    "forum": "https://forums.uberent.com/threads/dev-request-team-task-list.58385/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/sTeamNotes_v0.2.1.zip",
+    "id": "sTeamNotes"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.someonewhoisnobody.cheeseDevStage",
+    "author": "someonewhoisnobody",
+    "version": "0.1",
+    "display_name": "Cheese Dev Stage",
+    "description": "Corrects the beginning of the version number to Cheese",
+    "build": "66516",
+    "date": "2014/5/23",
+    "forum": "https://forums.uberent.com/threads/rel-cheese-dev-stage.59838/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://i.imgur.com/CNCmW28.jpg",
+    "url": "http://pamods.github.io/user_mods/cheeseDevStage_v0.1.zip",
+    "id": "cheeseDevStage"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.someonewhoisnobody.inGameBrowser",
+    "author": "someonewhoisnobody",
+    "version": "2.0.2",
+    "display_name": "In Game Browser",
+    "description": "Adds an in game web browser",
+    "build": "66567",
+    "date": "2014/5/27",
+    "forum": "https://forums.uberent.com/threads/rel-in-game-browser-v1-0.57290/",
+    "category": [
+      "in-game",
+      "ui",
+      "uberbar"
+    ],
+    "icon": "http://i.imgur.com/J9MG5mX.png",
+    "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.2.zip",
+    "id": "inGameBrowser"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.stuart98.alphaenergy",
+    "author": "Stuart98",
+    "version": "1.1",
+    "display_name": "Alpha Energy Plant",
+    "description": "Replaces the energy plant model with one from the Alpha.",
+    "build": "65588",
+    "date": "2014/05/17",
+    "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
+    "category": [
+      "Model",
+      "Energy Plant"
+    ],
+    "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
+    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.1.zip",
+    "id": "alphaenergy"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.stuart98.anchorsfx",
+    "author": "Stuart98",
+    "version": "1.0",
+    "display_name": "Anchor Sound Mod",
+    "description": "Replaces the sound effect for the Anchor firing with that of the Umbrella.",
+    "build": "65588",
+    "date": "2014/05/21",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+      "in-game",
+      "anchor",
+      "sound",
+      "sfx",
+      "bugfix"
+    ],
+    "url": "http://pamods.github.io/user_mods/anchorsfx_v1.0.zip",
+    "id": "anchorsfx"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.stuart98.jungletropical",
+    "author": "Stuart98",
+    "version": "1.0",
+    "display_name": "Tropical Jungle Planet Icon",
+    "description": "Replaces the icon for the Tropical planet in the system editor with a more fitting icon.",
+    "build": "65588",
+    "date": "2014/05/16",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+      "Planets",
+      "System Editor",
+      "Icons",
+      "Tropical"
+    ],
+    "icon": "http://pamods.github.io/icons/jungletropical.jpg",
+    "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip",
+    "id": "jungletropical"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.stuart98.metalbackground",
+    "author": "Stuart98",
+    "version": "1.1",
+    "display_name": "Metal Planet Background Mod",
+    "description": "Replaces the earth planet background with the promotional metal planet art.",
+    "build": "66943",
+    "date": "2014/06/08",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+      "Main-Menu",
+      "Background",
+      "Metal"
+    ],
+    "icon": "http://pamods.github.io/icons/metalbackground.jpg",
+    "url": "http://pamods.github.io/user_mods/metalbackground_v1.1.zip",
+    "id": "metalbackground"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.superouman.CustomSkybox",
+    "author": "superouman",
+    "version": "1.2",
+    "display_name": "Custom Skybox",
+    "description": "Use and import different skyboxes. Visit www.superouman.net/planetary-annihilation-skyboxes.html to get a large catalog of skyboxes",
+    "build": "62443",
+    "date": "2014/03/11",
+    "forum": "https://forums.uberent.com/threads/rel-custom-skybox.56562/",
+    "category": [
+      "In-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/CustomSkybox_v1.2.zip",
+    "id": "CustomSkybox"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.superouman.HideFogOfWar",
+    "author": "superouman",
+    "version": "1.0",
+    "display_name": "Hide Fog of War",
+    "description": "Removes the grey lighting from the fog of war. For cinematic purposes.",
+    "build": "63475",
+    "date": "2014/04/15",
+    "forum": "https://forums.uberent.com/threads/notyet",
+    "category": [
+      "In-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/HideFogOfWar_v1.0.zip",
+    "id": "HideFogOfWar"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.superouman.SpacedOutDefenceTowers",
+    "author": "superouman",
+    "version": "1.11",
+    "display_name": "Spaced-out Defence Towers",
+    "description": "Puts more space between dragged turret lines",
+    "build": "64498",
+    "date": "2014/05/05",
+    "forum": "https://forums.uberent.com/threads/notyet",
+    "category": [
+      "In-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip",
+    "id": "SpacedOutDefenceTowers"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.tatsu.FAFicons",
+    "author": "tatsu",
+    "version": "13",
+    "display_name": "Supreme Commander Icons (FAF)",
+    "description": "Forged Alliance Forever-inspired icons",
+    "dependencies": [
+      "com.pa.rcix.teamBuildColor",
+      "com.uberent.pa.mods.client.teamlathecolor"
+    ],
+    "build": "67523",
+    "date": "2014/06/27",
+    "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
+    "category": [
+      "in-game",
+      "ui",
+      "strategic icons"
+    ],
+    "icon": "http://pamods.github.io/icons/supcom.png",
+    "url": "http://pamods.github.io/user_mods/FAFiconsv13.zip",
+    "id": "FAFicons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.tatsu.SCicons",
+    "author": "tatsu",
+    "version": "10",
+    "display_name": "Sup Com icons",
+    "description": "Forged Alliance Forever-inspired icons",
+    "dependencies": [
+      "com.pa.rcix.teamBuildColor"
+    ],
+    "build": "63180",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-sup-com-strategic-icons.48554/",
+    "category": [
+      "Strategic Icons",
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/SCicons.png",
+    "url": "http://pamods.github.io/user_mods/SCicons_v10.zip",
+    "id": "SCicons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.eco_manager",
+    "author": "trialq",
+    "version": "1.2",
+    "display_name": "Eco Manager",
+    "description": "Adds eco-management buttons to ui",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "63475",
+    "date": "2014/04/05",
+    "forum": "https://forums.uberent.com/threads/rel-eco-manager-58772.55618/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/eco_manager.png",
+    "url": "http://pamods.github.io/user_mods/eco_manager_v1.2.zip",
+    "id": "eco_manager"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tAnnoyMe",
+    "author": "trialq",
+    "version": "1.2",
+    "display_name": "Annoy Me",
+    "description": "Audibly alert the player, repeatedly, when the economy is being wasted or stalling.",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "63475",
+    "date": "2014/04/20",
+    "forum": "https://forums.uberent.com/threads/rel-annoy-me.58786/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/tAnnoyMe_v1.2.zip",
+    "id": "tAnnoyMe"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tAutoFactory",
+    "author": "trialq",
+    "version": "1.71",
+    "display_name": "Auto Factory",
+    "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "67523",
+    "date": "2014/06/26",
+    "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/tAutoFactory.png",
+    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.71.zip",
+    "id": "tAutoFactory"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tBuildingWriter",
+    "author": "trialq",
+    "version": "1.2",
+    "display_name": "Building Writer",
+    "description": "Use buildings to write text. See forum for details",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "62857",
+    "date": "2014/03/18",
+    "forum": "https://forums.uberent.com/threads/rel-building-writer.55793/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/tBuildingWriter.png",
+    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.2.zip",
+    "id": "tBuildingWriter"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tCustomBuildBar",
+    "author": "trialq",
+    "version": "0.2",
+    "display_name": "Custom Build Bar",
+    "description": "Adds a custom tab to the build bar",
+    "build": "63475",
+    "date": "2014/04/06",
+    "forum": "https://forums.uberent.com/threads/rel-custom-build-bar.56383/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/tCustomBuildBar.png",
+    "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.2.zip",
+    "id": "tCustomBuildBar"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tDidYouKnow",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Did You Know?",
+    "description": "Provides short bites of information. Did you know this mod is awesome?",
+    "build": "63475",
+    "date": "2014/03/31",
+    "forum": "https://forums.uberent.com/threads/rel-did-you-know.58384/",
+    "category": [
+      "reference",
+      "main-menu"
+    ],
+    "icon": "http://pamods.github.io/icons/tDidYouKnow.png",
+    "url": "http://pamods.github.io/user_mods/tDidYouKnow_v0.1.1.zip",
+    "id": "tDidYouKnow"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tDoxCommMode",
+    "author": "trialq",
+    "version": "1.1",
+    "display_name": "Dox Comm Camo Mode",
+    "description": "Replaces commander graphics with dox (build a dox army and play hide-and-seek). Gentlemen's rules, everyone must enable it and use the tank commander.",
+    "build": "63475",
+    "date": "2014/04/06",
+    "forum": "https://forums.uberent.com/threads/rel-dox-comm-camo-mode.56820/",
+    "category": [
+      "in-game",
+      "ui",
+      "gentleman",
+      "commander"
+    ],
+    "icon": "http://pamods.github.io/icons/tDoxCommMode.png",
+    "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip",
+    "id": "tDoxCommMode"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tGWDeck",
+    "author": "trialq",
+    "version": "1.4",
+    "display_name": "Galactic War Deck",
+    "description": "A new deck for use in Galactic War",
+    "build": "66567",
+    "date": "2014/05/27",
+    "forum": "https://forums.uberent.com/threads/rel-galactic-war-deck.60167/",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "icon": "http://pamods.github.io/icons/tGWDeck.png",
+    "url": "http://pamods.github.io/user_mods/tGWDeck_v1.4.zip",
+    "id": "tGWDeck"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tGWLoadout",
+    "author": "trialq",
+    "version": "1.2",
+    "display_name": "Galactic War Loadouts",
+    "description": "New loadouts for use in Galactic War",
+    "build": "67523",
+    "date": "2014/06/20",
+    "forum": "https://forums.uberent.com/threads/rel-galactic-war-loadouts.60187/",
+    "category": [
+      "in-game",
+      "galactic-war"
+    ],
+    "icon": "http://pamods.github.io/icons/tGWLoadout.png",
+    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.2.zip",
+    "id": "tGWLoadout"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tGWSpeedHotfix",
+    "author": "trialq",
+    "version": "1.0",
+    "display_name": "Galactic War Speed Hotfix",
+    "description": "Fixes the stock cards that buff a units speed, so the buff is actually applied.",
+    "build": "66567",
+    "date": "2014/05/27",
+    "category": [
+      "in-game",
+      "galactic-war",
+      "hotfix"
+    ],
+    "icon": "http://pamods.github.io/icons/tGWSpeedHotfix.png",
+    "url": "http://pamods.github.io/user_mods/tGWSpeedHotfix_v1.0.zip",
+    "id": "tGWSpeedHotfix"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tHideUberBar",
+    "author": "trialq",
+    "version": "1.0",
+    "display_name": "Hide UberBar",
+    "description": "Hides the UberBar everywhere.",
+    "build": "65588",
+    "date": "2014/05/19",
+    "forum": "https://forums.uberent.com/threads/rel-hide-uber-bar.59626/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/tHideUberBar.png",
+    "url": "http://pamods.github.io/user_mods/tHideUberBar_v1.0.zip",
+    "id": "tHideUberBar"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tSystemEditorFix",
+    "author": "trialq",
+    "version": "1.0.1",
+    "display_name": "System Editor Fix",
+    "description": "Adds input validation in system editor, so editor crashes less",
+    "build": "59607",
+    "date": "2014/02/10",
+    "forum": "https://forums.uberent.com/threads/rel-system-editor-fix-59549.55732/",
+    "category": [
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/tSystemEditorFix.png",
+    "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip",
+    "id": "tSystemEditorFix"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.vipez.vipeztrees",
+    "author": "vipez",
+    "version": "3",
+    "display_name": "Christmas Trees",
+    "description": "Christmas Spirit in PA!",
+    "build": "61694",
+    "date": "2014/02/27",
+    "forum": "https://forums.uberent.com/threads/rel-christmas-trees.50033/",
+    "category": [
+      "christmas",
+      "trees",
+      "in-game"
+    ],
+    "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
+    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip",
+    "id": "VipezTrees"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.werty.wEconomyGraph",
+    "author": "The Magnificent Werty",
+    "version": "0.1.3",
+    "display_name": "Live Economy Graphs",
+    "description": "Shows a live graph depicting your Energy and Metal income history.",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "62443",
+    "date": "2014/03/09",
+    "forum": "https://forums.uberent.com/threads/rel-live-economy-graphs-v0-1-0.57602/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/wEconomyGraph.png",
+    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.3.zip",
+    "id": "wEconomyGraph"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.werty.wModPing",
+    "author": "The Magnificent Werty",
+    "version": "0.1.0",
+    "display_name": "Mod Ping",
+    "description": "Can ping your enabled mods into ingame chat.",
+    "build": "61450",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-mod-ping-v0-1-0-share-your-mod-selection-in-chat.57378/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "",
+    "url": "http://pamods.github.io/user_mods/wModPing_v0.1.0.zip",
+    "id": "wModPing"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.werty.wScriptSource",
+    "author": "The Magnificent Werty",
+    "version": "0.1.0",
+    "display_name": "wScriptSource",
+    "description": "[mod debug tool] Enables easy breakpoints and clean overview of all mod sources in the Coherent UI Debugger. Warning: Shadows common.js to include scripts into head by src and not by appending text.",
+    "build": "61450",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-wscriptsource-v0-1-0-tiny-source-debugger-mod.57373/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "",
+    "url": "http://pamods.github.io/user_mods/wScriptSource_v.0.1.0.zip",
+    "id": "wScriptSource"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.xedi.pixelicons",
+    "author": "Xedi",
+    "version": "3.5",
+    "display_name": "Pixel icons",
+    "description": "Strategic icons in the style of Supreme Commander",
+    "build": "66943",
+    "date": "2014/06/09",
+    "forum": "https://forums.uberent.com/threads/49316/",
+    "category": [
+      "in-game",
+      "ui",
+      "strategic icons"
+    ],
+    "icon": "http://pamods.github.io/icons/pixelicons.png",
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.5.zip",
+    "id": "PixelIcons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.uberent.pa.mods.client.teamlathecolor",
+    "author": "TrophySystem",
+    "version": "1.0.0",
+    "display_name": "TeamLatheColor",
+    "description": "Changes the Lathe Spray to your Team Color instead of green",
+    "build": "67099",
+    "date": "2014/06/07",
+    "forum": "https://forums.uberent.com/threads/rel-team-lathe-color.60608/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip",
+    "id": "TeamLatheColor"
+  },
+  {
+    "context": "client",
+    "identifier": "com.uberent.pa.mods.client.teamubercannoncolor",
+    "author": "Fr33lancer,TrophySystem",
+    "version": "1.0.2",
+    "display_name": "Team Uber Cannon Color",
+    "description": "Changes the Uber Canon Effects to your Team Color instead of blue",
+    "build": "67342",
+    "date": "2014/06/15",
+    "forum": "https://forums.uberent.com/threads/rel-team-uber-cannon-color.60629/",
+    "category": [
+      "in-game",
+      "shader"
+    ],
+    "icon": "http://pamods.github.io/icons/UberCannon.gif",
+    "url": "http://pamods.github.io/user_mods/TeamUberCannonColor_v1.0.2.zip",
+    "id": "TeamUberCannonColor"
+  },
+  {
+    "context": "client",
+    "identifier": "com.uberent.pa.mods.stockmods.client.cheat.server_browser_show_cheat_servers",
+    "author": "Uber Entertainment, package by Cola_Colin",
+    "version": "0.1",
+    "display_name": "Server Browser - Show Cheat Servers",
+    "description": "Server browser will display servers that have cheats enabled",
+    "build": "66863-main",
+    "date": "2014/06/05",
+    "url": "http://pamods.github.io/user_mods/server_browser_show_cheat_servers_v0.1.zip",
+    "id": "server_browser_show_cheat_servers"
+  },
+  {
+    "context": "client",
+    "identifier": "com.warren.pa.locate_commander",
+    "author": "warren",
+    "version": "1.0.1",
+    "display_name": "Locate Commander",
+    "description": "Locates commander.",
+    "build": "67523",
+    "date": "2014/06/26",
+    "forum": "https://forums.uberent.com/threads/rel-select-commander-button-client-ui-mod.61349/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/locate_commander.png",
+    "url": "http://pamods.github.io/user_mods/locate_commander_v1.0.1.zip",
+    "id": "locate_commander"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.acceptance",
+    "author": "wondible",
+    "version": "1.0.2",
+    "display_name": "Acceptance",
+    "description": "By installing and using this mod you indicate your acceptance of the pre-release disclaimer.  So you don't have to do it EVERY... SINGLE... TIME... you start the game.",
+    "dependencies": [],
+    "build": "62350",
+    "date": "2014/03/07",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/acceptance_v1.0.2.zip",
+    "id": "acceptance"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.autoselect_commander",
+    "author": "wondible and friends",
+    "version": "3.0.0",
+    "display_name": "Autoselect Commander",
+    "description": "Select your commander when starting the game.  With inspiration and support from tatsujb, raevn, Cola_Colin, and the PA modders forum.",
+    "dependencies": [],
+    "build": "67342",
+    "date": "2014/06/14",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/autoselect_commander_v3.0.0.zip",
+    "id": "autoselect_commander"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.fabulous_selections",
+    "author": "wondible",
+    "version": "0.0.0",
+    "display_name": "Fabulous Selections",
+    "description": "Highlight commanders and fabulous fabbers in the selected unit icons.",
+    "dependencies": [],
+    "build": "62110",
+    "date": "2014/03/01",
+    "forum": "https://forums.uberent.com/threads/wip-selected-commander.56931/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/fabulous_selections.png",
+    "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip",
+    "id": "fabulous_selections"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.gross_economy",
+    "author": "wondible",
+    "version": "5.0.1",
+    "display_name": "Gross Economy",
+    "description": "Status bar that emphasises income and expense so that they can be visually compared.",
+    "build": "67342",
+    "date": "2014/06/16",
+    "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/gross_economy.png",
+    "url": "http://pamods.github.io/user_mods/gross_economy_v5.0.1.zip",
+    "id": "gross_economy"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.hotkeyfix_cant_build",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Hotkeyfix Cant Build",
+    "description": "Hotfix for inability to click after using hotkeys.",
+    "dependencies": [],
+    "build": "67342",
+    "date": "2014/06/14",
+    "category": [
+      "hotfix"
+    ],
+    "url": "http://pamods.github.io/user_mods/hotkeyfix_cant_build_v1.0.zip",
+    "id": "hotkeyfix_cant_build"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.reconnect_button",
+    "author": "wondible",
+    "version": "2.0.0",
+    "display_name": "Reconnect Button",
+    "description": "Provides a Reconnect button on the start menu when you are still assigned to a game.  A reconnect option is also provided in the live game ESC menu which will attempt to restore a disconnected session.",
+    "dependencies": [],
+    "build": "63475",
+    "date": "2014/04/19",
+    "forum": "https://forums.uberent.com/threads/wip-reconnect-button.57733/",
+    "category": [
+      "ui",
+      "main menu"
+    ],
+    "url": "http://pamods.github.io/user_mods/reconnect_button_v2.0.0.zip",
+    "id": "reconnect_button"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.sandbox_biome",
+    "author": "wondible",
+    "version": "1.1.0",
+    "display_name": "Sandbox Biome",
+    "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
+    "dependencies": [],
+    "build": "66830",
+    "date": "2014/06/01",
+    "category": [
+      "system-editor",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/sandbox_biome.png",
+    "url": "http://pamods.github.io/user_mods/sandbox_biome_v1.1.zip",
+    "id": "sandbox_biome"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.sandbox_unit_toolbox",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Sandbox Unit Toolbox",
+    "description": "Enable the unit creation toolbox when the create-unit cheat is enabled.",
+    "dependencies": [],
+    "build": "67249-main",
+    "date": "2014/06/12",
+    "forum": "https://forums.uberent.com/threads/rel-sandbox-unit-toolbox.60799/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/sandbox_unit_toolbox_v1.0.zip",
+    "id": "sandbox_unit_toolbox"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.simplified_sun_shader",
+    "author": "SXX, wondible",
+    "version": "1.0.0",
+    "display_name": "Simplified Sun Shader",
+    "description": "This is just shader without using noise and unused code but it's still looks valid. Made for R600g Linux users (PA#2321), but will also work to decrease GPU load because default shader is super heavy.",
+    "dependencies": [],
+    "build": "66943",
+    "date": "2014/06/05",
+    "category": [
+      "in-game",
+      "shader"
+    ],
+    "url": "http://pamods.github.io/user_mods/simplified_sun_shader_v1.0.zip",
+    "id": "simplified_sun_shader"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.two_color_icons",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Two Color Icons",
+    "description": "Use secondary color for icon outlines, and white for selected.",
+    "dependencies": [],
+    "build": "66943",
+    "date": "2014/06/08",
+    "forum": "https://forums.uberent.com/threads/wip-two-color-icons.60568/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/two_color_icons_v1.0.zip",
+    "id": "two_color_icons"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.version_warning_once",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Version Warning Once",
+    "description": "Only warn about new game versions once, because it ALWAYS comes up in PTE.",
+    "dependencies": [],
+    "build": "67099-main",
+    "date": "2014/06/08",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/version_warning_once_v1.0.zip",
+    "id": "version_warning_once"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.yellow_synchronous",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Yellow Synchronous",
+    "description": "Change Orange to Yellow so you can tell it from Red.",
+    "dependencies": [],
+    "build": "66567",
+    "date": "2014/05/31",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/yellow_synchronous_v1.0.zip",
+    "id": "yellow_synchronous"
+  },
+  {
+    "context": "client",
+    "identifier": "de.lostmekkasoft.dinosaurfix",
+    "author": "Pt4h",
+    "version": "1.0.0.1",
+    "display_name": "Dinosaur Fix",
+    "description": "Fixes a bug where the Ptahosaurus is not correctly displayed in the main menu.",
+    "build": "62857",
+    "date": "2014/03/21",
+    "forum": "https://forums.uberent.com/threads/rel-dinosaur-fix-v1-0-62857.57995/",
+    "category": [
+      "Bugfix"
+    ],
+    "icon": "http://pamods.github.io/icons/dinosaurfix.png",
+    "url": "http://pamods.github.io/user_mods/dinosaurfix_v1.0.zip",
+    "id": "dinosaurfix"
+  },
+  {
+    "context": "client",
+    "identifier": "fr.mereth.pa.allgames",
+    "author": "mereth",
+    "version": "1.0.0",
+    "display_name": "Show All Games",
+    "description": "Filter both non-modded and modded games by default.",
+    "build": "67523",
+    "date": "2014/06/21",
+    "category": [
+      "lobby",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/mereth.allgames_v1.0.0.zip",
+    "id": "mereth.allgames"
+  },
+  {
+    "context": "client",
+    "identifier": "fr.mereth.pa.mereth.replay",
+    "author": "mereth",
+    "version": "1.0.0",
+    "display_name": "Contact Replays",
+    "description": "Add a 'Show Replays' entry in the UberBar contextual menu.",
+    "build": "66943",
+    "date": "2014/06/13",
+    "category": [
+      "uberbar",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/mereth.replay_v1.0.0.zip",
+    "id": "mereth.replay"
+  },
+  {
+    "context": "client",
+    "identifier": "fr.mereth.pa.startingplanet",
+    "author": "mereth",
+    "version": "1.0.0",
+    "display_name": "Show Starting Planets",
+    "description": "Change color of starting planets name in server browser to green.",
+    "build": "66943",
+    "date": "2014/06/13",
+    "category": [
+      "lobby",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/mereth.startingplanet_v1.0.0.zip",
+    "id": "mereth.startingplanet"
+  },
+  {
+    "context": "client",
+    "identifier": "fr.mereth.pa.twentyfour",
+    "author": "mereth",
+    "version": "1.0.0",
+    "display_name": "Twenty-Four Hours",
+    "description": "Change the 12AM/PM clock for a 24H clock.",
+    "build": "66943",
+    "date": "2014/06/13",
+    "category": [
+      "uberbar",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/mereth.twentyfour_v1.0.0.zip",
+    "id": "mereth.twentyfour"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.EcoEffv2",
+    "author": "Stan_petit_cul",
+    "version": "3.0",
+    "display_name": "Economy Efficiency v3",
+    "description": "Improves the Eco Information bars",
+    "build": "64498",
+    "date": "2014/05/07",
+    "forum": "TODO",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/EcoEff.png",
+    "url": "http://pamods.github.io/user_mods/EcoEffv3.zip",
+    "id": "EcoEffv3"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.EcoEffv2",
+    "author": "Stan_petit_cul, Cola_colin",
+    "version": "2.1",
+    "display_name": "Economy Efficiency v2",
+    "description": "Improves the Eco Information bars",
+    "build": "63234",
+    "date": "2014/03/25",
+    "forum": "TODO",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/EcoEff.png",
+    "url": "http://pamods.github.io/user_mods/EcoEffv2.zip",
+    "id": "EcoEffv2"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.alertsmanager",
+    "author": "Cola_Colin",
+    "version": "1.3.2",
+    "display_name": "Alerts Manager",
+    "description": "Filter what alerts you want to see. Also provides a Framework for a unified, easy to use alerts API that does not create conflicts between mods.",
+    "build": "63475",
+    "date": "2014/04/03",
+    "forum": "https://forums.uberent.com/threads/rel-alertsmanager-58772.55590/",
+    "category": [
+      "Framework"
+    ],
+    "url": "http://pamods.github.io/user_mods/alertsManager_v1.3.2.zip",
+    "id": "alertsManager"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.kodef",
+    "author": "Cola_Colin",
+    "version": "3.0",
+    "display_name": "include KO Deferred",
+    "description": "Speed up the UI a _lot_. May introduce UI bugs. Test for yourself, report in the forums :)",
+    "build": "63475",
+    "date": "2014/03/30",
+    "forum": "https://forums.uberent.com/threads/experiment-ko-deferred.58294/",
+    "category": [
+      "Bugfix"
+    ],
+    "url": "http://pamods.github.io/user_mods/kodef_v3.zip",
+    "id": "kodef"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.nScreens",
+    "author": "Cola_Colin",
+    "version": "1.1",
+    "display_name": "n Screens",
+    "description": "Mod tries to make it easier to configure multiscreen pip setups. Best used together with some sort of fullscreen script",
+    "build": "61450",
+    "date": "2014/02/23",
+    "forum": "",
+    "category": [
+      "Framework"
+    ],
+    "url": "http://pamods.github.io/user_mods/nScreens_v1.1.zip",
+    "id": "nScreens"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.pastats",
+    "author": "Cola_Colin, Gunshin",
+    "version": "Autoupdating_v2",
+    "display_name": "PA Stats Online",
+    "description": "Track your statistics",
+    "build": "will_be_kept_up_to_date_v2",
+    "date": "2014/03/24",
+    "forum": "https://forums.uberent.com/threads/rel-pa-stats-52168.50690/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://ns393951.ip-176-31-115.eu/mod/icon.png",
+    "url": "http://pamods.github.io/user_mods/pa_stats_online.zip",
+    "id": "pa_stats_online"
+  },
+  {
+    "context": "client",
+    "identifier": "info.nanodesu.scaleui",
+    "author": "Cola_Colin",
+    "version": "1.2",
+    "display_name": "ScaleUI",
+    "description": "Allows to scale the UI for smaller display resolutions",
+    "build": "66567",
+    "date": "2014/5/26",
+    "forum": "https://forums.uberent.com/threads/soon-scale-ui.60092/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/scale-ui_v1.2.zip",
+    "id": "scale-ui"
+  },
+  {
+    "context": "client",
+    "identifier": "local.pownie.pamod.failtolobby",
+    "author": "pownie",
+    "version": "1",
+    "display_name": "Return to Server Browser",
+    "description": "Hate that Main Menu upon failing to join a game? Fret not, now you get back to the list of games.",
+    "build": "63475",
+    "date": "2014/03/31",
+    "forum": "https://forums.uberent.com/threads/rel-server-browser-instead-of-main-menu.58383/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/powReturnToServerBrowser_v1.zip",
+    "id": "powReturnToServerBrowser"
+  },
+  {
+    "context": "client",
+    "identifier": "local.pownie.pamod.twitchonstart",
+    "author": "pownie",
+    "version": "3",
+    "display_name": "Twitch controls in Main menu",
+    "description": "Allows to login to twitch and control the stream from the main menu",
+    "build": "63234",
+    "date": "2014/03/23",
+    "forum": "https://forums.uberent.com/threads/wip-add-twitch-login-and-streaming-controls-to-the-main-menu-v1.57447/",
+    "category": [
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/powTwitchOnStart_v3.zip",
+    "id": "powTwitchOnStart"
+  },
+  {
+    "context": "client",
+    "identifier": "net.orfjackal.pa-build-power",
+    "author": "ORFJackal",
+    "version": "1.1.2",
+    "display_name": "Build Power",
+    "description": "Shows the fabrication rate and energy consumption of the selected units and factories",
+    "build": "63180",
+    "date": "2014/03/22",
+    "forum": "https://forums.uberent.com/threads/build-power.54974/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/BuildPower.png",
+    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.2.zip",
+    "id": "BuildPower"
+  },
+  {
+    "context": "client",
+    "identifier": "net.orfjackal.pa-mentor",
+    "author": "ORFJackal",
+    "version": "0.4.2",
+    "display_name": "PA Mentor",
+    "description": "Shows how your in-game stats compare to other players, to help in learning how fast to expand",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe"
+    ],
+    "build": "62857",
+    "date": "2014/03/17",
+    "forum": "https://forums.uberent.com/threads/rel-pa-mentor.55399/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/PAMentor.png",
+    "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip",
+    "id": "PAMentor"
+  },
+  {
+    "context": "client",
+    "identifier": "net.orfjackal.pa-spectator-vision",
+    "author": "ORFJackal",
+    "version": "1.0.0",
+    "display_name": "Spectator Vision",
+    "description": "Improved spectator visibility controls. Use Shift-Click to select multiple players.",
+    "build": "62857",
+    "date": "2014/03/15",
+    "forum": "https://forums.uberent.com/threads/spectator-vision.57890/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/SpectatorVision.png",
+    "url": "http://pamods.github.io/user_mods/SpectatorVision_v1.0.0.zip",
+    "id": "SpectatorVision"
+  },
+  {
+    "context": "client",
+    "identifier": "net.sirscruff.sirHighlightedBuildings",
+    "author": "sirscruff - packaging:Corang",
+    "version": "1.1",
+    "display_name": "Highlighted Buildings",
+    "description": "Green: Economic - Blue: Factories - Red: Strategic - Yellow: Defensive -- T2 Buildings have a more intense glow",
+    "build": "63234",
+    "date": "2014/03/25",
+    "forum": "https://forums.uberent.com/threads/mod-help-highlighted-buildings-bar.57879/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/sirHighlightedBuildings.png",
+    "url": "http://pamods.github.io/user_mods/sirHighlightedBuildings_v1.1.zip",
+    "id": "sirHighlightedBuildings"
+  },
+  {
+    "context": "client",
+    "identifier": "nl.jordev.favCommander",
+    "author": "SideSplitter",
+    "version": "1.0.1",
+    "display_name": "Favorite Commander",
+    "description": "Automatically chooses the commander selected in the armory",
+    "dependencies": [],
+    "build": "62037",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-favorite-commander-and-color-v1-0-0-62037.57278/",
+    "category": [
+      "in-game",
+      "ui",
+      "lobby",
+      "automatic"
+    ],
+    "icon": "http://pamods.github.io/icons/favComColor.png",
+    "url": "http://pamods.github.io/user_mods/favCommander_v1.0.1.zip",
+    "id": "favCommander"
+  },
+  {
+    "context": "client",
+    "identifier": "nl.jordev.tauntmod",
+    "author": "SideSplitter",
+    "version": "1.1.0",
+    "display_name": "TauntMod",
+    "description": "Adds Age Of Empires II Taunts to Planetary Annihilation",
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
+    ],
+    "build": "62037",
+    "date": "2014/03/03",
+    "forum": "https://forums.uberent.com/threads/rel-tauntmod-v1-0-1-59607-adds-aoe-ii-taunts.56026/",
+    "category": [
+      "in-game",
+      "ui",
+      "taunts",
+      "sound",
+      "aoe"
+    ],
+    "icon": "http://pamods.github.io/icons/tauntMod.png",
+    "url": "http://pamods.github.io/user_mods/tauntMod_v1.1.0.zip",
+    "id": "tauntMod"
+  },
+  {
+    "context": "client",
+    "identifier": "pa.wondible.instant_sandbox",
+    "author": "wondible",
+    "version": "1.3.0",
+    "display_name": "Instant Sandbox",
+    "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
+    "build": "66567",
+    "date": "2014/06/14",
+    "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
+    "category": [
+      "ui",
+      "main menu",
+      "modding"
+    ],
+    "icon": "http://pamods.github.io/icons/instant_sandbox.png",
+    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.3.0.zip",
+    "id": "instant_sandbox"
+  },
+  {
+    "context": "client",
+    "identifier": "pa.wondible.missile_command",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Missile Command",
+    "description": "Provides limited assistance for managing nuke launchers.",
+    "dependencies": [
+      "com.pa.raevn.rfloatframe",
+      "info.nanodesu.alertsmanager"
+    ],
+    "build": "64498",
+    "date": "2014/04/28",
+    "forum": "https://forums.uberent.com/threads/wip-missile-command.58542/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "icon": "http://pamods.github.io/icons/missile_command.png",
+    "url": "http://pamods.github.io/user_mods/missile_command_v1.0.zip",
+    "id": "missile_command"
+  },
+  {
+    "context": "server",
+    "identifier": "com.aevns.server.acliffplanets",
+    "author": "ae",
+    "version": "0.0.2",
+    "display_name": "Cliff Planets",
+    "description": "Custom planets with cliff biomes. Server side part of the mod. Replaces 'sandbox' planet and biome types.",
+    "date": "2014/06/19",
+    "forum": "https://forums.uberent.com/threads/60787/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/aevns/PA-Cliffs/raw/master/cliffPlanetsAEServer.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tBoomBotOnly",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Boom Bot Only",
+    "description": "Makes boom bots the only buildable offensive unit.",
+    "build": "67342",
+    "date": "2014/06/15",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/trialq/tBoomBotOnly/archive/229ada4ecb7340a0b8ac6ccf5d4993762690ce2b.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tCommYard",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Comm Yard",
+    "description": "Turns the Commander into a static factory.",
+    "build": "67342",
+    "date": "2014/06/14",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/trialq/tCommYard/archive/f522a9220f2464ac69f4ef9724588a16ebd843a9.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tFrontloadedDox",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Frontloaded Dox",
+    "description": "Frontloads damage dealt by dox (weapons deal 100 damage every 10 seconds instead of 10 damage every second).",
+    "build": "67342",
+    "date": "2014/06/15",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/trialq/tFrontloadedDox/archive/ee792ed34a29ff8a006debf5edf06d4bcf30b39d.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tRemoveEco",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Remove Eco",
+    "description": "Players start with so much eco, they don't need to worry about eco management.",
+    "build": "67342",
+    "date": "2014/06/14",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/trialq/tRemoveEco/archive/9e5b185fb2dc5c04052d37e50cd1b7167808b7b6.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tStorageWars",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Storage Wars",
+    "description": "Players start with 50,000 metal, but cannot build metal extractors.",
+    "build": "67342",
+    "date": "2014/06/14",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/trialq/tStorageWars/archive/85aabfc17c71d2fae290cc15defd2b63c77aba4b.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.pa.trialq.tUpToEleven",
+    "author": "trialq",
+    "version": "0.1.1",
+    "display_name": "Up To 11",
+    "description": "Makes every unit 5x quicker.",
+    "build": "67342",
+    "date": "2014/06/14",
+    "forum": "https://forums.uberent.com/threads/60762/",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "https://github.com/trialq/tUpToEleven/archive/56b26fe3dd4f23011b8ef1563a2f7eb9b587a9ab.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.realmmods.rebalance",
+    "author": "Nanolathe, YourLocalMadSci, TheWrongCat, Liquius",
+    "version": "0.1",
+    "display_name": "The Realm Community Rebalance",
+    "description": "Performs many changes to game direction and balance",
+    "date": "2014/06/05",
+    "forum": "https://forums.uberent.com/threads/58942/",
+    "url": "https://github.com/cwarner7264/realm-rebalance/releases/download/3.0.0/RCBM_3.0.0PreRel.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.squishypon3.balancedannihilation",
+    "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
+    "version": "02.98",
+    "display_name": "Statera",
+    "description": "Mod created to balance the game to have more niche units",
+    "date": "2014/06/28",
+    "forum": "https://forums.uberent.com/threads/60342/",
+    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.2.98.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.wondible.pa.factory_first",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Factory First",
+    "description": "Give the commander enough economy to run his own nanolathe, avoiding mex-mex-pgen-mex.  May conflict with other mods affecting commander.",
+    "build": "67342",
+    "date": "2014/06/14",
+    "url": "https://github.com/JustinLove/factory_first/archive/6891ec2ce7e905f5eb388fa1bbbea7fafd672fc6.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "info.nanodesu.murderparty",
+    "author": "Cola_Colin",
+    "version": "0.1",
+    "display_name": "Murder Party",
+    "description": "Kill your targets",
+    "date": "2014/06/06",
+    "forum": "https://forums.uberent.com/threads/60312/",
+    "url": "https://github.com/pamods/servermod-murderparty/archive/be866e556bd2368937708dcf5a921fc8c8dea8bf.zip"
+  }
+]
