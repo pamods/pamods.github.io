@@ -513,20 +513,6 @@
     "version": "1.1",
     "url": "http://pamods.github.io/user_mods/dShowOffline_v1.1.zip"
   },
-  "dTimer": {
-    "display_name": "In Game Timer",
-    "description": "Provides a timer to show how long the current match is running",
-    "author": "danzel",
-    "version": "1.4",
-    "build": "63234",
-    "date": "2014/03/24",
-    "forum": "https://forums.uberent.com/threads/rel-in-game-timer-v1-1.52704/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/dTimer_v1.4.0.zip"
-  },
   "eco_manager": {
     "display_name": "Eco Manager",
     "description": "Adds eco-management buttons to ui",
@@ -912,19 +898,6 @@
       "mEventHandler"
     ],
     "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip"
-  },
-  "maxTinyPoles": {
-    "display_name": "Tiny Poles",
-    "description": "Reduces the size of the 'N' and 'S' pole indicators",
-    "author": "maxpowerz",
-    "version": "1.0",
-    "build": "64498",
-    "date": "2014/04/28",
-    "forum": "https://forums.uberent.com/threads/s-and-n-marks-super-awkward.58122/",
-    "category": [
-      "in-game"
-    ],
-    "url": "http://pamods.github.io/user_mods/maxTinyPoles_v1.0.zip"
   },
   "mereth.allgames": {
     "display_name": "Show All Games",
