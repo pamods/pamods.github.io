@@ -1528,19 +1528,16 @@
     "display_name": "Auto Factory",
     "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
     "author": "trialq",
-    "version": "1.71",
+    "version": "1.8",
     "build": "67523",
-    "date": "2014/06/26",
+    "date": "2014/06/29",
     "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
     "category": [
       "in-game",
       "ui"
     ],
-    "requires": [
-      "rFloatFrame"
-    ],
-    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.71.zip"
+    "url": "https://github.com/trialq/tAutoFactory/releases/download/v1.8/tAutoFactory_v1.8.zip"
   },
   "tBuildingWriter": {
     "display_name": "Building Writer",
@@ -1633,6 +1630,7 @@
     ],
     "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip"
   },
+
   "teamspeak": {
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",

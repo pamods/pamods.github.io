@@ -1269,21 +1269,18 @@
     "context": "client",
     "identifier": "com.pa.trialq.tAutoFactory",
     "author": "trialq",
-    "version": "1.71",
+    "version": "1.8",
     "display_name": "Auto Factory",
     "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
-    "dependencies": [
-      "com.pa.raevn.rfloatframe"
-    ],
     "build": "67523",
-    "date": "2014/06/26",
+    "date": "2014/06/29",
     "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
-    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.71.zip",
+    "url": "https://github.com/trialq/tAutoFactory/releases/download/v1.8/tAutoFactory_v1.8.zip",
     "id": "tAutoFactory"
   },
   {
