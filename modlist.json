@@ -1615,7 +1615,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip"
   },
-
   "teamspeak": {
     "display_name": "TeamSpeak overlay",
     "description": "Shows a overlay for TeamSpeak chat. Requires TeamSpeak3 WebSockets plugin (see forum thread)",
