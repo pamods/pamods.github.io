@@ -1280,7 +1280,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
-    "url": "https://github.com/trialq/tAutoFactory/releases/download/v1.8/tAutoFactory_v1.8.zip",
+    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.8.zip",
     "id": "tAutoFactory"
   },
   {
@@ -1916,24 +1916,6 @@
     "icon": "http://pamods.github.io/icons/EcoEff.png",
     "url": "http://pamods.github.io/user_mods/EcoEffv3.zip",
     "id": "EcoEffv3"
-  },
-  {
-    "context": "client",
-    "identifier": "info.nanodesu.EcoEffv2",
-    "author": "Stan_petit_cul, Cola_colin",
-    "version": "2.1",
-    "display_name": "Economy Efficiency v2",
-    "description": "Improves the Eco Information bars",
-    "build": "63234",
-    "date": "2014/03/25",
-    "forum": "TODO",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "icon": "http://pamods.github.io/icons/EcoEff.png",
-    "url": "http://pamods.github.io/user_mods/EcoEffv2.zip",
-    "id": "EcoEffv2"
   },
   {
     "context": "client",

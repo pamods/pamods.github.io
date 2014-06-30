@@ -516,21 +516,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/eco_manager_v1.2.zip"
   },
-  "EcoEffv2": {
-    "display_name": "Economy Efficiency v2",
-    "description": "Improves the Eco Information bars",
-    "author": "Stan_petit_cul, Cola_colin",
-    "version": "2.1",
-    "build": "63234",
-    "date": "2014/03/25",
-    "forum": "TODO",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "icon": "http://pamods.github.io/icons/EcoEff.png",
-    "url": "http://pamods.github.io/user_mods/EcoEffv2.zip"
-  },
   "EcoEffv3": {
     "display_name": "Economy Efficiency v3",
     "description": "Improves the Eco Information bars",
