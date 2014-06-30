@@ -72,21 +72,6 @@
     "build": "65588",
     "url": "http://pamods.github.io/user_mods/anchorsfx_v1.0.zip"
   },
-  "autoselect_commander": {
-    "author": "wondible and friends",
-    "build": "67342",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "date": "2014/06/14",
-    "description": "Select your commander when starting the game.  With inspiration and support from tatsujb, raevn, Cola_Colin, and the PA modders forum.",
-    "display_name": "Autoselect Commander",
-    "forum": null,
-    "requires": [],
-    "version": "3.0.0",
-    "url": "http://pamods.github.io/user_mods/autoselect_commander_v3.0.0.zip"
-  },
   "bAnchorButtons": {
     "display_name": "Anchor Buttons",
     "description": "Click once to set camera anchor, and again to snap back there.",
