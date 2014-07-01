@@ -745,17 +745,17 @@
     "context": "client",
     "identifier": "com.pa.moldez.transicons",
     "author": "Moldez",
-    "version": "3.3.3",
+    "version": "4.0",
     "display_name": "Transparent Strategic Icons",
     "description": "Transparent Strategic Icons",
-    "build": "65588",
-    "date": "2014/05/15",
+    "build": "67523",
+    "date": "2014/06/22",
     "forum": "https://forums.uberent.com/threads/rel-transparent-uniticons.55376/",
     "category": [
       "Strategic Icons"
     ],
     "icon": "http://pamods.github.io/icons/transicons.png",
-    "url": "http://pamods.github.io/user_mods/transicons_v3.3.3.zip",
+    "url": "http://pamods.github.io/user_mods/transicons_v4.0.zip",
     "id": "transicons"
   },
   {
