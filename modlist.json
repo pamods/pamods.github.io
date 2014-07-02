@@ -853,58 +853,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip"
   },
-  "mereth.allgames": {
-    "display_name": "Show All Games",
-    "description": "Filter both non-modded and modded games by default.",
-    "author": "mereth",
-    "version": "1.0.0",
-    "build": "67523",
-    "date": "2014/06/21",
-    "category": [
-      "lobby",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/mereth.allgames_v1.0.0.zip"
-  },
-  "mereth.replay": {
-    "display_name": "Contact Replays",
-    "description": "Add a 'Show Replays' entry in the UberBar contextual menu.",
-    "author": "mereth",
-    "version": "1.0.0",
-    "build": "66943",
-    "date": "2014/06/13",
-    "category": [
-      "uberbar",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/mereth.replay_v1.0.0.zip"
-  },
-  "mereth.startingplanet": {
-    "display_name": "Show Starting Planets",
-    "description": "Change color of starting planets name in server browser to green.",
-    "author": "mereth",
-    "version": "1.0.0",
-    "build": "66943",
-    "date": "2014/06/13",
-    "category": [
-      "lobby",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/mereth.startingplanet_v1.0.0.zip"
-  },
-  "mereth.twentyfour": {
-    "display_name": "Twenty-Four Hours",
-    "description": "Change the 12AM/PM clock for a 24H clock.",
-    "author": "mereth",
-    "version": "1.0.0",
-    "build": "66943",
-    "date": "2014/06/13",
-    "category": [
-      "uberbar",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/mereth.twentyfour_v1.0.0.zip"
-  },
   "metalbackground": {
     "display_name": "Metal Planet Background Mod",
     "description": "Replaces the earth planet background with the promotional metal planet art.",
