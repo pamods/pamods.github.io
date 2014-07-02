@@ -1634,20 +1634,18 @@
     "context": "client",
     "identifier": "com.wondible.pa.fabulous_selections",
     "author": "wondible",
-    "version": "0.0.0",
+    "version": "2.0.0",
     "display_name": "Fabulous Selections",
     "description": "Highlight commanders and fabulous fabbers in the selected unit icons.",
-    "dependencies": [],
-    "build": "62110",
-    "date": "2014/03/01",
-    "forum": "https://forums.uberent.com/threads/wip-selected-commander.56931/",
+    "build": "68079",
+    "date": "2014/06/29",
+    "forum": "https://forums.uberent.com/threads/56931/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/fabulous_selections.png",
-    "url": "http://pamods.github.io/user_mods/fabulous_selections_v1.0.zip",
-    "id": "fabulous_selections"
+    "url": "https://github.com/JustinLove/fabulous_selections/archive/v2.0.zip"
   },
   {
     "context": "client",
