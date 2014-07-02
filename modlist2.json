@@ -520,18 +520,18 @@
     "context": "client",
     "identifier": "com.pa.conundrum.cShareSystems",
     "author": "Captain Conundrum",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. eXodus eSports, PACE, and The Realm maps are available as well.",
     "dependencies": [],
-    "build": "65588",
-    "date": "2014/05/31",
+    "build": "68331",
+    "date": "2014/07/02",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.3.zip",
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.4.zip",
     "id": "cShareSystems"
   },
   {
