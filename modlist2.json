@@ -2171,28 +2171,6 @@
     "id": "tauntMod"
   },
   {
-    "context": "client",
-    "identifier": "pa.wondible.missile_command",
-    "author": "wondible",
-    "version": "1.0.0",
-    "display_name": "Missile Command",
-    "description": "Provides limited assistance for managing nuke launchers.",
-    "dependencies": [
-      "com.pa.raevn.rfloatframe",
-      "info.nanodesu.alertsmanager"
-    ],
-    "build": "64498",
-    "date": "2014/04/28",
-    "forum": "https://forums.uberent.com/threads/wip-missile-command.58542/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "icon": "http://pamods.github.io/icons/missile_command.png",
-    "url": "http://pamods.github.io/user_mods/missile_command_v1.0.zip",
-    "id": "missile_command"
-  },
-  {
     "context": "server",
     "identifier": "com.aevns.server.acliffplanets",
     "author": "ae",
