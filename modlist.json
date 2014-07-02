@@ -1103,21 +1103,6 @@
     "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
     "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-2.zip"
   },
-  "reconnect_button": {
-    "author": "wondible",
-    "build": "63475",
-    "category": [
-      "ui",
-      "main menu"
-    ],
-    "date": "2014/04/19",
-    "description": "Provides a Reconnect button on the start menu when you are still assigned to a game.  A reconnect option is also provided in the live game ESC menu which will attempt to restore a disconnected session.",
-    "display_name": "Reconnect Button",
-    "forum": "https://forums.uberent.com/threads/wip-reconnect-button.57733/",
-    "requires": [],
-    "version": "2.0.0",
-    "url": "http://pamods.github.io/user_mods/reconnect_button_v2.0.0.zip"
-  },
   "rFloatFrame": {
     "display_name": "Floating Framework",
     "description": "Framework for creating draggable UI containers",

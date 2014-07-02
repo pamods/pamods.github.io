@@ -1703,19 +1703,17 @@
     "context": "client",
     "identifier": "com.wondible.pa.reconnect_button",
     "author": "wondible",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "display_name": "Reconnect Button",
     "description": "Provides a Reconnect button on the start menu when you are still assigned to a game.  A reconnect option is also provided in the live game ESC menu which will attempt to restore a disconnected session.",
-    "dependencies": [],
-    "build": "63475",
-    "date": "2014/04/19",
+    "build": "68253",
+    "date": "2014/07/01",
     "forum": "https://forums.uberent.com/threads/wip-reconnect-button.57733/",
     "category": [
       "ui",
       "main menu"
     ],
-    "url": "http://pamods.github.io/user_mods/reconnect_button_v2.0.0.zip",
-    "id": "reconnect_button"
+    "url": "https://github.com/JustinLove/reconnect_button/archive/v2.1.0.zip"
   },
   {
     "context": "client",
