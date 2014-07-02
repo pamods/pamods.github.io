@@ -1580,18 +1580,6 @@
   },
   {
     "context": "client",
-    "identifier": "com.uberent.pa.mods.stockmods.client.cheat.server_browser_show_cheat_servers",
-    "author": "Uber Entertainment, package by Cola_Colin",
-    "version": "0.1",
-    "display_name": "Server Browser - Show Cheat Servers",
-    "description": "Server browser will display servers that have cheats enabled",
-    "build": "66863-main",
-    "date": "2014/06/05",
-    "url": "http://pamods.github.io/user_mods/server_browser_show_cheat_servers_v0.1.zip",
-    "id": "server_browser_show_cheat_servers"
-  },
-  {
-    "context": "client",
     "identifier": "com.warren.pa.locate_commander",
     "author": "warren",
     "version": "1.0.1",
