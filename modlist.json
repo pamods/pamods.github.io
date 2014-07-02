@@ -677,22 +677,6 @@
     "icon": "http://i.imgur.com/J9MG5mX.png",
     "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.2.zip"
   },
-  "instant_sandbox": {
-    "author": "wondible",
-    "build": "66567",
-    "category": [
-      "ui",
-      "main menu",
-      "modding"
-    ],
-    "date": "2014/06/14",
-    "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
-    "display_name": "Instant Sandbox",
-    "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
-    "icon": "http://pamods.github.io/icons/instant_sandbox.png",
-    "version": "1.3.0",
-    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.3.0.zip"
-  },
   "jungletropical": {
     "display_name": "Tropical Jungle Planet Icon",
     "description": "Replaces the icon for the Tropical planet in the system editor with a more fitting icon.",

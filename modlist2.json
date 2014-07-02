@@ -1697,6 +1697,24 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.instant_sandbox",
+    "author": "wondible",
+    "version": "2.0.0",
+    "display_name": "Instant Sandbox",
+    "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
+    "build": "68331",
+    "date": "2014/07/02",
+    "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
+    "category": [
+      "ui",
+      "main menu",
+      "modding"
+    ],
+    "icon": "http://pamods.github.io/icons/instant_sandbox.png",
+    "url": "https://github.com/JustinLove/instant_sandbox/archive/v2.0.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.reconnect_button",
     "author": "wondible",
     "version": "2.0.0",
@@ -2151,25 +2169,6 @@
     "icon": "http://pamods.github.io/icons/tauntMod.png",
     "url": "http://pamods.github.io/user_mods/tauntMod_v1.1.0.zip",
     "id": "tauntMod"
-  },
-  {
-    "context": "client",
-    "identifier": "pa.wondible.instant_sandbox",
-    "author": "wondible",
-    "version": "1.3.0",
-    "display_name": "Instant Sandbox",
-    "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
-    "build": "66567",
-    "date": "2014/06/14",
-    "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
-    "category": [
-      "ui",
-      "main menu",
-      "modding"
-    ],
-    "icon": "http://pamods.github.io/icons/instant_sandbox.png",
-    "url": "http://pamods.github.io/user_mods/instant_sandbox_v1.3.0.zip",
-    "id": "instant_sandbox"
   },
   {
     "context": "client",
