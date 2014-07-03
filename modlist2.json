@@ -905,23 +905,21 @@
     "context": "client",
     "identifier": "com.pa.raevn.rcommanderhp",
     "author": "LavaSnake, raevn, and others",
-    "version": "3.2",
+    "version": "3.3",
     "display_name": "Commander HUD",
     "description": "Adds a HUD that tracks your commander's health and more!",
     "dependencies": [
-      "com.pa.raevn.rfloatframe",
-      "com.pa.raevn.pamm.rsettingsmanager"
+      "com.pa.raevn.rfloatframe"
     ],
-    "build": "66567",
-    "date": "2014/6/11",
+    "build": "68331",
+    "date": "2014/7/3",
     "forum": "https://forums.uberent.com/threads/wip-commander-hud-v3.59137/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-2.zip",
-    "id": "rCommanderHP"
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-3.zip"
   },
   {
     "context": "client",
