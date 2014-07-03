@@ -1065,6 +1065,25 @@
     "build": "58772",
     "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip"
   },
+  "rCommanderHP": {
+    "display_name": "Commander HUD",
+    "description": "Adds a HUD that tracks your commander's health and more!",
+    "author": "LavaSnake, raevn, and others",
+    "version": "3.2",
+    "build": "66567",
+    "date": "2014/6/11",
+    "forum": "https://forums.uberent.com/threads/wip-commander-hud-v3.59137/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "requires": [
+      "rFloatFrame",
+      "rSettingsManager"
+    ],
+    "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-2.zip"
+  },
   "rFloatFrame": {
     "display_name": "Floating Framework",
     "description": "Framework for creating draggable UI containers",
