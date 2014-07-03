@@ -612,25 +612,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/HideFogOfWar_v1.0.zip"
   },
-  "hotbuild2": {
-    "display_name": "Hotbuild2",
-    "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
-    "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
-    "author": "proeleert,tripax,cola_colin",
-    "version": "1.23",
-    "build": "67523",
-    "date": "2014/06/27",
-    "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "icon": "http://pamods.github.io/icons/hotbuild2.png",
-    "requires": [
-      "rBlueprintInfoFramework"
-    ],
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.23.zip"
-  },
   "hotkeyfix_cant_build": {
     "author": "wondible",
     "build": "67342",
