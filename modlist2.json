@@ -1528,11 +1528,11 @@
     "context": "client",
     "identifier": "com.pa.xedi.pixelicons",
     "author": "Xedi",
-    "version": "3.5",
+    "version": "4.0",
     "display_name": "Pixel icons",
     "description": "Strategic icons in the style of Supreme Commander",
-    "build": "66943",
-    "date": "2014/06/09",
+    "build": "68331",
+    "date": "2014/07/04",
     "forum": "https://forums.uberent.com/threads/49316/",
     "category": [
       "in-game",
@@ -1540,7 +1540,7 @@
       "strategic icons"
     ],
     "icon": "http://pamods.github.io/icons/pixelicons.png",
-    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.5.zip",
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v4.0.zip",
     "id": "PixelIcons"
   },
   {

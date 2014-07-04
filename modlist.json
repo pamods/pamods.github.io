@@ -955,9 +955,9 @@
     "display_name": "Pixel icons",
     "description": "Strategic icons in the style of Supreme Commander",
     "author": "Xedi",
-    "version": "3.5",
-    "build": "66943",
-    "date": "2014/06/09",
+    "version": "4.0",
+    "build": "68331",
+    "date": "2014/07/04",
     "forum": "https://forums.uberent.com/threads/49316/",
     "icon": "http://pamods.github.io/icons/pixelicons.png",
     "category": [
@@ -965,7 +965,7 @@
       "ui",
       "strategic icons"
     ],
-    "url": "http://pamods.github.io/user_mods/PixelIcons_v3.5.zip"
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v4.0.zip"
   },
   "powReturnToServerBrowser": {
     "display_name": "Return to Server Browser",
