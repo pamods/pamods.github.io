@@ -1682,6 +1682,21 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.hotkeyfix_groups",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Hotkeyfix Groups",
+    "description": "Hotfix for rapidly switching between control groups, broken in 68253",
+    "build": "68253",
+    "date": "2014/07/05",
+    "forum": "https://forums.uberent.com/threads/hotkeyfix-groups-68253.61657/",
+    "category": [
+      "hotfix"
+    ],
+    "url": "https://github.com/JustinLove/hotkeyfix_groups/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.instant_sandbox",
     "author": "wondible",
     "version": "2.0.0",
