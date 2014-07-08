@@ -44,16 +44,16 @@
     "display_name": "Alpha Energy Plant",
     "description": "Replaces the energy plant model with one from the Alpha.",
     "author": "Stuart98",
-    "version": "1.1",
+    "version": "1.2",
     "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
     "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
     "category": [
       "Model",
       "Energy Plant"
     ],
-    "date": "2014/05/17",
-    "build": "65588",
-    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.1.zip"
+    "date": "2014/07/08",
+    "build": "68568",
+    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.2.zip"
   },
   "anchorsfx": {
     "display_name": "Anchor Sound Mod",
