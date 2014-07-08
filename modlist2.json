@@ -2203,17 +2203,17 @@
     "context": "server",
     "identifier": "com.pa.trialq.tCommYard",
     "author": "trialq",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "display_name": "Comm Yard",
-    "description": "Turns the Commander into a static factory.",
-    "build": "67342",
-    "date": "2014/06/14",
+    "description": "Turns the Commander into a static factory",
+    "build": "68331",
+    "date": "2014/07/08",
     "forum": "https://forums.uberent.com/threads/60762/",
     "category": [
       "in-game",
       "server-mod"
     ],
-    "url": "https://github.com/trialq/tCommYard/archive/f522a9220f2464ac69f4ef9724588a16ebd843a9.zip"
+    "url": "https://github.com/trialq/tCommYard/archive/a08672258401c1d687a678b8d24a435a1fed07d1.zip"
   },
   {
     "context": "server",
