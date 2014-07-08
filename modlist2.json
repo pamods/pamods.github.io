@@ -2234,17 +2234,17 @@
     "context": "server",
     "identifier": "com.pa.trialq.tStorageWars",
     "author": "trialq",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "display_name": "Storage Wars",
-    "description": "Players start with 50,000 metal, but cannot build metal extractors.",
-    "build": "67342",
-    "date": "2014/06/14",
+    "description": "Players start with 50,000 metal, but cannot build metal extractors",
+    "build": "68568",
+    "date": "2014/07/08",
     "forum": "https://forums.uberent.com/threads/60762/",
     "category": [
       "in-game",
       "server-mod"
     ],
-    "url": "https://github.com/trialq/tStorageWars/archive/85aabfc17c71d2fae290cc15defd2b63c77aba4b.zip"
+    "url": "https://github.com/trialq/tStorageWars/archive/f164dfd9de5b57d0b32b988734091eed025453bd.zip"
   },
   {
     "context": "server",
