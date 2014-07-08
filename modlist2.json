@@ -1614,23 +1614,6 @@
   },
   {
     "context": "client",
-    "identifier": "com.wondible.pa.autoselect_commander",
-    "author": "wondible and friends",
-    "version": "3.1.0",
-    "display_name": "Autoselect Commander",
-    "description": "Select your commander when starting the game.  With inspiration and support from tatsujb, raevn, Cola_Colin, and the PA modders forum.",
-    "dependencies": [],
-    "build": "67523",
-    "date": "2014/06/29",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "https://github.com/JustinLove/autoselect_commander/archive/v3.1.0.zip",
-    "id": "autoselect_commander"
-  },
-  {
-    "context": "client",
     "identifier": "com.wondible.pa.fabulous_selections",
     "author": "wondible",
     "version": "2.0.0",
