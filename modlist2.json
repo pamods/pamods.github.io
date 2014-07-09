@@ -2170,17 +2170,17 @@
     "context": "server",
     "identifier": "com.pa.trialq.tBoomBotOnly",
     "author": "trialq",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "display_name": "Boom Bot Only",
-    "description": "Makes boom bots the only buildable offensive unit.",
-    "build": "67342",
-    "date": "2014/06/15",
+    "description": "Boom bots are the only buildable offensive unit",
+    "build": "68568",
+    "date": "2014/07/09",
     "forum": "https://forums.uberent.com/threads/60762/",
     "category": [
       "in-game",
       "server-mod"
     ],
-    "url": "https://github.com/trialq/tBoomBotOnly/archive/229ada4ecb7340a0b8ac6ccf5d4993762690ce2b.zip"
+    "url": "https://github.com/trialq/tBoomBotOnly/archive/b763d68facb8186afddcad2567e5a3acccc3dfcf.zip"
   },
   {
     "context": "server",
@@ -2202,33 +2202,33 @@
     "context": "server",
     "identifier": "com.pa.trialq.tFrontloadedDox",
     "author": "trialq",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "display_name": "Frontloaded Dox",
-    "description": "Frontloads damage dealt by dox (weapons deal 100 damage every 10 seconds instead of 10 damage every second).",
-    "build": "67342",
-    "date": "2014/06/15",
+    "description": "Frontloads damage dealt by dox (weapons deal 100 damage every 10 seconds instead of 10 damage every second)",
+    "build": "68568",
+    "date": "2014/07/09",
     "forum": "https://forums.uberent.com/threads/60762/",
     "category": [
       "in-game",
       "server-mod"
     ],
-    "url": "https://github.com/trialq/tFrontloadedDox/archive/ee792ed34a29ff8a006debf5edf06d4bcf30b39d.zip"
+    "url": "https://github.com/trialq/tFrontloadedDox/archive/cb11d891bf1d83cb8cafac44d970af14db5ccbab.zip"
   },
   {
     "context": "server",
     "identifier": "com.pa.trialq.tRemoveEco",
     "author": "trialq",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "display_name": "Remove Eco",
-    "description": "Players start with so much eco, they don't need to worry about eco management.",
-    "build": "67342",
-    "date": "2014/06/14",
+    "description": "Players start with so much eco, they don't need to worry about eco management",
+    "build": "68568",
+    "date": "2014/07/09",
     "forum": "https://forums.uberent.com/threads/60762/",
     "category": [
       "in-game",
       "server-mod"
     ],
-    "url": "https://github.com/trialq/tRemoveEco/archive/9e5b185fb2dc5c04052d37e50cd1b7167808b7b6.zip"
+    "url": "https://github.com/trialq/tRemoveEco/archive/c7790c7cf8d0b1a4cc56bc6ae1ab00db3c4994f4.zip"
   },
   {
     "context": "server",
@@ -2250,17 +2250,17 @@
     "context": "server",
     "identifier": "com.pa.trialq.tUpToEleven",
     "author": "trialq",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "display_name": "Up To 11",
     "description": "Makes every unit 5x quicker.",
-    "build": "67342",
-    "date": "2014/06/14",
+    "build": "68568",
+    "date": "2014/07/09",
     "forum": "https://forums.uberent.com/threads/60762/",
     "category": [
       "in-game",
       "server-mod"
     ],
-    "url": "https://github.com/trialq/tUpToEleven/archive/56b26fe3dd4f23011b8ef1563a2f7eb9b587a9ab.zip"
+    "url": "https://github.com/trialq/tUpToEleven/archive/a0e5a38bfe3375ceb354be5c52aa88b927f71a7a.zip"
   },
   {
     "context": "server",
