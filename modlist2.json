@@ -2284,17 +2284,6 @@
   },
   {
     "context": "server",
-    "identifier": "com.realmmods.rebalance",
-    "author": "Nanolathe, YourLocalMadSci, TheWrongCat, Liquius",
-    "version": "0.1",
-    "display_name": "The Realm Community Rebalance",
-    "description": "Performs many changes to game direction and balance",
-    "date": "2014/06/05",
-    "forum": "https://forums.uberent.com/threads/58942/",
-    "url": "https://github.com/cwarner7264/realm-rebalance/releases/download/3.0.0/RCBM_3.0.0PreRel.zip"
-  },
-  {
-    "context": "server",
     "identifier": "com.squishypon3.balancedannihilation",
     "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
     "version": "0.3.21",
