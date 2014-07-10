@@ -967,21 +967,17 @@
     "context": "client",
     "identifier": "com.pa.raevn.rmodslist",
     "author": "Raevn",
-    "version": "3.1.0",
+    "version": "4.0.0",
     "display_name": "Installed Mods List",
     "description": "Adds a 'Mods' tab on the main menu which shows a list of currently enabled mods, and if any require updates",
-    "dependencies": [
-      "rPAMM"
-    ],
-    "build": "63475",
-    "date": "2014/03/30",
-    "forum": "https://forums.uberent.com/threads/rel-installed-mods-list-v1-2-1-58197.54645/",
+    "build": "68568",
+    "date": "2014/07/10",
+    "forum": "https://forums.uberent.com/threads/54645/",
     "category": [
       "modding",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/rModsList_v3.1.0.zip",
-    "id": "rModsList"
+    "url": "http://pamods.github.io/user_mods/rModsList_v4.0.0.zip"
   },
   {
     "context": "client",
