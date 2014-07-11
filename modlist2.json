@@ -308,6 +308,23 @@
     "id": "bAnchorButtons"
   },
   {
+      "context": "server",
+      "identifier": "com.pa.burntcustard.bBoomBotWars",
+      "display_name": "Boom Bot Wars",
+      "description": "All structures and units assist in the destruction of your enemies through extreme Boom Bot usage.",
+      "author": "burntcustard",
+      "version": "1.0",
+      "build": "68767",
+      "date": "2014/07/11",
+      "category": [
+          "in-game",
+          "server-mod"
+      ],
+      "id": "bBoomBotWars",
+      "forum": "https://forums.uberent.com/threads/rel-boom-bot-wars.61879/",
+      "icon": "http://pamods.github.io/icons/bBoomBotWars.png"
+  },
+  {
     "context": "client",
     "identifier": "com.pa.burntcustard.bRemoveAlertPIPs",
     "author": "burntcustard",
