@@ -92,6 +92,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip"
   },
+  "bBoomBotWars": {
+    "display_name": "Boom Bot Wars",
+    "description": "All structures and units assist in the destruction of your enemies through extreme Boom Bot usage.",
+    "author": "burntcustard",
+    "version": "1.0",
+    "build": "68767",
+    "date": "2014/07/11",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "forum": "https://forums.uberent.com/threads/rel-boom-bot-wars.61879/",
+    "icon": "http://pamods.github.io/icons/bBoomBotWars.png",
+    "url": "http://pamods.github.io/user_mods/bBoomBotWars_v1.0.zip"
+  },
   "bRemoveAlertPIPs": {
     "display_name": "Remove Alert PIPs",
     "description": "Stops a PIP appearing when putting mouse over an alert, to help reduce lag.",
