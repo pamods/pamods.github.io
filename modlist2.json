@@ -320,10 +320,9 @@
           "in-game",
           "server-mod"
       ],
-      "id": "bBoomBotWars",
       "forum": "https://forums.uberent.com/threads/rel-boom-bot-wars.61879/",
       "icon": "http://pamods.github.io/icons/bBoomBotWars.png",
-      "url": "http://pamods.github.io/user_mods/bBoomBotWars_v1.0.zip",
+      "url": "http://pamods.github.io/user_mods/bBoomBotWars_v1.0.zip"
   },
   {
     "context": "client",
