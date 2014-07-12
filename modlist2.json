@@ -2307,18 +2307,6 @@
   },
   {
     "context": "server",
-    "identifier": "com.wondible.pa.factory_first",
-    "author": "wondible",
-    "version": "1.1.0",
-    "display_name": "Factory First",
-    "description": "Give the commander enough economy to run his own nanolathe, avoiding mex-mex-pgen-mex.  May conflict with other mods affecting commander.",
-    "build": "68331",
-    "date": "2014/07/05",
-    "forum": "https://forums.uberent.com/threads/rel-server-factory-first.60866/",
-    "url": "http://wondible.com/pa/factory_first_v1.1.0.zip"
-  },
-  {
-    "context": "server",
     "identifier": "info.nanodesu.murderparty",
     "author": "Cola_Colin",
     "version": "0.1",
