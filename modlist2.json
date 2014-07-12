@@ -1768,18 +1768,17 @@
     "context": "client",
     "identifier": "com.wondible.pa.simplified_sun_shader",
     "author": "SXX, wondible",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "display_name": "Simplified Sun Shader",
     "description": "This is just shader without using noise and unused code but it's still looks valid. Made for R600g Linux users (PA#2321), but will also work to decrease GPU load because default shader is super heavy.",
-    "dependencies": [],
-    "build": "66943",
-    "date": "2014/06/05",
+    "build": "68767",
+    "date": "2014/07/12",
+    "forum": "https://forums.uberent.com/threads/lightweight-failsafe-sun-fs-for-r600g.60507/",
     "category": [
       "in-game",
       "shader"
     ],
-    "url": "http://pamods.github.io/user_mods/simplified_sun_shader_v1.0.zip",
-    "id": "simplified_sun_shader"
+    "url": "http://wondible.com/pa/simplified_sun_shader_v1.1.zip"
   },
   {
     "context": "client",

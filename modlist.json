@@ -1212,21 +1212,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/SCicons_v10.zip"
   },
-  "simplified_sun_shader": {
-    "author": "SXX, wondible",
-    "build": "66943",
-    "category": [
-      "in-game",
-      "shader"
-    ],
-    "date": "2014/06/05",
-    "description": "This is just shader without using noise and unused code but it's still looks valid. Made for R600g Linux users (PA#2321), but will also work to decrease GPU load because default shader is super heavy.",
-    "display_name": "Simplified Sun Shader",
-    "forum": null,
-    "requires": [],
-    "version": "1.0.0",
-    "url": "http://pamods.github.io/user_mods/simplified_sun_shader_v1.0.zip"
-  },
   "sirHighlightedBuildings": {
     "display_name": "Highlighted Buildings",
     "description": "Green: Economic - Blue: Factories - Red: Strategic - Yellow: Defensive -- T2 Buildings have a more intense glow",
