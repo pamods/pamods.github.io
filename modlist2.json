@@ -1784,19 +1784,18 @@
     "context": "client",
     "identifier": "com.wondible.pa.two_color_icons",
     "author": "wondible",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "display_name": "Two Color Icons",
     "description": "Use secondary color for icon outlines, and white for selected.",
-    "dependencies": [],
-    "build": "66943",
-    "date": "2014/06/08",
+    "build": "68767",
+    "date": "2014/07/12",
     "forum": "https://forums.uberent.com/threads/wip-two-color-icons.60568/",
     "category": [
       "in-game",
+      "shader",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/two_color_icons_v1.0.zip",
-    "id": "two_color_icons"
+    "url": "https://github.com/JustinLove/two_color_icons/archive/v1.1.zip"
   },
   {
     "context": "client",
