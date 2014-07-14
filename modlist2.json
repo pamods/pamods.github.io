@@ -1649,19 +1649,18 @@
     "context": "client",
     "identifier": "com.wondible.pa.gross_economy",
     "author": "wondible",
-    "version": "5.0.1",
+    "version": "6.0.0",
     "display_name": "Gross Economy",
     "description": "Status bar that emphasises income and expense so that they can be visually compared.",
-    "build": "67342",
-    "date": "2014/06/16",
+    "build": "68767",
+    "date": "2014/07/13",
     "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/gross_economy.png",
-    "url": "http://pamods.github.io/user_mods/gross_economy_v5.0.1.zip",
-    "id": "gross_economy"
+    "url": "https://github.com/JustinLove/gross_economy/archive/v6.0.0.zip"
   },
   {
     "context": "client",

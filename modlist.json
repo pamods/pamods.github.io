@@ -586,21 +586,6 @@
     "requires": [],
     "url": "http://pamods.github.io/user_mods/favCommander_v1.0.1.zip"
   },
-  "gross_economy": {
-    "author": "wondible",
-    "build": "67342",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "date": "2014/06/16",
-    "description": "Status bar that emphasises income and expense so that they can be visually compared.",
-    "display_name": "Gross Economy",
-    "forum": "https://forums.uberent.com/threads/rel-gross-economy-v1-0.56640/",
-    "icon": "http://pamods.github.io/icons/gross_economy.png",
-    "version": "5.0.1",
-    "url": "http://pamods.github.io/user_mods/gross_economy_v5.0.1.zip"
-  },
   "gtcGWExtendedSystemMoves": {
     "display_name": "Galactic War extended System moves",
     "description": "GW: Move over any explored systems",
