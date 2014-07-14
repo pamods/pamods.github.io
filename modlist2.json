@@ -1698,11 +1698,11 @@
     "context": "client",
     "identifier": "com.wondible.pa.instant_sandbox",
     "author": "wondible",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "display_name": "Instant Sandbox",
     "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
-    "build": "68331",
-    "date": "2014/07/02",
+    "build": "68767",
+    "date": "2014/07/13",
     "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
     "category": [
       "ui",
@@ -1710,7 +1710,7 @@
       "modding"
     ],
     "icon": "http://pamods.github.io/icons/instant_sandbox.png",
-    "url": "https://github.com/JustinLove/instant_sandbox/archive/v2.0.0.zip"
+    "url": "https://github.com/JustinLove/instant_sandbox/archive/v2.0.1.zip"
   },
   {
     "context": "client",
