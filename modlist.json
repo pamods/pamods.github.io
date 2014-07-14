@@ -1318,21 +1318,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/tauntMod_v1.1.0.zip"
   },
-  "tAutoFactory": {
-    "display_name": "Auto Factory",
-    "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
-    "author": "trialq",
-    "version": "1.8",
-    "build": "67523",
-    "date": "2014/06/29",
-    "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
-    "icon": "http://pamods.github.io/icons/tAutoFactory.png",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.8.zip"
-  },
   "tBuildingWriter": {
     "display_name": "Building Writer",
     "description": "Use buildings to write text. See forum for details",

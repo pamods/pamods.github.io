@@ -1284,18 +1284,18 @@
     "context": "client",
     "identifier": "com.pa.trialq.tAutoFactory",
     "author": "trialq",
-    "version": "1.8",
+    "version": "1.8.1",
     "display_name": "Auto Factory",
     "description": "Automatically build units with idle factories, when eco would otherwise be wasted",
-    "build": "67523",
-    "date": "2014/06/29",
+    "build": "68767",
+    "date": "2014/07/14",
     "forum": "https://forums.uberent.com/threads/rel-auto-factory.55995/",
     "category": [
       "in-game",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
-    "url": "http://pamods.github.io/user_mods/tAutoFactory_v1.8.zip",
+    "url": "https://github.com/trialq/tAutoFactory/archive/43120c347c0364ad9c26ccb7235bd8fbc582b685.zip",
     "id": "tAutoFactory"
   },
   {
@@ -1885,6 +1885,7 @@
     "author": "mereth",
     "version": "1.0.0",
     "display_name": "Show Starting Planets",
+
     "description": "Change color of starting planets name in server browser to green.",
     "build": "66943",
     "date": "2014/06/13",
