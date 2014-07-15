@@ -1697,11 +1697,11 @@
     "context": "client",
     "identifier": "com.wondible.pa.instant_sandbox",
     "author": "wondible",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "display_name": "Instant Sandbox",
     "description": "One click to start a game vs an AI with no economy, or as configured in settings.",
     "build": "68767",
-    "date": "2014/07/13",
+    "date": "2014/07/15",
     "forum": "https://forums.uberent.com/threads/wip-instant-sandbox.56920/",
     "category": [
       "ui",
@@ -1709,7 +1709,7 @@
       "modding"
     ],
     "icon": "http://pamods.github.io/icons/instant_sandbox.png",
-    "url": "https://github.com/JustinLove/instant_sandbox/archive/v2.0.1.zip"
+    "url": "https://github.com/JustinLove/instant_sandbox/archive/v2.1.0.zip"
   },
   {
     "context": "client",
@@ -1885,7 +1885,6 @@
     "author": "mereth",
     "version": "1.0.0",
     "display_name": "Show Starting Planets",
-
     "description": "Change color of starting planets name in server browser to green.",
     "build": "66943",
     "date": "2014/06/13",
