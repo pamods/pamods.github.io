@@ -157,9 +157,9 @@
     "display_name": "eXodus eSports Camera Modes",
     "description": "Some hotkeys for switching to special camera modes.",
     "author": "Captain Conundrum",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "build": "68767",
-    "date": "2014/07/13",
+    "date": "2014/07/15",
     "forum": "https://forums.uberent.com/threads/rel-exodus-esports-camera-modes.61813/",
     "category": [
       "in-game",
@@ -168,7 +168,7 @@
     "dependencies": [
       "com.pa.raevn.pamm.rsettingsmanager"
     ],
-    "url": "http://pamods.github.io/user_mods/cCameraHotkeys_v1.0.1.zip"
+    "url": "http://pamods.github.io/user_mods/cCameraHotkeys_v1.0.2.zip"
   },
   "cDraggablePip": {
     "display_name": "Draggable Picture in Picture",
