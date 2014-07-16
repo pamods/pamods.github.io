@@ -383,20 +383,20 @@
     "context": "client",
     "identifier": "com.pa.conundrum.cCameraHotkeys",
     "author": "Captain Conundrum",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "display_name": "eXodus eSports Camera Modes",
     "description": "Some hotkeys for switching to special camera modes.",
     "dependencies": [
       "com.pa.raevn.pamm.rsettingsmanager"
     ],
     "build": "68767",
-    "date": "2014/07/15",
+    "date": "2014/07/16",
     "forum": "https://forums.uberent.com/threads/rel-exodus-esports-camera-modes.61813/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/cCameraHotkeys_v1.0.2.zip",
+    "url": "http://pamods.github.io/user_mods/cCameraHotkeys_v1.0.3.zip",
     "id": "cCameraHotkeys"
   },
   {
@@ -909,6 +909,7 @@
     "context": "client",
     "identifier": "com.pa.raevn.rblueprintinfoframework",
     "author": "Raevn",
+
     "version": "1.4.1",
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
