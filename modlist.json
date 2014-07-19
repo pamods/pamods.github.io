@@ -614,20 +614,6 @@
     ],
     "url": "http://pamods.github.io/user_mods/HideFogOfWar_v1.0.zip"
   },
-  "hotkeyfix_cant_build": {
-    "author": "wondible",
-    "build": "67342",
-    "category": [
-      "hotfix"
-    ],
-    "date": "2014/06/14",
-    "description": "Hotfix for inability to click after using hotkeys.",
-    "display_name": "Hotkeyfix Cant Build",
-    "forum": null,
-    "requires": [],
-    "version": "1.0.0",
-    "url": "http://pamods.github.io/user_mods/hotkeyfix_cant_build_v1.0.zip"
-  },
   "inGameBrowser": {
     "display_name": "In Game Browser",
     "description": "Adds an in game web browser",
