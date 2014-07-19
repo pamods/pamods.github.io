@@ -1835,17 +1835,16 @@
     "context": "client",
     "identifier": "fr.mereth.pa.allgames",
     "author": "mereth",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "display_name": "Show All Games",
-    "description": "Filter both non-modded and modded games by default.",
-    "build": "67523",
-    "date": "2014/06/21",
+    "description": "Filter both non-modded and modded games by default. Also add colors to the modded column.",
+    "build": "68767",
+    "date": "2014/07/19",
     "category": [
       "lobby",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/5ec4c625b280f401e45b034f8b0dcfef260a21cf.zip",
-    "id": "mereth.allgames"
+    "url": "https://github.com/mereth/pa-mods/archive/d627c225c29cecdaeb8575d442febdad4909a30d.zip"
   },
   {
     "context": "client",
