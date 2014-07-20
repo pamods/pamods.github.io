@@ -2182,6 +2182,22 @@
   },
   {
     "context": "server",
+    "identifier": "com.pa.trialq.tAllianceBot",
+    "author": "trialq",
+    "version": "0.1",
+    "display_name": "Alliance Bot",
+    "description": "Writes dynamic alliances in chat whenever they change, so spectators know who's allied (players need to have the mod)",
+    "build": "68767",
+    "date": "2014/07/20",
+    "forum": "https://forums.uberent.com/threads/62078/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "https://github.com/trialq/tAllianceBot/archive/06bd8e155456e1fc36f85e1c812c29085919e4a9.zip"
+  },
+  {
+    "context": "server",
     "identifier": "com.pa.trialq.tCommYard",
     "author": "trialq",
     "version": "0.1.3",
