@@ -909,7 +909,6 @@
     "context": "client",
     "identifier": "com.pa.raevn.rblueprintinfoframework",
     "author": "Raevn",
-
     "version": "1.4.1",
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
@@ -1069,6 +1068,24 @@
     "icon": "http://i.imgur.com/J9MG5mX.png",
     "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.2.zip",
     "id": "inGameBrowser"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.sootn.stuffoverview",
+    "author": "sootn",
+    "version": "1.0.0",
+    "display_name": "Stuff Overview",
+    "description": "An overview of all your units and structures in a list.",
+    "dependencies": [],
+    "build": "68767",
+    "date": "2014/07/20",
+    "forum": "",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "http://pamods.github.io/user_mods/stuffoverview-v1.0.0.zip",
+    "id": "stuffoverview"
   },
   {
     "context": "client",
@@ -1260,6 +1277,22 @@
     "icon": "http://pamods.github.io/icons/eco_manager.png",
     "url": "http://pamods.github.io/user_mods/eco_manager_v1.2.zip",
     "id": "eco_manager"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tAllianceBot",
+    "author": "trialq",
+    "version": "0.1",
+    "display_name": "Alliance Bot",
+    "description": "Writes dynamic alliances in chat whenever they change, so spectators know who's allied (players need to have the mod)",
+    "build": "68767",
+    "date": "2014/07/20",
+    "forum": "https://forums.uberent.com/threads/62078/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "https://github.com/trialq/tAllianceBot/archive/06bd8e155456e1fc36f85e1c812c29085919e4a9.zip"
   },
   {
     "context": "client",
@@ -2180,22 +2213,6 @@
     "icon": "http://pamods.github.io/icons/bBoomBotWars.png",
     "url": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/bBoomBotWars/bBoomBotWars_v1.1.zip",
     "id": "bBoomBotWars"
-  },
-  {
-    "context": "client",
-    "identifier": "com.pa.trialq.tAllianceBot",
-    "author": "trialq",
-    "version": "0.1",
-    "display_name": "Alliance Bot",
-    "description": "Writes dynamic alliances in chat whenever they change, so spectators know who's allied (players need to have the mod)",
-    "build": "68767",
-    "date": "2014/07/20",
-    "forum": "https://forums.uberent.com/threads/62078/",
-    "category": [
-      "in-game",
-      "ui"
-    ],
-    "url": "https://github.com/trialq/tAllianceBot/archive/06bd8e155456e1fc36f85e1c812c29085919e4a9.zip"
   },
   {
     "context": "server",

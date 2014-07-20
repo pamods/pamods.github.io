@@ -1240,6 +1240,21 @@
     ],
     "url": "http://pamods.github.io/user_mods/sTeamNotes_v0.2.1.zip"
   },
+  "stuffoverview": {
+    "display_name": "Stuff Overview",
+    "description": "An overview of all your units and structures in a list.",
+    "author": "sootn",
+    "version": "1.0.0",
+    "build": "68767",
+    "date": "2014/07/20",
+    "forum": "",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "dependencies": [],
+    "url": "http://pamods.github.io/user_mods/stuffoverview-v1.0.0.zip"
+  },
   "subduedorbitalbooster": {
     "author": "Dementiurge",
     "build": "63234",
