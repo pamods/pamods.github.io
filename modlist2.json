@@ -909,6 +909,7 @@
     "context": "client",
     "identifier": "com.pa.raevn.rblueprintinfoframework",
     "author": "Raevn",
+
     "version": "1.4.1",
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
@@ -2181,7 +2182,7 @@
     "id": "bBoomBotWars"
   },
   {
-    "context": "server",
+    "context": "client",
     "identifier": "com.pa.trialq.tAllianceBot",
     "author": "trialq",
     "version": "0.1",
