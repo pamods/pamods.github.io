@@ -2278,12 +2278,12 @@
     "context": "server",
     "identifier": "com.squishypon3.balancedannihilation",
     "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
-    "version": "0.4.1",
+    "version": "0.5.5",
     "display_name": "Statera",
     "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
-    "date": "2014/07/09",
+    "date": "2014/07/21",
     "forum": "https://forums.uberent.com/threads/60342/",
-    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.4.1.zip"
+    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.5.5.zip"
   },
   {
     "context": "server",
