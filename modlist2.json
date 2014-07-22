@@ -909,6 +909,7 @@
     "context": "client",
     "identifier": "com.pa.raevn.rblueprintinfoframework",
     "author": "Raevn",
+
     "version": "1.4.1",
     "display_name": "Blueprint Info Framework",
     "description": "A Framework for obtaining unit, tool and ammo data",
@@ -1273,6 +1274,21 @@
       "ui"
     ],
     "url": "https://github.com/trialq/tAllianceBot/archive/06bd8e155456e1fc36f85e1c812c29085919e4a9.zip"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.trialq.tMatchMaking",
+    "author": "trialq",
+    "version": "0.1",
+    "display_name": "Match Making",
+    "description": "Exposes the match making partially implemented by Uber (not for mainstream use, WIP functionality is exposed for those who want to test it)",
+    "build": "68767",
+    "date": "2014/07/22",
+    "forum": "https://forums.uberent.com/threads/62125/",
+    "category": [
+      "in-game"
+    ],
+    "url": "https://github.com/trialq/tMatchMaking/archive/aa739ddfaed35205ac2fec0ed31ac63c212787cd.zip"
   },
   {
     "context": "client",
