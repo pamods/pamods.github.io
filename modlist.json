@@ -92,19 +92,19 @@
     "display_name": "Show Secondary Colour",
     "description": "Shows secondary colours in lobby, and allows you to select which you use.",
     "author": "burntcustard, DeathByDenim",
-    "version": "1.3",
-    "build": "62519",
-    "date": "2014/03/08",
+    "version": "1.4",
+    "build": "68767",
+    "date": "2014/07/25",
     "category": [
       "in-game",
       "ui"
     ],
     "forum": "https://forums.uberent.com/threads/rel-show-secondary-colour-v1-0-62168.57305/",
     "icon": "http://pamods.github.io/icons/bShowSecondaryColour.png",
-    "requires": [
-      "rSettingsManager"
+    "dependencies": [
+      "com.pa.raevn.pamm.rsettingsmanager"
     ],
-    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.3.zip"
+    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.4.zip"
   },
   "BuildPower": {
     "display_name": "Build Power",
