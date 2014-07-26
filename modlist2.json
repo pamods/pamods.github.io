@@ -801,14 +801,14 @@
     "context": "client",
     "identifier": "com.pa.proeleert.hotbuild2",
     "author": "proeleert,tripax,cola_colin",
-    "version": "1.24",
+    "version": "1.25",
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "dependencies": [
       "com.pa.raevn.rblueprintinfoframework"
     ],
-    "build": "68331",
-    "date": "2014/07/03",
+    "build": "68767",
+    "date": "2014/07/26",
     "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
     "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
     "category": [
@@ -816,7 +816,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/hotbuild2.png",
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.24.zip"
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.25.zip"
   },
   {
     "context": "client",
