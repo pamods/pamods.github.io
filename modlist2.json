@@ -1659,6 +1659,22 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.enable_custom_formations",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Enable Custom Formations",
+    "description": "Enable use of the WIP custom formations by right-button drag with move command.",
+    "build": "69564",
+    "date": "2014/07/26",
+    "forum": "https://forums.uberent.com/threads/rel-enable-custom-formations.62269/",
+    "category": [
+      "in-game",
+      "ui"
+    ],
+    "url": "https://github.com/JustinLove/enable_custom_formations/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.fabulous_selections",
     "author": "wondible",
     "version": "2.0.0",
