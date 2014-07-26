@@ -1864,16 +1864,16 @@
     "context": "client",
     "identifier": "fr.mereth.pa.allgames",
     "author": "mereth",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "display_name": "Show All Games",
     "description": "Filter both non-modded and modded games by default. Also add colors to the modded column.",
-    "build": "68767",
-    "date": "2014/07/19",
+    "build": "69564",
+    "date": "2014/07/26",
     "category": [
       "lobby",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/d627c225c29cecdaeb8575d442febdad4909a30d.zip"
+    "url": "https://github.com/mereth/pa-mods/archive/7671bf05b8868b1e307d660b58108312432a58ea.zip"
   },
   {
     "context": "client",
@@ -1895,33 +1895,31 @@
     "context": "client",
     "identifier": "fr.mereth.pa.startingplanet",
     "author": "mereth",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "display_name": "Show Starting Planets",
     "description": "Change color of starting planets name in server browser to green.",
-    "build": "66943",
-    "date": "2014/06/13",
+    "build": "69564",
+    "date": "2014/07/26",
     "category": [
       "lobby",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/79be818a6c21f0f64a3b75c7bca0c79656998ffb.zip",
-    "id": "mereth.startingplanet"
+    "url": "https://github.com/mereth/pa-mods/archive/7671bf05b8868b1e307d660b58108312432a58ea.zip"
   },
   {
     "context": "client",
     "identifier": "fr.mereth.pa.twentyfour",
     "author": "mereth",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "display_name": "Twenty-Four Hours",
     "description": "Change the 12AM/PM clock for a 24H clock.",
-    "build": "66943",
-    "date": "2014/06/13",
+    "build": "69564",
+    "date": "2014/07/26",
     "category": [
       "uberbar",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/79be818a6c21f0f64a3b75c7bca0c79656998ffb.zip",
-    "id": "mereth.twentyfour"
+    "url": "https://github.com/mereth/pa-mods/archive/7671bf05b8868b1e307d660b58108312432a58ea.zip"
   },
   {
     "context": "client",
