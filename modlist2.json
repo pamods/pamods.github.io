@@ -1776,6 +1776,23 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.sandbox_unit_organizer",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Sandbox Unit Organizer",
+    "description": "Puts the sandbox unit toolbox in order, and removes most not-normally-buildable units.  Incorporates the 'Sandbox Unit Toolbox' mod.",
+    "build": "69564",
+    "date": "2014/07/27",
+    "forum": "https://forums.uberent.com/threads/rel-sandbox-unit-organizer.62310/",
+    "category": [
+      "in-game",
+      "ui",
+      "modding"
+    ],
+    "url": "https://github.com/JustinLove/sandbox_unit_organizer/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.sandbox_unit_toolbox",
     "author": "wondible",
     "version": "1.0.0",
