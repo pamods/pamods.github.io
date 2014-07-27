@@ -1590,6 +1590,20 @@
   },
   {
     "context": "client",
+    "identifier": "com.stuart98.stateraicons",
+    "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
+    "version": "0.7",
+    "display_name": "Statera Icons",
+    "description": "Enanbles icons in Statera.",
+    "build": "69564",
+    "date": "2014/07/27",
+    "category": [
+      "Strategic Icons"
+    ],
+    "url": "http://pamods.github.io/user_mods/StateraIcons.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.uberent.pa.mods.client.teamlathecolor",
     "author": "TrophySystem",
     "version": "1.0.0",
