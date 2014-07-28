@@ -1592,7 +1592,7 @@
     "context": "client",
     "identifier": "com.stuart98.stateragw",
     "author": "SquishyPon3, TheTrophySystem, Zombiefan564, Stuart98, ZX0",
-    "version": "0.7.1",
+    "version": "0.7.2",
     "display_name": "Statera Galactic War Edition",
     "description": "A version of Statera compiled for the Galactic War. Can and likely will break who the heck knows what.",
     "build": "69564",
@@ -2354,12 +2354,12 @@
     "context": "server",
     "identifier": "com.squishypon3.balancedannihilation",
     "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
-    "version": "0.7.1",
+    "version": "0.7.2",
     "display_name": "Statera",
     "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
     "date": "2014/07/27",
     "forum": "https://forums.uberent.com/threads/60342/",
-    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.7.1.zip"
+    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.7.2.zip"
   },
   {
     "context": "server",
