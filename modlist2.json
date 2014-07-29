@@ -1754,21 +1754,6 @@
   },
   {
     "context": "client",
-    "identifier": "com.wondible.pa.hotkeyfix_cant_build",
-    "author": "wondible",
-    "version": "1.1.0",
-    "display_name": "Hotkeyfix Cant Build",
-    "description": "Hotfix for inability to click after using hotkeys. 67342-69025",
-    "build": "68767",
-    "date": "2014/07/19",
-    "forum": "https://forums.uberent.com/threads/rel-hotkeyfix-cant-build-67342-67523.60864/",
-    "category": [
-      "hotfix"
-    ],
-    "url": "https://github.com/JustinLove/hotkeyfix_cant_build/archive/v1.1.zip"
-  },
-  {
-    "context": "client",
     "identifier": "com.wondible.pa.instant_sandbox",
     "author": "wondible",
     "version": "2.1.0",
