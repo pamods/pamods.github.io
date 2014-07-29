@@ -1592,15 +1592,15 @@
     "context": "client",
     "identifier": "com.stuart98.darknights",
     "author": "Stuart98, bgolus",
-    "version": "1.0",
+    "version": "1.1",
     "display_name": "Dark Nights",
     "description": "Makes nights much, much darker..",
     "build": "69564",
-    "date": "2014/07/28",
+    "date": "2014/07/29",
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/darknights_v1.0.zip"
+    "url": "http://pamods.github.io/user_mods/darknights_v1.1.zip"
   },
   {
     "context": "client",
