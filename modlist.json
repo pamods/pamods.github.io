@@ -1102,22 +1102,6 @@
     "build": "62168",
     "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.2.0.zip"
   },
-  "sandbox_biome": {
-    "author": "wondible",
-    "build": "66830",
-    "category": [
-      "system-editor",
-      "ui"
-    ],
-    "date": "2014/06/01",
-    "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
-    "display_name": "Sandbox Biome",
-    "forum": null,
-    "icon": "http://pamods.github.io/icons/sandbox_biome.png",
-    "requires": [],
-    "version": "1.1.0",
-    "url": "http://pamods.github.io/user_mods/sandbox_biome_v1.1.zip"
-  },
   "sandbox_unit_toolbox": {
     "author": "wondible",
     "build": "67249-main",
