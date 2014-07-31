@@ -1970,6 +1970,21 @@
   },
   {
     "context": "client",
+    "identifier": "fr.mereth.pa.savefilters",
+    "author": "mereth",
+    "version": "1.0.0",
+    "display_name": "Save Server Browser Filters",
+    "description": "You don't like the default filters in the server browser ? This mod will automatically save your selection.",
+    "build": "69721",
+    "date": "2014/07/31",
+    "category": [
+      "lobby",
+      "ui"
+    ],
+    "url": "https://github.com/mereth/pa-mods/archive/9d3fb4436476a36833eebefd6070a1e2e4adbcf6.zip"
+  },
+  {
+    "context": "client",
     "identifier": "fr.mereth.pa.startingplanet",
     "author": "mereth",
     "version": "1.1.0",
