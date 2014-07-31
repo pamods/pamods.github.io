@@ -1769,6 +1769,22 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.improved_player_control",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Improved Player Control",
+    "description": "Provide larger hitboxes for switching players, keybinds, and better indication of the selected player.",
+    "build": "69721",
+    "date": "2014/07/31",
+    "forum": "https://forums.uberent.com/threads/rel-improved-player-control.62472/",
+    "category": [
+      "sandbox",
+      "ui"
+    ],
+    "url": "https://github.com/JustinLove/improved_player_control/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.instant_sandbox",
     "author": "wondible",
     "version": "2.1.0",
