@@ -1089,20 +1089,37 @@
   },
   {
     "context": "client",
+    "identifier": "com.pa.stuart98.ableprogenitor",
+    "author": "Stuart98",
+    "version": "1.0",
+    "display_name": "Able Progenitor",
+    "description": "Applies the now unused Able commander textures to the Progenitor.",
+    "build": "69564",
+    "date": "2014/08/01",
+    "category": [
+      "Texture",
+      "Commander"
+    ],
+    "icon": "http://pamods.github.io/icons/ableprogenitor.png",
+    "url": "http://pamods.github.io/user_mods/ableprogenitor_v1.0.zip",
+    "id": "ableprogenitor"
+  },
+  {
+    "context": "client",
     "identifier": "com.pa.stuart98.alphaenergy",
     "author": "Stuart98",
-    "version": "1.2",
+    "version": "1.3",
     "display_name": "Alpha Energy Plant",
     "description": "Replaces the energy plant model with one from the Alpha.",
-    "build": "68568",
-    "date": "2014/07/08",
+    "build": "69564",
+    "date": "2014/08/01",
     "forum": "https://forums.uberent.com/threads/rel-alpha-energy-plant.59545/",
     "category": [
       "Model",
       "Energy Plant"
     ],
     "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
-    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.2.zip",
+    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.3.zip",
     "id": "alphaenergy"
   },
   {
