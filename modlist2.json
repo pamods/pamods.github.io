@@ -1606,44 +1606,32 @@
     "context": "client",
     "identifier": "com.stuart98.stateragw",
     "author": "SquishyPon3, TheTrophySystem, Zombiefan564, Stuart98, ZX0",
-<<<<<<< HEAD
     "version": "0.8.0",
     "display_name": "Statera Galactic War Edition",
     "description": "A version of Statera compiled for the Galactic War. Can and likely will break who the heck knows what.",
     "build": "69564",
     "date": "2014/08/01",
-=======
-    "version": "0.7.98",
-    "display_name": "Statera Galactic War Edition",
-    "description": "A version of Statera compiled for the Galactic War. Can and likely will break who the heck knows what.",
-    "build": "69564",
-    "date": "2014/07/31",
->>>>>>> origin/master
     "forum": "https://forums.uberent.com/threads/wip-server-mod-statera-balance-mod.60342/",
     "category": [
       "Galactic War",
       "Balance"
     ],
-<<<<<<< HEAD
     "url": "http://pamods.github.io/user_mods/StateraGW_v0.8.0.zip"
-=======
-    "url": "http://pamods.github.io/user_mods/StateraGW_v0.7.98.zip"
->>>>>>> origin/master
   },
   {
     "context": "client",
     "identifier": "com.stuart98.stateraicons",
     "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
-    "version": "0.7",
+    "version": "0.8.0",
     "display_name": "Statera Icons",
     "description": "Enanbles icons in Statera.",
     "build": "69564",
-    "date": "2014/07/27",
+    "date": "2014/08/01",
     "forum": "https://forums.uberent.com/threads/wip-server-mod-statera-balance-mod.60342/",
     "category": [
       "Strategic Icons"
     ],
-    "url": "http://pamods.github.io/user_mods/StateraIcons_v0.7.zip"
+    "url": "http://pamods.github.io/user_mods/StateraIcons_v0.8.0.zip"
   },
   {
     "context": "client",
@@ -2411,21 +2399,12 @@
     "context": "server",
     "identifier": "com.squishypon3.balancedannihilation",
     "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
-<<<<<<< HEAD
     "version": "0.8.0",
     "display_name": "Statera",
     "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
     "date": "2014/08/01",
     "forum": "https://forums.uberent.com/threads/60342/",
     "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.8.0.zip"
-=======
-    "version": "0.7.98",
-    "display_name": "Statera",
-    "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
-    "date": "2014/07/31",
-    "forum": "https://forums.uberent.com/threads/60342/",
-    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.7.98.zip"
->>>>>>> origin/master
   },
   {
     "context": "server",
