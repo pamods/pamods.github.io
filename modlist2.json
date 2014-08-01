@@ -1704,6 +1704,22 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.bulk_create_units",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Bulk Create Units",
+    "description": "Adds hotkey for pasting 10 or N units with the create-unit cheat.",
+    "build": "69721",
+    "date": "2014/08/01",
+    "forum": "https://forums.uberent.com/threads/rel-bulk-create-units.62492/",
+    "category": [
+      "sandbox",
+      "ui"
+    ],
+    "url": "https://github.com/JustinLove/bulk_create_units/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.enable_custom_formations",
     "author": "wondible",
     "version": "1.0.0",
