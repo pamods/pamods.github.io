@@ -540,18 +540,18 @@
     "context": "client",
     "identifier": "com.pa.conundrum.cShareSystems",
     "author": "Captain Conundrum",
-    "version": "1.4.5",
+    "version": "1.4.6",
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. eXodus eSports, PACE, and The Realm maps are available as well.",
     "dependencies": [],
     "build": "69564",
-    "date": "2014/07/26",
+    "date": "2014/07/29",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.5.zip",
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.6.zip",
     "id": "cShareSystems"
   },
   {
@@ -801,14 +801,14 @@
     "context": "client",
     "identifier": "com.pa.proeleert.hotbuild2",
     "author": "proeleert,tripax,cola_colin",
-    "version": "1.25",
+    "version": "1.26",
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "dependencies": [
       "com.pa.raevn.rblueprintinfoframework"
     ],
-    "build": "68767",
-    "date": "2014/07/26",
+    "build": "69721",
+    "date": "2014/07/31",
     "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
     "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
     "category": [
@@ -816,7 +816,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/hotbuild2.png",
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.25.zip"
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.26.zip"
   },
   {
     "context": "client",
@@ -1592,31 +1592,43 @@
     "context": "client",
     "identifier": "com.stuart98.darknights",
     "author": "Stuart98, bgolus",
-    "version": "1.1",
+    "version": "1.2",
     "display_name": "Dark Nights",
     "description": "Makes nights much, much darker..",
     "build": "69564",
-    "date": "2014/07/29",
+    "date": "2014/07/31",
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/darknights_v1.1.zip"
+    "url": "http://pamods.github.io/user_mods/darknights_v1.2.zip"
   },
   {
     "context": "client",
     "identifier": "com.stuart98.stateragw",
     "author": "SquishyPon3, TheTrophySystem, Zombiefan564, Stuart98, ZX0",
+<<<<<<< HEAD
     "version": "0.8.0",
     "display_name": "Statera Galactic War Edition",
     "description": "A version of Statera compiled for the Galactic War. Can and likely will break who the heck knows what.",
     "build": "69564",
     "date": "2014/08/01",
+=======
+    "version": "0.7.98",
+    "display_name": "Statera Galactic War Edition",
+    "description": "A version of Statera compiled for the Galactic War. Can and likely will break who the heck knows what.",
+    "build": "69564",
+    "date": "2014/07/31",
+>>>>>>> origin/master
     "forum": "https://forums.uberent.com/threads/wip-server-mod-statera-balance-mod.60342/",
     "category": [
       "Galactic War",
       "Balance"
     ],
+<<<<<<< HEAD
     "url": "http://pamods.github.io/user_mods/StateraGW_v0.8.0.zip"
+=======
+    "url": "http://pamods.github.io/user_mods/StateraGW_v0.7.98.zip"
+>>>>>>> origin/master
   },
   {
     "context": "client",
@@ -1769,6 +1781,22 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.improved_player_control",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Improved Player Control",
+    "description": "Provide larger hitboxes for switching players, keybinds, and better indication of the selected player.",
+    "build": "69721",
+    "date": "2014/07/31",
+    "forum": "https://forums.uberent.com/threads/rel-improved-player-control.62472/",
+    "category": [
+      "sandbox",
+      "ui"
+    ],
+    "url": "https://github.com/JustinLove/improved_player_control/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.instant_sandbox",
     "author": "wondible",
     "version": "2.1.0",
@@ -1805,19 +1833,18 @@
     "context": "client",
     "identifier": "com.wondible.pa.sandbox_biome",
     "author": "wondible",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "display_name": "Sandbox Biome",
     "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
-    "dependencies": [],
-    "build": "66830",
-    "date": "2014/06/01",
+    "build": "69564",
+    "date": "2014/07/29",
+    "forum": "https://forums.uberent.com/threads/rel-sandbox-biome-1-1-66830.59086/",
     "category": [
       "system-editor",
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/sandbox_biome.png",
-    "url": "http://pamods.github.io/user_mods/sandbox_biome_v1.1.zip",
-    "id": "sandbox_biome"
+    "url": "https://github.com/JustinLove/sandbox_biome/archive/v1.2.0.zip"
   },
   {
     "context": "client",
@@ -1968,6 +1995,21 @@
     ],
     "url": "https://github.com/mereth/pa-mods/archive/b8e78dd366f7add81e31264d8781efa6b3ffb0cb.zip",
     "id": "mereth.replay"
+  },
+  {
+    "context": "client",
+    "identifier": "fr.mereth.pa.savefilters",
+    "author": "mereth",
+    "version": "1.0.0",
+    "display_name": "Save Server Browser Filters",
+    "description": "You don't like the default filters in the server browser ? This mod will automatically save your selection.",
+    "build": "69721",
+    "date": "2014/07/31",
+    "category": [
+      "lobby",
+      "ui"
+    ],
+    "url": "https://github.com/mereth/pa-mods/archive/9d3fb4436476a36833eebefd6070a1e2e4adbcf6.zip"
   },
   {
     "context": "client",
@@ -2369,12 +2411,21 @@
     "context": "server",
     "identifier": "com.squishypon3.balancedannihilation",
     "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
+<<<<<<< HEAD
     "version": "0.8.0",
     "display_name": "Statera",
     "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
     "date": "2014/08/01",
     "forum": "https://forums.uberent.com/threads/60342/",
     "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.8.0.zip"
+=======
+    "version": "0.7.98",
+    "display_name": "Statera",
+    "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
+    "date": "2014/07/31",
+    "forum": "https://forums.uberent.com/threads/60342/",
+    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.7.98.zip"
+>>>>>>> origin/master
   },
   {
     "context": "server",

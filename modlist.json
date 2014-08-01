@@ -308,16 +308,16 @@
     "display_name": "System Sharing",
     "description": "Share your favorite systems with other users. eXodus eSports, PACE, and The Realm maps are available as well.",
     "author": "Captain Conundrum",
-    "version": "1.4.5",
+    "version": "1.4.6",
     "build": "69564",
-    "date": "2014/07/26",
+    "date": "2014/07/29",
     "forum": "https://forums.uberent.com/threads/rel-system-sharing.56319/",
     "category": [
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
     "dependencies": [],
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.5.zip"
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.6.zip"
   },
   "cSketchJS": {
     "display_name": "Sketch Tools For Casters",
@@ -1101,22 +1101,6 @@
     "date": "2014/03/03",
     "build": "62168",
     "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.2.0.zip"
-  },
-  "sandbox_biome": {
-    "author": "wondible",
-    "build": "66830",
-    "category": [
-      "system-editor",
-      "ui"
-    ],
-    "date": "2014/06/01",
-    "description": "Enable the grid sandbox biome in the system editor, just in case moon isn't flat enough.",
-    "display_name": "Sandbox Biome",
-    "forum": null,
-    "icon": "http://pamods.github.io/icons/sandbox_biome.png",
-    "requires": [],
-    "version": "1.1.0",
-    "url": "http://pamods.github.io/user_mods/sandbox_biome_v1.1.zip"
   },
   "sandbox_unit_toolbox": {
     "author": "wondible",
