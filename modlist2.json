@@ -2441,6 +2441,18 @@
   },
   {
     "context": "server",
+    "identifier": "com.wondible.pa.puppetmaster",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Puppetmaster",
+    "description": "Allow specators to create and control units.",
+    "build": "69721",
+    "date": "2014/08/02",
+    "forum": "https://forums.uberent.com/threads/wip-server-puppetmaster.62005/",
+    "url": "http://wondible.com/pa/puppetmaster_v1.0.zip"
+  },
+  {
+    "context": "server",
     "identifier": "info.nanodesu.murderparty",
     "author": "Cola_Colin",
     "version": "0.1",
