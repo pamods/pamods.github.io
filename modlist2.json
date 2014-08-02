@@ -601,17 +601,17 @@
     "context": "client",
     "identifier": "com.pa.danzel.dBetterSystemView",
     "author": "danzel",
-    "version": "1.3",
+    "version": "1.4",
     "display_name": "Better System View",
-    "description": "Adds a Metal Spot count to the System View and makes it show all the time.",
-    "build": "63234",
-    "date": "2014/03/24",
+    "description": "Adds a Metal Spot count to the System View.",
+    "build": "69721",
+    "date": "2014/08/03",
     "forum": "https://forums.uberent.com/threads/rel-better-system-view-55089.52922/",
     "category": [
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.3.zip",
+    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.4.zip",
     "id": "dBetterSystemView"
   },
   {
