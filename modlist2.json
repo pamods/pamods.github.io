@@ -2334,18 +2334,18 @@
     "context": "server",
     "identifier": "com.pa.burntcustard.bBoomBotWars",
     "author": "burntcustard",
-    "version": "1.1",
+    "version": "1.3",
     "display_name": "Boom Bot Wars",
     "description": "All structures and units assist in the destruction of your enemies through extreme Boom Bot usage.",
-    "build": "68767",
-    "date": "2014/07/11",
+    "build": "69721",
+    "date": "2014/08/02",
     "forum": "https://forums.uberent.com/threads/rel-boom-bot-wars.61879/",
     "category": [
       "in-game",
       "server-mod"
     ],
     "icon": "http://pamods.github.io/icons/bBoomBotWars.png",
-    "url": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/bBoomBotWars/bBoomBotWars_v1.1.zip",
+    "url": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/bBoomBotWars/bBoomBotWars_v1.3.zip",
     "id": "bBoomBotWars"
   },
   {
