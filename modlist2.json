@@ -683,13 +683,13 @@
   {
     "context": "client",
     "identifier": "com.pa.gtc.gw_extended_system_moves",
-    "author": "GTC-Gonzo",
+    "author": "gonzo4711",
     "version": "1.1",
     "display_name": "Galactic War extended System moves",
     "description": "GW: Move over any explored systems",
     "dependencies": [],
     "build": "67523",
-    "date": "2014/06/25",
+    "date": "2014/08/03",
     "forum": "https://forums.uberent.com/threads/rel-gw-extended-system-moves.61026/",
     "category": [
       "in-game",
@@ -697,6 +697,24 @@
     ],
     "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.1.zip",
     "id": "gtcGWExtendedSystemMoves"
+  },
+  {
+    "context": "client",
+    "identifier": "com.pa.gtc.settingsmanager",
+    "author": "gonzo4711",
+    "version": "2.0",
+    "display_name": "GTC Settings Manager",
+    "description": "Framework for extended settings",
+    "dependencies": [],
+    "build": "69721",
+    "date": "2014/08/02",
+    "forum": "https://forums.uberent.com/threads/wip-more-settings-manager.61034/",
+    "category": [
+      "Framework"
+    ],
+    "icon": "http://pamods.github.io/icons/gtcsettingsm.png",
+    "url": "http://pamods.github.io/user_mods/gtcSettingsManager_v2.0.zip",
+    "id": "gtcSettingsManager"
   },
   {
     "context": "client",
