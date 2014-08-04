@@ -602,16 +602,16 @@
     "display_name": "GTC Settings Manager",
     "description": "Framework for extended settings",
     "author": "gonzo4711",
-    "version": "2.0",
+    "version": "2.1",
     "forum": "https://forums.uberent.com/threads/wip-more-settings-manager.61034/",
     "category": [
       "Framework"
     ],
     "icon": "http://pamods.github.io/icons/gtcsettingsm.png",
-    "date": "2014/08/02",
+    "date": "2014/08/04",
     "build": "69721",
     "dependencies": [],
-    "url": "http://pamods.github.io/user_mods/gtcSettingsManager_v2.0.zip"
+    "url": "http://pamods.github.io/user_mods/gtcSettingsManager_v2.1.zip"
   },
   "HideFogOfWar": {
     "display_name": "Hide Fog of War",
