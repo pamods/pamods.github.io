@@ -1854,6 +1854,21 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.lightweight_menus",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Lightweight Menus",
+    "description": "Remove expensive elements from the out-of-game UI to to improve responsiveness.",
+    "build": "69721",
+    "date": "2014/08/03",
+    "forum": "https://forums.uberent.com/threads/rel-lightweight-menus.62586/",
+    "category": [
+      "ui"
+    ],
+    "url": "https://github.com/JustinLove/lightweight_menus/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.reconnect_button",
     "author": "wondible",
     "version": "2.1.0",
