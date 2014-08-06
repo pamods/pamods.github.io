@@ -1670,16 +1670,16 @@
     "context": "client",
     "identifier": "com.stuart98.stateraicons",
     "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "display_name": "Statera Icons",
     "description": "Enanbles icons in Statera.",
     "build": "69564",
-    "date": "2014/08/01",
+    "date": "2014/08/06",
     "forum": "https://forums.uberent.com/threads/wip-server-mod-statera-balance-mod.60342/",
     "category": [
       "Strategic Icons"
     ],
-    "url": "http://pamods.github.io/user_mods/StateraIcons_v0.8.0.zip"
+    "url": "http://pamods.github.io/user_mods/StateraIcons_v0.8.1.zip"
   },
   {
     "context": "client",
