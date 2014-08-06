@@ -1639,6 +1639,19 @@
   },
   {
     "context": "client",
+    "identifier": "com.stuart98.desertrevamp.client",
+    "author": "Stuart98",
+    "version": "0.0.1",
+    "display_name": "Desert Revamp Expansion (Client)",
+    "description": "Replaces the sandbox biome with the good old deserts from alpha/early beta. Client side portion of mod, allows planets to be made in system editor and contains textures for the rock formations.",
+    "date": "2014/08/05",
+    "category": [
+      "system editor"
+    ],
+    "url": "http://pamods.github.io/user_mods/desertrevampclient_v0.0.1.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.stuart98.stateragw",
     "author": "SquishyPon3, TheTrophySystem, Zombiefan564, Stuart98, ZX0",
     "version": "0.8.1",
@@ -2487,6 +2500,19 @@
     "date": "2014/08/03",
     "forum": "https://forums.uberent.com/threads/60342/",
     "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.8.1.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.stuart98.server.desertrevamp",
+    "author": "Stuart98",
+    "version": "0.0.1",
+    "display_name": "Desert Revamp Expansion",
+    "description": "Changes the sandbox biome to the good old deserts form Alpha/early Beta. Server side portion of the mod, allows hosted games to use the new deserts. For textures you need the client side version.",
+    "category": [
+      "in-game",
+      "server-mod"
+    ],
+    "url": "http://pamods.github.io/server_mods/desertrevampserver_v0.0.1.zip"
   },
   {
     "context": "server",
