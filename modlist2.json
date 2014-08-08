@@ -10,8 +10,7 @@
     "category": [
       "system editor"
     ],
-    "url": "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.2.zip",
-    "id": "cliffPlanetsAE"
+    "url": "http://pamods.github.io/user_mods/cliffPlanetsAE_v0.0.2.zip"
   },
   {
     "context": "client",
@@ -27,8 +26,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/pa_strat_build_icons_v1.zip",
-    "id": "pa_strat_build_icons"
+    "url": "http://pamods.github.io/user_mods/pa_strat_build_icons_v1.zip"
   },
   {
     "context": "client",
@@ -43,8 +41,7 @@
     "category": [
       "Bugfix"
     ],
-    "url": "http://pamods.github.io/user_mods/MouseFix_v1.0.zip",
-    "id": "MouseFix"
+    "url": "http://pamods.github.io/user_mods/MouseFix_v1.0.zip"
   },
   {
     "context": "client",
@@ -69,8 +66,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/dFavouriteColour.png",
-    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.4.zip",
-    "id": "dFavouriteColour"
+    "url": "http://pamods.github.io/user_mods/dFavouriteColour_v1.4.zip"
   },
   {
     "context": "client",
@@ -96,8 +92,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/dNotes.png",
-    "url": "http://pamods.github.io/user_mods/dNotes_v1.3.2.zip",
-    "id": "dNotes"
+    "url": "http://pamods.github.io/user_mods/dNotes_v1.3.2.zip"
   },
   {
     "context": "client",
@@ -119,8 +114,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/dPlayersInServerBrowser.png",
-    "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.1.zip",
-    "id": "dPlayersInServerBrowser"
+    "url": "http://pamods.github.io/user_mods/dPlayersInServerBrowser_v1.1.zip"
   },
   {
     "context": "client",
@@ -142,8 +136,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/dShowOffline.png",
-    "url": "http://pamods.github.io/user_mods/dShowOffline_v1.1.zip",
-    "id": "dShowOffline"
+    "url": "http://pamods.github.io/user_mods/dShowOffline_v1.1.zip"
   },
   {
     "context": "client",
@@ -160,8 +153,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/AntIcon.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_Ant.zip",
-    "id": "LavaSnakes_Ant"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_Ant.zip"
   },
   {
     "context": "client",
@@ -181,8 +173,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/UnitRenamer.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-71.zip",
-    "id": "LavaSnakes_CustomUnitNames"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomUnitNames_v1-71.zip"
   },
   {
     "context": "client",
@@ -201,8 +192,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-8.zip",
-    "id": "LavaSnakes_CustomInGameTimers"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_CustomInGameTimers_v1-8.zip"
   },
   {
     "context": "client",
@@ -222,8 +212,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/ProfilePicFixer.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v2-2.zip",
-    "id": "LavaSnakes_ProfilePicFixer"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_ProfilePicFixer_v2-2.zip"
   },
   {
     "context": "client",
@@ -240,8 +229,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/StargateBugFix.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip",
-    "id": "LavaSnakes_StargateBugFix"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateBugFix_v1.zip"
   },
   {
     "context": "client",
@@ -262,8 +250,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/StargateBugFix.png",
-    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateUnitNames_v1-2.zip",
-    "id": "LavaSnakes_StargateUnitNames"
+    "url": "http://pamods.github.io/user_mods/LavaSnakes_StargateUnitNames_v1-2.zip"
   },
   {
     "context": "client",
@@ -281,8 +268,7 @@
       "ui"
     ],
     "icon": "https://dl.dropboxusercontent.com/u/22720750/new.jpg",
-    "url": "http://pamods.github.io/user_mods/MushrooMarsRainbow_2.zip",
-    "id": "MushroomarsRainbow"
+    "url": "http://pamods.github.io/user_mods/MushrooMarsRainbow_2.zip"
   },
   {
     "context": "client",
@@ -304,8 +290,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/bAnchorButtons.png",
-    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip",
-    "id": "bAnchorButtons"
+    "url": "http://pamods.github.io/user_mods/bAnchorButtons_v1.7.zip"
   },
   {
     "context": "client",
@@ -320,8 +305,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/bRemoveAlertPIPs_v1.0.zip",
-    "id": "bRemoveAlertPIPs"
+    "url": "http://pamods.github.io/user_mods/bRemoveAlertPIPs_v1.0.zip"
   },
   {
     "context": "client",
@@ -341,8 +325,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/bShowSecondaryColour.png",
-    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.4.zip",
-    "id": "bShowSecondaryColour"
+    "url": "http://pamods.github.io/user_mods/bShowSecondaryColour_v1.4.zip"
   },
   {
     "context": "client",
@@ -359,8 +342,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/bUITweaks.png",
-    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.01.zip",
-    "id": "bUITweaks"
+    "url": "http://pamods.github.io/user_mods/bUITweaks_v1.01.zip"
   },
   {
     "context": "client",
@@ -376,8 +358,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip",
-    "id": "modbatch"
+    "url": "http://pamods.github.io/user_mods/modbatch_v1.1.zip"
   },
   {
     "context": "client",
@@ -396,8 +377,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/cCameraHotkeys_v1.0.3.zip",
-    "id": "cCameraHotkeys"
+    "url": "http://pamods.github.io/user_mods/cCameraHotkeys_v1.0.3.zip"
   },
   {
     "context": "client",
@@ -417,8 +397,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cDraggablePip.png",
-    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.1.4.zip",
-    "id": "cDraggablePip"
+    "url": "http://pamods.github.io/user_mods/cDraggablePip_v1.1.4.zip"
   },
   {
     "context": "client",
@@ -433,8 +412,7 @@
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip",
-    "id": "cEnhancedSystemPreview"
+    "url": "http://pamods.github.io/user_mods/cEnhancedSystemPreview_v1.1.0.zip"
   },
   {
     "context": "client",
@@ -456,8 +434,7 @@
       "sound"
     ],
     "icon": "http://pamods.github.io/icons/cGGButton.png",
-    "url": "http://pamods.github.io/user_mods/cGGButton_v1.0.2.zip",
-    "id": "cGGButton"
+    "url": "http://pamods.github.io/user_mods/cGGButton_v1.0.2.zip"
   },
   {
     "context": "client",
@@ -473,8 +450,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cLobbyRenamer.gif",
-    "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.1.zip",
-    "id": "cLobbyRenamer"
+    "url": "http://pamods.github.io/user_mods/cLobbyRenamer_v1.1.1.zip"
   },
   {
     "context": "client",
@@ -495,8 +471,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cPAStatsCharts.png",
-    "url": "http://pamods.github.io/user_mods/cPAStatsCharts_v1.1.1.zip",
-    "id": "cPAStatsCharts"
+    "url": "http://pamods.github.io/user_mods/cPAStatsCharts_v1.1.1.zip"
   },
   {
     "context": "client",
@@ -515,8 +490,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cPlanetNameThemes.png",
-    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.2.zip",
-    "id": "cPlanetNameThemes"
+    "url": "http://pamods.github.io/user_mods/cPlanetNameThemes_v1.2.zip"
   },
   {
     "context": "client",
@@ -533,8 +507,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cPlanetPips.png",
-    "url": "http://pamods.github.io/user_mods/cPlanetPips_v1.0.0.zip",
-    "id": "cPlanetPips"
+    "url": "http://pamods.github.io/user_mods/cPlanetPips_v1.0.0.zip"
   },
   {
     "context": "client",
@@ -551,8 +524,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cShareSystems.png",
-    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.6.zip",
-    "id": "cShareSystems"
+    "url": "http://pamods.github.io/user_mods/cShareSystems_v1.4.6.zip"
   },
   {
     "context": "client",
@@ -572,8 +544,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/cSketchJS.png",
-    "url": "http://pamods.github.io/user_mods/cSketchJS_v1.2.0.zip",
-    "id": "cSketchJS"
+    "url": "http://pamods.github.io/user_mods/cSketchJS_v1.2.0.zip"
   },
   {
     "context": "client",
@@ -594,8 +565,7 @@
       "in-game",
       "pip"
     ],
-    "url": "http://pamods.github.io/user_mods/cTrackingPips_v1.2.0.zip",
-    "id": "cTrackingPips"
+    "url": "http://pamods.github.io/user_mods/cTrackingPips_v1.2.0.zip"
   },
   {
     "context": "client",
@@ -611,8 +581,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.4.zip",
-    "id": "dBetterSystemView"
+    "url": "http://pamods.github.io/user_mods/dBetterSystemView_v1.4.zip"
   },
   {
     "context": "client",
@@ -628,8 +597,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip",
-    "id": "dReminderTimer"
+    "url": "http://pamods.github.io/user_mods/dReminderTimer_v1.2.1.zip"
   },
   {
     "context": "client",
@@ -648,8 +616,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip",
-    "id": "teamspeak"
+    "url": "http://pamods.github.io/user_mods/teamspeak_v1.0.1.zip"
   },
   {
     "context": "client",
@@ -664,8 +631,7 @@
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/advancedplanetdetails_v2-0.zip",
-    "id": "advancedplanetdetails"
+    "url": "http://pamods.github.io/user_mods/advancedplanetdetails_v2-0.zip"
   },
   {
     "context": "client",
@@ -677,8 +643,7 @@
     "build": "63234",
     "date": "2014/03/23",
     "forum": "http://forums.uberent.com/threads/subdued-orbital-booster.58182/",
-    "url": "http://pamods.github.io/user_mods/subduedbooster_v1.0.1.zip",
-    "id": "subduedorbitalbooster"
+    "url": "http://pamods.github.io/user_mods/subduedbooster_v1.0.1.zip"
   },
   {
     "context": "client",
@@ -695,8 +660,7 @@
       "in-game",
       "galactic-war"
     ],
-    "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.1.zip",
-    "id": "gtcGWExtendedSystemMoves"
+    "url": "http://pamods.github.io/user_mods/gtcGWExtendedSystemMoves_v1.1.zip"
   },
   {
     "context": "client",
@@ -713,8 +677,7 @@
       "Framework"
     ],
     "icon": "http://pamods.github.io/icons/gtcsettingsm.png",
-    "url": "http://pamods.github.io/user_mods/gtcSettingsManager_v2.1.zip",
-    "id": "gtcSettingsManager"
+    "url": "http://pamods.github.io/user_mods/gtcSettingsManager_v2.1.zip"
   },
   {
     "context": "client",
@@ -732,8 +695,7 @@
     "category": [
       "framework"
     ],
-    "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip",
-    "id": "mAdvancedSelect"
+    "url": "http://pamods.github.io/user_mods/mAdvancedSelect_v1.0.zip"
   },
   {
     "context": "client",
@@ -748,8 +710,7 @@
     "category": [
       "framework"
     ],
-    "url": "http://pamods.github.io/user_mods/mEventHandler_v1.2.zip",
-    "id": "mEventHandler"
+    "url": "http://pamods.github.io/user_mods/mEventHandler_v1.2.zip"
   },
   {
     "context": "client",
@@ -760,8 +721,7 @@
     "description": "Changes all the circle builds to line build (metal+energy storage)",
     "build": "61450",
     "date": "2014/02/21",
-    "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip",
-    "id": "circleToLine"
+    "url": "http://pamods.github.io/user_mods/circleToLine_v1.1.zip"
   },
   {
     "context": "client",
@@ -776,8 +736,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/lineToCircle_v1.0.zip",
-    "id": "lineToCircle"
+    "url": "http://pamods.github.io/user_mods/lineToCircle_v1.0.zip"
   },
   {
     "context": "client",
@@ -793,8 +752,7 @@
       "Strategic Icons"
     ],
     "icon": "http://pamods.github.io/icons/transicons.png",
-    "url": "http://pamods.github.io/user_mods/transicons_v4.1.zip",
-    "id": "transicons"
+    "url": "http://pamods.github.io/user_mods/transicons_v4.1.zip"
   },
   {
     "context": "client",
@@ -812,8 +770,7 @@
       "ui",
       "in-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip",
-    "id": "SupremeCommanderIcons"
+    "url": "http://pamods.github.io/user_mods/SupremeCommanderIcons_v1.0.zip"
   },
   {
     "context": "client",
@@ -853,8 +810,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/rAlertsFilter_v1.0.0.zip",
-    "id": "rAlertsFilter"
+    "url": "http://pamods.github.io/user_mods/rAlertsFilter_v1.0.0.zip"
   },
   {
     "context": "client",
@@ -871,8 +827,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip",
-    "id": "rChronoClick"
+    "url": "http://pamods.github.io/user_mods/rChronoClick_v1.0.0.zip"
   },
   {
     "context": "client",
@@ -887,8 +842,7 @@
     "category": [
       "Framework"
     ],
-    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.6.0.zip",
-    "id": "rSettingsManager"
+    "url": "http://pamods.github.io/user_mods/rSettingsManager_v1.6.0.zip"
   },
   {
     "context": "client",
@@ -903,8 +857,7 @@
     "category": [
       "in-game"
     ],
-    "url": "http://pamods.github.io/user_mods/rChatPlayerColour_v1.2.1.zip",
-    "id": "rChatPlayerColour"
+    "url": "http://pamods.github.io/user_mods/rChatPlayerColour_v1.2.1.zip"
   },
   {
     "context": "client",
@@ -920,8 +873,7 @@
       "armory",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/rBiggerArmoryImages_v1.1.0.zip",
-    "id": "rBiggerArmoryImages"
+    "url": "http://pamods.github.io/user_mods/rBiggerArmoryImages_v1.1.0.zip"
   },
   {
     "context": "client",
@@ -936,8 +888,7 @@
     "category": [
       "framework"
     ],
-    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.4.1.zip",
-    "id": "rBlueprintInfoFramework"
+    "url": "http://pamods.github.io/user_mods/rBlueprintInfoFramework_v1.4.1.zip"
   },
   {
     "context": "client",
@@ -958,8 +909,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/ComHUDIcon.png",
-    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-2.zip",
-    "id": "rCommanderHP"
+    "url": "http://pamods.github.io/user_mods/rCommanderHP_v3-2.zip"
   },
   {
     "context": "client",
@@ -978,8 +928,7 @@
       "framework",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/rFloatFrame_v1.2.3.zip",
-    "id": "rFloatFrame"
+    "url": "http://pamods.github.io/user_mods/rFloatFrame_v1.2.3.zip"
   },
   {
     "context": "client",
@@ -1014,8 +963,7 @@
       "reference",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.2.0.zip",
-    "id": "rUnitDatabase"
+    "url": "http://pamods.github.io/user_mods/rUnitDatabase_v1.2.0.zip"
   },
   {
     "context": "client",
@@ -1030,8 +978,7 @@
     "category": [
       "in-game"
     ],
-    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip",
-    "id": "teamBuildColor"
+    "url": "http://pamods.github.io/user_mods/teamBuildColor_v1.1.0.zip"
   },
   {
     "context": "client",
@@ -1047,8 +994,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/sTeamNotes_v0.2.1.zip",
-    "id": "sTeamNotes"
+    "url": "http://pamods.github.io/user_mods/sTeamNotes_v0.2.1.zip"
   },
   {
     "context": "client",
@@ -1065,8 +1011,7 @@
       "ui"
     ],
     "icon": "http://i.imgur.com/CNCmW28.jpg",
-    "url": "http://pamods.github.io/user_mods/cheeseDevStage_v0.1.zip",
-    "id": "cheeseDevStage"
+    "url": "http://pamods.github.io/user_mods/cheeseDevStage_v0.1.zip"
   },
   {
     "context": "client",
@@ -1084,8 +1029,7 @@
       "uberbar"
     ],
     "icon": "http://i.imgur.com/J9MG5mX.png",
-    "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.2.zip",
-    "id": "inGameBrowser"
+    "url": "http://pamods.github.io/user_mods/inGameBrowser_v2.0.2.zip"
   },
   {
     "context": "client",
@@ -1102,8 +1046,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/stuffoverview-v1.0.0.zip",
-    "id": "stuffoverview"
+    "url": "http://pamods.github.io/user_mods/stuffoverview-v1.0.0.zip"
   },
   {
     "context": "client",
@@ -1119,8 +1062,7 @@
       "Commander"
     ],
     "icon": "http://pamods.github.io/icons/ableprogenitor.png",
-    "url": "http://pamods.github.io/user_mods/ableprogenitor_v1.0.zip",
-    "id": "ableprogenitor"
+    "url": "http://pamods.github.io/user_mods/ableprogenitor_v1.0.zip"
   },
   {
     "context": "client",
@@ -1137,8 +1079,7 @@
       "Energy Plant"
     ],
     "icon": "http://pamods.github.io/icons/alphaenergy.jpg",
-    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.3.zip",
-    "id": "alphaenergy"
+    "url": "http://pamods.github.io/user_mods/alphaenergy_v1.3.zip"
   },
   {
     "context": "client",
@@ -1157,8 +1098,7 @@
       "Tropical"
     ],
     "icon": "http://pamods.github.io/icons/jungletropical.jpg",
-    "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip",
-    "id": "jungletropical"
+    "url": "http://pamods.github.io/user_mods/jungletropical_v1.0.zip"
   },
   {
     "context": "client",
@@ -1176,8 +1116,7 @@
       "Metal"
     ],
     "icon": "http://pamods.github.io/icons/metalbackground.jpg",
-    "url": "http://pamods.github.io/user_mods/metalbackground_v1.1.zip",
-    "id": "metalbackground"
+    "url": "http://pamods.github.io/user_mods/metalbackground_v1.1.zip"
   },
   {
     "context": "client",
@@ -1192,8 +1131,7 @@
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/CustomSkybox_v1.2.zip",
-    "id": "CustomSkybox"
+    "url": "http://pamods.github.io/user_mods/CustomSkybox_v1.2.zip"
   },
   {
     "context": "client",
@@ -1208,8 +1146,7 @@
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/HideFogOfWar_v1.0.zip",
-    "id": "HideFogOfWar"
+    "url": "http://pamods.github.io/user_mods/HideFogOfWar_v1.0.zip"
   },
   {
     "context": "client",
@@ -1224,8 +1161,7 @@
     "category": [
       "In-game"
     ],
-    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip",
-    "id": "SpacedOutDefenceTowers"
+    "url": "http://pamods.github.io/user_mods/SpacedOutDefenceTowers_v1.11.zip"
   },
   {
     "context": "client",
@@ -1247,8 +1183,7 @@
       "strategic icons"
     ],
     "icon": "http://pamods.github.io/icons/supcom.png",
-    "url": "http://pamods.github.io/user_mods/FAFiconsv13.zip",
-    "id": "FAFicons"
+    "url": "http://pamods.github.io/user_mods/FAFiconsv13.zip"
   },
   {
     "context": "client",
@@ -1269,8 +1204,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/SCicons.png",
-    "url": "http://pamods.github.io/user_mods/SCicons_v10.zip",
-    "id": "SCicons"
+    "url": "http://pamods.github.io/user_mods/SCicons_v10.zip"
   },
   {
     "context": "client",
@@ -1290,8 +1224,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/eco_manager.png",
-    "url": "http://pamods.github.io/user_mods/eco_manager_v1.2.zip",
-    "id": "eco_manager"
+    "url": "http://pamods.github.io/user_mods/eco_manager_v1.2.zip"
   },
   {
     "context": "client",
@@ -1326,8 +1259,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/tAnnoyMe_v1.2.zip",
-    "id": "tAnnoyMe"
+    "url": "http://pamods.github.io/user_mods/tAnnoyMe_v1.2.zip"
   },
   {
     "context": "client",
@@ -1344,8 +1276,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tAutoFactory.png",
-    "url": "https://github.com/trialq/tAutoFactory/archive/43120c347c0364ad9c26ccb7235bd8fbc582b685.zip",
-    "id": "tAutoFactory"
+    "url": "https://github.com/trialq/tAutoFactory/archive/43120c347c0364ad9c26ccb7235bd8fbc582b685.zip"
   },
   {
     "context": "client",
@@ -1365,8 +1296,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tBuildingWriter.png",
-    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.2.zip",
-    "id": "tBuildingWriter"
+    "url": "http://pamods.github.io/user_mods/tBuildingWriter_v1.2.zip"
   },
   {
     "context": "client",
@@ -1383,8 +1313,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tCustomBuildBar.png",
-    "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.2.zip",
-    "id": "tCustomBuildBar"
+    "url": "http://pamods.github.io/user_mods/tCustomBuildBar_v0.2.zip"
   },
   {
     "context": "client",
@@ -1401,8 +1330,7 @@
       "main-menu"
     ],
     "icon": "http://pamods.github.io/icons/tDidYouKnow.png",
-    "url": "http://pamods.github.io/user_mods/tDidYouKnow_v0.1.1.zip",
-    "id": "tDidYouKnow"
+    "url": "http://pamods.github.io/user_mods/tDidYouKnow_v0.1.1.zip"
   },
   {
     "context": "client",
@@ -1421,8 +1349,7 @@
       "commander"
     ],
     "icon": "http://pamods.github.io/icons/tDoxCommMode.png",
-    "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip",
-    "id": "tDoxCommMode"
+    "url": "http://pamods.github.io/user_mods/tDoxCommMode_v1.1.zip"
   },
   {
     "context": "client",
@@ -1439,8 +1366,7 @@
       "galactic-war"
     ],
     "icon": "http://pamods.github.io/icons/tGWDeck.png",
-    "url": "http://pamods.github.io/user_mods/tGWDeck_v1.4.zip",
-    "id": "tGWDeck"
+    "url": "http://pamods.github.io/user_mods/tGWDeck_v1.4.zip"
   },
   {
     "context": "client",
@@ -1457,8 +1383,7 @@
       "galactic-war"
     ],
     "icon": "http://pamods.github.io/icons/tGWLoadout.png",
-    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.2.zip",
-    "id": "tGWLoadout"
+    "url": "http://pamods.github.io/user_mods/tGWLoadout_v1.2.zip"
   },
   {
     "context": "client",
@@ -1475,8 +1400,7 @@
       "hotfix"
     ],
     "icon": "http://pamods.github.io/icons/tGWSpeedHotfix.png",
-    "url": "http://pamods.github.io/user_mods/tGWSpeedHotfix_v1.0.zip",
-    "id": "tGWSpeedHotfix"
+    "url": "http://pamods.github.io/user_mods/tGWSpeedHotfix_v1.0.zip"
   },
   {
     "context": "client",
@@ -1493,8 +1417,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tHideUberBar.png",
-    "url": "http://pamods.github.io/user_mods/tHideUberBar_v1.0.zip",
-    "id": "tHideUberBar"
+    "url": "http://pamods.github.io/user_mods/tHideUberBar_v1.0.zip"
   },
   {
     "context": "client",
@@ -1525,8 +1448,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/tSystemEditorFix.png",
-    "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip",
-    "id": "tSystemEditorFix"
+    "url": "http://pamods.github.io/user_mods/tSystemEditorFix_v1.0.1.zip"
   },
   {
     "context": "client",
@@ -1544,8 +1466,7 @@
       "in-game"
     ],
     "icon": "https://dl.dropboxusercontent.com/u/22720750/df.jpg",
-    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip",
-    "id": "VipezTrees"
+    "url": "http://pamods.github.io/user_mods/VipezTrees_v3.zip"
   },
   {
     "context": "client",
@@ -1565,8 +1486,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/wEconomyGraph.png",
-    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.3.zip",
-    "id": "wEconomyGraph"
+    "url": "http://pamods.github.io/user_mods/wEconomyGraph_v0.1.3.zip"
   },
   {
     "context": "client",
@@ -1583,8 +1503,7 @@
       "ui"
     ],
     "icon": "",
-    "url": "http://pamods.github.io/user_mods/wModPing_v0.1.0.zip",
-    "id": "wModPing"
+    "url": "http://pamods.github.io/user_mods/wModPing_v0.1.0.zip"
   },
   {
     "context": "client",
@@ -1601,8 +1520,7 @@
       "ui"
     ],
     "icon": "",
-    "url": "http://pamods.github.io/user_mods/wScriptSource_v.0.1.0.zip",
-    "id": "wScriptSource"
+    "url": "http://pamods.github.io/user_mods/wScriptSource_v.0.1.0.zip"
   },
   {
     "context": "client",
@@ -1620,8 +1538,7 @@
       "strategic icons"
     ],
     "icon": "http://pamods.github.io/icons/pixelicons.png",
-    "url": "http://pamods.github.io/user_mods/PixelIcons_v4.0.zip",
-    "id": "PixelIcons"
+    "url": "http://pamods.github.io/user_mods/PixelIcons_v4.0.zip"
   },
   {
     "context": "client",
@@ -1694,8 +1611,7 @@
     "category": [
       "in-game"
     ],
-    "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip",
-    "id": "TeamLatheColor"
+    "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip"
   },
   {
     "context": "client",
@@ -1712,8 +1628,7 @@
       "shader"
     ],
     "icon": "http://pamods.github.io/icons/UberCannon.gif",
-    "url": "http://pamods.github.io/user_mods/TeamUberCannonColor_v1.0.2.zip",
-    "id": "TeamUberCannonColor"
+    "url": "http://pamods.github.io/user_mods/TeamUberCannonColor_v1.0.2.zip"
   },
   {
     "context": "client",
@@ -1730,8 +1645,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/locate_commander.png",
-    "url": "http://pamods.github.io/user_mods/locate_commander_v1.0.1.zip",
-    "id": "locate_commander"
+    "url": "http://pamods.github.io/user_mods/locate_commander_v1.0.1.zip"
   },
   {
     "context": "client",
@@ -1747,8 +1661,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/acceptance_v1.0.2.zip",
-    "id": "acceptance"
+    "url": "http://pamods.github.io/user_mods/acceptance_v1.0.2.zip"
   },
   {
     "context": "client",
@@ -1945,8 +1858,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/sandbox_unit_toolbox_v1.0.zip",
-    "id": "sandbox_unit_toolbox"
+    "url": "http://pamods.github.io/user_mods/sandbox_unit_toolbox_v1.0.zip"
   },
   {
     "context": "client",
@@ -2011,8 +1923,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/version_warning_once_v1.0.zip",
-    "id": "version_warning_once"
+    "url": "http://pamods.github.io/user_mods/version_warning_once_v1.0.zip"
   },
   {
     "context": "client",
@@ -2028,8 +1939,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/yellow_synchronous_v1.0.zip",
-    "id": "yellow_synchronous"
+    "url": "http://pamods.github.io/user_mods/yellow_synchronous_v1.0.zip"
   },
   {
     "context": "client",
@@ -2045,8 +1955,7 @@
       "Bugfix"
     ],
     "icon": "http://pamods.github.io/icons/dinosaurfix.png",
-    "url": "http://pamods.github.io/user_mods/dinosaurfix_v1.0.zip",
-    "id": "dinosaurfix"
+    "url": "http://pamods.github.io/user_mods/dinosaurfix_v1.0.zip"
   },
   {
     "context": "client",
@@ -2076,8 +1985,7 @@
       "uberbar",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/b8e78dd366f7add81e31264d8781efa6b3ffb0cb.zip",
-    "id": "mereth.replay"
+    "url": "https://github.com/mereth/pa-mods/archive/b8e78dd366f7add81e31264d8781efa6b3ffb0cb.zip"
   },
   {
     "context": "client",
@@ -2139,8 +2047,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/EcoEff.png",
-    "url": "http://pamods.github.io/user_mods/EcoEffv3.zip",
-    "id": "EcoEffv3"
+    "url": "http://pamods.github.io/user_mods/EcoEffv3.zip"
   },
   {
     "context": "client",
@@ -2155,8 +2062,7 @@
     "category": [
       "Framework"
     ],
-    "url": "http://pamods.github.io/user_mods/alertsManager_v1.3.2.zip",
-    "id": "alertsManager"
+    "url": "http://pamods.github.io/user_mods/alertsManager_v1.3.2.zip"
   },
   {
     "context": "client",
@@ -2171,8 +2077,7 @@
     "category": [
       "Bugfix"
     ],
-    "url": "http://pamods.github.io/user_mods/kodef_v3.zip",
-    "id": "kodef"
+    "url": "http://pamods.github.io/user_mods/kodef_v3.zip"
   },
   {
     "context": "client",
@@ -2187,8 +2092,7 @@
     "category": [
       "Framework"
     ],
-    "url": "http://pamods.github.io/user_mods/nScreens_v1.1.zip",
-    "id": "nScreens"
+    "url": "http://pamods.github.io/user_mods/nScreens_v1.1.zip"
   },
   {
     "context": "client",
@@ -2205,8 +2109,7 @@
       "ui"
     ],
     "icon": "http://ns393951.ip-176-31-115.eu/mod/icon.png",
-    "url": "http://pamods.github.io/user_mods/pa_stats_online.zip",
-    "id": "pa_stats_online"
+    "url": "http://pamods.github.io/user_mods/pa_stats_online.zip"
   },
   {
     "context": "client",
@@ -2222,8 +2125,7 @@
       "in-game",
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/scale-ui_v1.2.zip",
-    "id": "scale-ui"
+    "url": "http://pamods.github.io/user_mods/scale-ui_v1.2.zip"
   },
   {
     "context": "client",
@@ -2238,8 +2140,7 @@
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/powReturnToServerBrowser_v1.zip",
-    "id": "powReturnToServerBrowser"
+    "url": "http://pamods.github.io/user_mods/powReturnToServerBrowser_v1.zip"
   },
   {
     "context": "client",
@@ -2254,8 +2155,7 @@
     "category": [
       "ui"
     ],
-    "url": "http://pamods.github.io/user_mods/powTwitchOnStart_v3.zip",
-    "id": "powTwitchOnStart"
+    "url": "http://pamods.github.io/user_mods/powTwitchOnStart_v3.zip"
   },
   {
     "context": "client",
@@ -2272,8 +2172,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/BuildPower.png",
-    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.2.zip",
-    "id": "BuildPower"
+    "url": "http://pamods.github.io/user_mods/BuildPower_v1.1.2.zip"
   },
   {
     "context": "client",
@@ -2293,8 +2192,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/PAMentor.png",
-    "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip",
-    "id": "PAMentor"
+    "url": "http://pamods.github.io/user_mods/PAMentor_v0.4.2.zip"
   },
   {
     "context": "client",
@@ -2311,8 +2209,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/SpectatorVision.png",
-    "url": "http://pamods.github.io/user_mods/SpectatorVision_v1.0.0.zip",
-    "id": "SpectatorVision"
+    "url": "http://pamods.github.io/user_mods/SpectatorVision_v1.0.0.zip"
   },
   {
     "context": "client",
@@ -2329,8 +2226,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/sirHighlightedBuildings.png",
-    "url": "http://pamods.github.io/user_mods/sirHighlightedBuildings_v1.1.zip",
-    "id": "sirHighlightedBuildings"
+    "url": "http://pamods.github.io/user_mods/sirHighlightedBuildings_v1.1.zip"
   },
   {
     "context": "client",
@@ -2350,8 +2246,7 @@
       "automatic"
     ],
     "icon": "http://pamods.github.io/icons/favComColor.png",
-    "url": "http://pamods.github.io/user_mods/favCommander_v1.0.1.zip",
-    "id": "favCommander"
+    "url": "http://pamods.github.io/user_mods/favCommander_v1.0.1.zip"
   },
   {
     "context": "client",
@@ -2374,8 +2269,7 @@
       "aoe"
     ],
     "icon": "http://pamods.github.io/icons/tauntMod.png",
-    "url": "http://pamods.github.io/user_mods/tauntMod_v1.1.0.zip",
-    "id": "tauntMod"
+    "url": "http://pamods.github.io/user_mods/tauntMod_v1.1.0.zip"
   },
   {
     "context": "server",
@@ -2407,8 +2301,7 @@
       "server-mod"
     ],
     "icon": "http://pamods.github.io/icons/bBoomBotWars.png",
-    "url": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/bBoomBotWars/bBoomBotWars_v1.3.zip",
-    "id": "bBoomBotWars"
+    "url": "https://dl.dropboxusercontent.com/u/28565393/Planetary%20Annihilation/Mods/bBoomBotWars/bBoomBotWars_v1.3.zip"
   },
   {
     "context": "server",
