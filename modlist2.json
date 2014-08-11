@@ -1961,16 +1961,16 @@
     "context": "client",
     "identifier": "fr.mereth.pa.allgames",
     "author": "mereth",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "display_name": "Show All Games",
     "description": "Filter both non-modded and modded games by default. Also add colors to the modded column.",
-    "build": "69564",
-    "date": "2014/07/26",
+    "build": "70289",
+    "date": "2014/08/11",
     "category": [
       "lobby",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/7671bf05b8868b1e307d660b58108312432a58ea.zip"
+    "url": "https://github.com/mereth/pa-mods/archive/0c8f7bf258c72a29b5d53ba1b0103078c2760df9.zip"
   },
   {
     "context": "client",
@@ -1991,16 +1991,16 @@
     "context": "client",
     "identifier": "fr.mereth.pa.savefilters",
     "author": "mereth",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "display_name": "Save Server Browser Filters",
     "description": "You don't like the default filters in the server browser ? This mod will automatically save your selection.",
-    "build": "69721",
-    "date": "2014/07/31",
+    "build": "70289",
+    "date": "2014/08/11",
     "category": [
       "lobby",
       "ui"
     ],
-    "url": "https://github.com/mereth/pa-mods/archive/9d3fb4436476a36833eebefd6070a1e2e4adbcf6.zip"
+    "url": "https://github.com/mereth/pa-mods/archive/750598eec4b4091427faf1829b2415eb1fc8952f.zip"
   },
   {
     "context": "client",
