@@ -2034,6 +2034,23 @@
   },
   {
     "context": "client",
+    "identifier": "fr.pa.fr33lancer.TeamCommExplosionColor",
+    "author": "Fr33lancer",
+    "version": "1.0.0",
+    "display_name": "Team Commander Explosion Color",
+    "description": "Changes the Commander Explosion Effects to your Team Color instead of blue",
+    "build": "70289",
+    "date": "2014/08/10",
+    "forum": "https://forums.uberent.com/threads/rel-team-commander-explosion-color-70289.62819/",
+    "category": [
+      "in-game",
+      "shader"
+    ],
+    "icon": "http://pamods.github.io/icons/CommBoom.gif",
+    "url": "http://pamods.github.io/user_mods/TeamCommExplosionColor_V1.0.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "info.nanodesu.EcoEffv2",
     "author": "Stan_petit_cul",
     "version": "3.0",
