@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "context": "client",
     "identifier": "com.aevns.acliffplanets",
@@ -1585,6 +1585,21 @@
   },
   {
     "context": "client",
+    "identifier": "com.uberent.pa.mods.stockmods.client.NavalReduxIcons",
+    "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
+    "version": "1.21",
+    "display_name": "NavalReduxIcons",
+    "description": "Adds Icons for New Units in NavalRedux.",
+    "build": "70289",
+    "date": "2014/8/10",
+    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
+    "category": [
+      "Strategic Icons"
+    ],
+    "url": "http://pamods.github.io/user_mods/NavalReduxIcons.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.stuart98.stateraicons",
     "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
     "version": "0.8.1",
@@ -2410,6 +2425,18 @@
     "date": "2014/08/03",
     "forum": "https://forums.uberent.com/threads/60342/",
     "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.8.1.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.uberent.pa.mods.stockmods.server.NavalRedux",
+    "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
+    "version": "1.12",
+    "display_name": "NavalRedux",
+    "description": "Complete Rebalance And Expansion to Naval as First Class Citizen.",
+    "date": "2014/08/10",
+    "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
+    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
+    "url": "https://github.com/TrophySystem/NavalRedux/blob/master/NavalRedux.zip"
   },
   {
     "context": "server",
