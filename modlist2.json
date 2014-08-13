@@ -1581,11 +1581,7 @@
       "Galactic War",
       "Balance"
     ],
-<<<<<<< HEAD
     "url": "http://pamods.github.io/user_mods/StateraGW_v0.8.2.zip"
-=======
-    "url": "http://pamods.github.io/user_mods/StateraGW_v0.8.1.zip"
->>>>>>> origin/master
   },
   {
     "context": "client",
@@ -2442,11 +2438,7 @@
     "description": "A balance mod with the goal of increasing unit diversity and making T2 units comparable to T1 in power.",
     "date": "2014/08/13",
     "forum": "https://forums.uberent.com/threads/60342/",
-<<<<<<< HEAD
     "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.8.2.zip"
-=======
-    "url": "https://github.com/Stuart1998/Statera/raw/master/REL/Statera_v0.8.1.zip"
->>>>>>> origin/master
   },
   {
     "context": "server",
@@ -2463,7 +2455,6 @@
   },
   {
     "context": "server",
-<<<<<<< HEAD
     "identifier": "com.trophysystem.NavalRedux",
     "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
     "version": "1.12",
@@ -2473,21 +2464,6 @@
     "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
     "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
     "url": "https://github.com/TrophySystem/NavalRedux/raw/master/NavalRedux.zip"
-=======
-    "identifier": "com.uberent.pa.mods.stockmods.server.NavalRedux",
-    "author": "Stuart98, SquishyPon3, TrophySystem, zx0, ZombieFan564",
-    "version": "1.12",
-    "display_name": "NavalRedux",
-    "description": "Complete Rebalance And Expansion to Naval as First Class Citizen.",
-    "dependencies": [
-      "com.uberent.pa.mods.stockmods.client.NavalReduxIcons"
-    ],
-    "build": "70289",
-    "date": "2014/8/10",
-    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
-    "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
-    "url": "https://github.com/TrophySystem/NavalRedux/archive/f8adfc2f24a65128a7507f8930a2248a11a8adf8.zip"
->>>>>>> origin/master
   },
   {
     "context": "server",
