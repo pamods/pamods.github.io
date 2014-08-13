@@ -56,10 +56,10 @@
     "build": "62443",
     "date": "2014/03/06",
     "display_name_de": "Lieblingsfarbe",
-    "display_name_fr": "Couleur préférée",
+    "display_name_fr": "Couleur prÃ©fÃ©rÃ©e",
     "display_name_nl": "Lievelingskleur",
-    "description_de": "Wählt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
-    "description_fr": "Choisit automatiquement votre couleur préférée dans le foyer.",
+    "description_de": "WÃ¤hlt automatisch Ihre Lieblingsfarbe in der Lobby aus.",
+    "description_fr": "Choisit automatiquement votre couleur prÃ©fÃ©rÃ©e dans le foyer.",
     "description_nl": "Kiest automatisch uw favoriete kleur in de lobby.",
     "forum": "https://forums.uberent.com/threads/rel-favourite-colour-v1-2.55782/",
     "category": [
@@ -84,8 +84,8 @@
     "display_name_de": "Notizen",
     "display_name_fr": "Notes",
     "display_name_nl": "Notities",
-    "description_de": "Führen Sie Notizen über die andere Spieler für zukünftige Verwendung.",
-    "description_fr": "Enregistrer des notes à propos des autres joueurs pour utiliser en futur.",
+    "description_de": "FÃ¼hren Sie Notizen Ã¼ber die andere Spieler fÃ¼r zukÃ¼nftige Verwendung.",
+    "description_fr": "Enregistrer des notes Ã  propos des autres joueurs pour utiliser en futur.",
     "description_nl": "Houd notities over spelers bij voor toekomstig gebruik.",
     "forum": "https://forums.uberent.com/threads/rel-notes-v1-0.55281/",
     "category": [
@@ -107,7 +107,7 @@
     "display_name_fr": "Joueur dans le navigateur serveur",
     "display_name_nl": "Spelers in de serverbrowser",
     "description_de": "Zeigt Ihnen welche Spieler teilnehmen an einem Spiel aus dem Serverbrowser ohne im Lobby selbst zu gehen.",
-    "description_fr": "Montrer quels joueurs participer à un jeu dans le navigateur serveur sans entrer le foyer.",
+    "description_fr": "Montrer quels joueurs participer Ã  un jeu dans le navigateur serveur sans entrer le foyer.",
     "description_nl": "Laat zien welke spelers deelnemen aan een spel vanuit de server browser zonder de lobby zelf in te gaan.",
     "forum": "https://forums.uberent.com/threads/rel-players-in-server-browser-62519.57664/",
     "category": [
@@ -129,7 +129,7 @@
     "display_name_fr": "Montrer Offline",
     "display_name_nl": "Offline tonen",
     "description_de": "Zeigen Sie den off-line Status der Mitspieler.",
-    "description_fr": "Afficher l'état off-line des conjoueurs.",
+    "description_fr": "Afficher l'Ã©tat off-line des conjoueurs.",
     "description_nl": "Toont de off-line status van de medespelers.",
     "forum": "https://forums.uberent.com/threads/wip-show-offline-status-63234.58278/",
     "category": [
@@ -1585,21 +1585,6 @@
   },
   {
     "context": "client",
-    "identifier": "com.trophysystem.NavalReduxIcons",
-    "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
-    "version": "1.21",
-    "display_name": "NavalReduxIcons",
-    "description": "Adds Icons for New Units in NavalRedux.",
-    "build": "70289",
-    "date": "2014/8/10",
-    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
-    "category": [
-      "Strategic Icons"
-    ],
-    "url": "http://pamods.github.io/user_mods/NavalReduxIcons.zip"
-  },
-  {
-    "context": "client",
     "identifier": "com.stuart98.stateraicons",
     "author": "Stuart98, SquishyPon3, ZX0, Zombiefan564, TheTrophySystem",
     "version": "0.8.1",
@@ -1644,6 +1629,19 @@
     ],
     "icon": "http://pamods.github.io/icons/UberCannon.gif",
     "url": "http://pamods.github.io/user_mods/TeamUberCannonColor_v1.0.2.zip"
+  },
+  {
+    "context": "client",
+    "identifier": "com.uberent.pa.mods.stockmods.client.NavalReduxIcons",
+    "author": "Stuart98, SquishyPon3, TheTrophySystem, zx0, Zombiefan564",
+    "version": "1.21",
+    "display_name": "NavalReduxIcons",
+    "description": "Adds Icons for Units in NavalRedux.",
+    "build": "70289",
+    "date": "2014/8/10",
+    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
+    "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
+    "url": "http://pamods.github.io/user_mods/NavalReduxIcons.zip"
   },
   {
     "context": "client",
@@ -2428,18 +2426,6 @@
   },
   {
     "context": "server",
-    "identifier": "com.trophysystem.NavalRedux",
-    "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
-    "version": "1.12",
-    "display_name": "NavalRedux",
-    "description": "Complete Rebalance And Expansion to Naval as First Class Citizen.",
-    "date": "2014/08/10",
-    "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
-    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
-    "url": "https://github.com/TrophySystem/NavalRedux/raw/master/NavalRedux.zip"
-  },
-  {
-    "context": "server",
     "identifier": "com.stuart98.server.desertrevamp",
     "author": "Stuart98",
     "version": "0.0.1",
@@ -2450,6 +2436,22 @@
       "server-mod"
     ],
     "url": "http://pamods.github.io/server_mods/desertrevampserver_v0.0.1.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.uberent.pa.mods.stockmods.server.NavalRedux",
+    "author": "Stuart98, SquishyPon3, TrophySystem, zx0, ZombieFan564",
+    "version": "1.12",
+    "display_name": "NavalRedux",
+    "description": "Complete Rebalance And Expansion to Naval as First Class Citizen.",
+    "dependencies": [
+      "com.uberent.pa.mods.stockmods.client.NavalReduxIcons"
+    ],
+    "build": "70289",
+    "date": "2014/8/10",
+    "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
+    "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
+    "url": "https://github.com/TrophySystem/NavalRedux/archive/f8adfc2f24a65128a7507f8930a2248a11a8adf8.zip"
   },
   {
     "context": "server",
