@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "context": "client",
     "identifier": "com.aevns.acliffplanets",
@@ -2455,12 +2455,16 @@
   },
   {
     "context": "server",
-    "identifier": "com.trophysystem.NavalRedux",
-    "author": "Squishypon3, Stuart98, TheTrophySystem, Zombiefan564, ZX0",
+    "identifier": "com.uberent.pa.mods.stockmods.server.NavalRedux",
+    "author": "Stuart98, SquishyPon3, TrophySystem, zx0, ZombieFan564",
     "version": "1.12",
     "display_name": "NavalRedux",
     "description": "Complete Rebalance And Expansion to Naval as First Class Citizen.",
-    "date": "2014/08/10",
+    "dependencies": [
+      "com.uberent.pa.mods.stockmods.client.NavalReduxIcons"
+    ],
+    "build": "70289",
+    "date": "2014/8/10",
     "forum": "https://forums.uberent.com/threads/rel-server-navalredux-1-2.60768/",
     "icon": "http://pamods.github.io/icons/NavalReduxIcon.png",
     "url": "https://www.dropbox.com/s/m8uzea2zw7wyjhd/NavalRedux.zip"
