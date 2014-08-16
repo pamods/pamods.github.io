@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "context": "client",
     "identifier": "com.aevns.acliffplanets",
@@ -2454,7 +2454,7 @@
     "context": "server",
     "identifier": "com.uberent.pa.mods.stockmods.server.NavalRedux",
     "author": "Stuart98, SquishyPon3, TrophySystem, zx0, ZombieFan564",
-    "version": "1.12",
+    "version": "1.14",
     "display_name": "NavalRedux",
     "description": "Complete Rebalance And Expansion to Naval as First Class Citizen.",
     "dependencies": [
