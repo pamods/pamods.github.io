@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "context": "client",
     "identifier": "com.aevns.acliffplanets",
@@ -1802,6 +1802,22 @@
       "ui"
     ],
     "url": "https://github.com/JustinLove/lightweight_menus/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
+    "identifier": "com.wondible.pa.metal_boss_biome",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "Damaged Metal Biome",
+    "description": "Enable the special damaged metal_boss biome from the GW Sychronous.",
+    "build": "70289",
+    "date": "2014/08/16",
+    "forum": "https://forums.uberent.com/threads/wip-pte-damaged-metal-biome-metal_boss-69994-main.62631/",
+    "category": [
+      "system-editor",
+      "ui"
+    ],
+    "url": "https://github.com/JustinLove/metal_boss_biome/archive/v1.0.zip"
   },
   {
     "context": "client",
