@@ -1920,6 +1920,23 @@
   },
   {
     "context": "client",
+    "identifier": "com.wondible.pa.system_editor_reset",
+    "author": "wondible",
+    "version": "1.0.0",
+    "display_name": "System Editor Reset",
+    "description": "Reload key in system editor reloads biome files, and will immediately preview the current planet.",
+    "build": "70289",
+    "date": "2014/08/24",
+    "forum": "https://forums.uberent.com/threads/rel-system-editor-reset.63165/",
+    "category": [
+      "system-editor",
+      "ui",
+      "modding"
+    ],
+    "url": "https://github.com/JustinLove/system_editor_reset/archive/v1.0.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.wondible.pa.two_color_icons",
     "author": "wondible",
     "version": "1.2.0",
