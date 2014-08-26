@@ -1741,21 +1741,6 @@
   },
   {
     "context": "client",
-    "identifier": "com.wondible.pa.hotkeyfix_shift",
-    "author": "wondible",
-    "version": "1.1.0",
-    "display_name": "Hotkeyfix Shift",
-    "description": "Allow you to hold shift while using build and other hotkeys.",
-    "build": "69721",
-    "date": "2014/08/08",
-    "forum": "https://forums.uberent.com/threads/rel-hotkeyfix-shift-69170-69564.62373/",
-    "category": [
-      "hotfix"
-    ],
-    "url": "https://github.com/JustinLove/hotkeyfix_shift/archive/v1.1.zip"
-  },
-  {
-    "context": "client",
     "identifier": "com.wondible.pa.improved_player_control",
     "author": "wondible",
     "version": "1.0.0",
