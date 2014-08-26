@@ -1891,17 +1891,17 @@
     "context": "client",
     "identifier": "com.wondible.pa.surface_area",
     "author": "wondible",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "display_name": "Surface Area",
     "description": "Show the estimated surface area in the sytem editor",
-    "build": "69721",
-    "date": "2014/08/06",
+    "build": "70289",
+    "date": "2014/08/26",
     "forum": "https://forums.uberent.com/threads/rel-surface-area.62643/",
     "category": [
       "system-editor",
       "ui"
     ],
-    "url": "https://github.com/JustinLove/surface_area/archive/v1.1.zip"
+    "url": "https://github.com/JustinLove/surface_area/archive/v1.2.zip"
   },
   {
     "context": "client",
