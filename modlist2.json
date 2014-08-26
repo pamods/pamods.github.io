@@ -2506,5 +2506,16 @@
     "date": "2014/06/06",
     "forum": "https://forums.uberent.com/threads/60312/",
     "url": "https://github.com/pamods/servermod-murderparty/archive/be866e556bd2368937708dcf5a921fc8c8dea8bf.zip"
+  },
+  {
+    "context": "server",
+    "identifier": "com.nixtempestas.antipopcorn",
+    "author": "nixtempestas",
+    "version": "1.0",
+    "display_name": "Anti-Popcorn Units",
+    "description": "Simple mod that doubles health of units and damage of defenses",
+    "date": "2014/08/26",
+    "forum": "https://forums.uberent.com/threads/rel-anti-popcorn-units.63209/",
+    "url": "https://github.com/lrolleman/anti-popcorn-pamm/archive/master.zip"
   }
 ]
