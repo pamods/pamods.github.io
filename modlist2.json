@@ -2511,11 +2511,11 @@
     "context": "server",
     "identifier": "com.nixtempestas.antipopcorn",
     "author": "nixtempestas",
-    "version": "1.0",
+    "version": "1.1",
     "display_name": "Anti-Popcorn Units",
-    "description": "Simple mod that doubles health of units and damage of defenses",
+    "description": "Simple balance mod to increase battle longevity",
     "date": "2014/08/26",
     "forum": "https://forums.uberent.com/threads/rel-anti-popcorn-units.63209/",
-    "url": "https://github.com/lrolleman/anti-popcorn-pamm/archive/master.zip"
+    "url": "https://github.com/lrolleman/anti-popcorn-pamm/archive/v1.1.zip"
   }
 ]
