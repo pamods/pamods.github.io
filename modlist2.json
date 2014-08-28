@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "context": "client",
     "identifier": "com.aevns.acliffplanets",
@@ -1609,6 +1609,21 @@
       "in-game"
     ],
     "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip"
+  },
+  {
+    "context": "client",
+    "identifier": "com.uberent.pa.mods.client.ClassicColors",
+    "author": "TrophySystem",
+    "version": "1.0.0",
+    "display_name": "ClassicColors",
+    "description": "Default in-game colors are team colored, this changes all to original colors.",
+    "build": "71378",
+    "date": "2014/8/28",
+    "forum": "https://forums.uberent.com/threads/rel-classiccolors.63284/",
+    "category": [
+      "in-game"
+    ],
+    "url": "http://pamods.github.io/user_mods/ClassicColors.zip"
   },
   {
     "context": "client",
