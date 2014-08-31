@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "context": "client",
     "identifier": "com.aevns.acliffplanets",
@@ -773,14 +773,14 @@
     "context": "client",
     "identifier": "com.pa.proeleert.hotbuild2",
     "author": "proeleert,tripax,cola_colin",
-    "version": "1.26",
+    "version": "1.27",
     "display_name": "Hotbuild2",
     "description": "Map 1 Key to multiple build actions and more... (See forum link for screenshots and instructions.)",
     "dependencies": [
       "com.pa.raevn.rblueprintinfoframework"
     ],
-    "build": "69721",
-    "date": "2014/07/31",
+    "build": "71459",
+    "date": "2014/08/31",
     "description_nl": "Kies een toetsenbordknop om meerdere gebouwen te bouwen en meer... (bekijk forum voor screenshots en instructies.)",
     "forum": "https://forums.uberent.com/threads/rel-hotbuild2-57703.54561/",
     "category": [
@@ -788,7 +788,7 @@
       "ui"
     ],
     "icon": "http://pamods.github.io/icons/hotbuild2.png",
-    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.26.zip"
+    "url": "http://pamods.github.io/user_mods/hotbuild2_v1.27.zip"
   },
   {
     "context": "client",
@@ -1597,6 +1597,18 @@
   },
   {
     "context": "client",
+    "identifier": "com.uberent.pa.mods.client.ClassicColors",
+    "author": "TrophySystem",
+    "version": "1",
+    "display_name": "ClassicColors",
+    "description": "Default in-game colors are team colored, this changes all to original colors.",
+    "build": "71378",
+    "date": "2014/8/28",
+    "forum": "https://forums.uberent.com/threads/rel-classiccolors.63284/",
+    "url": "http://pamods.github.io/user_mods/ClassicColors.zip"
+  },
+  {
+    "context": "client",
     "identifier": "com.uberent.pa.mods.client.teamlathecolor",
     "author": "TrophySystem",
     "version": "1.0.0",
@@ -1609,21 +1621,6 @@
       "in-game"
     ],
     "url": "http://pamods.github.io/user_mods/TeamLatheColor_v1.0.0.zip"
-  },
-  {
-    "context": "client",
-    "identifier": "com.uberent.pa.mods.client.ClassicColors",
-    "author": "TrophySystem",
-    "version": "1.0.0",
-    "display_name": "ClassicColors",
-    "description": "Default in-game colors are team colored, this changes all to original colors.",
-    "build": "71378",
-    "date": "2014/8/28",
-    "forum": "https://forums.uberent.com/threads/rel-classiccolors.63284/",
-    "category": [
-      "in-game"
-    ],
-    "url": "http://pamods.github.io/user_mods/ClassicColors.zip"
   },
   {
     "context": "client",
