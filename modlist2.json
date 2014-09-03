@@ -2347,12 +2347,16 @@
     "context": "server",
     "identifier": "com.nixtempestas.antipopcorn",
     "author": "nixtempestas",
-    "version": "1.1.1",
+    "version": "1.2.1",
     "display_name": "Anti-Popcorn Units",
     "description": "Simple balance mod to increase battle longevity",
     "date": "2014/08/27",
     "forum": "https://forums.uberent.com/threads/rel-anti-popcorn-units.63209/",
-    "url": "https://github.com/lrolleman/anti-popcorn-pamm/archive/v1.1.1.zip"
+"category": [
+      "balance",
+      "server-mod"
+    ],
+    "url": "https://github.com/lrolleman/anti-popcorn-pamm/archive/v1.2.1.zip"
   },
   {
     "context": "server",
