@@ -1,0 +1,1 @@
+We've switched to a new hosting system where only the news file and icons are stored here. Please go to this link for the new instructions: https://forums.uberent.com/threads/guide-getting-your-mod-on-pamm.55189/
